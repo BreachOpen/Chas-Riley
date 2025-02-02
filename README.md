@@ -13,19 +13,19 @@ Through the mentorship of exceptional leaders and the shaping of my methodologie
 ### [Penetration Testing](Projects/Pen-Testing/List.html)
 - [CyberApolis Water Company Breach](Projects/Pen-Testing/Water-Company)
 
-### [Digital Forensics](Projects/Forensics/List)
+### [Digital Forensics](Projects/Forensics/List.html)
 
 
-### [Network Architecture](Projects/Network/List)
+### [Network Architecture](Projects/Network/List.html)
 
 
-### ### [Incident Response Planning and Execution](Projects/IRP/List)
+### ### [Incident Response Planning and Execution](Projects/IRP/List.html)
 
 
-### ### [Scripting and Automation for Threat Mitigation](Projects/Script/List)
+### ### [Scripting and Automation for Threat Mitigation](Projects/Script/List.html)
 
 
-### ### [Social Engineering & Cyber Deception](Projects/Deception/List)
+### ### [Social Engineering & Cyber Deception](Projects/Deception/List.html)
 
 
 
