@@ -1,0 +1,12 @@
+body {
+    background-color: #333; /* Dark grey background */
+    color: #fff; /* White text for contrast */
+}
+
+a {
+    color: #1e90ff; /* Link color, e.g., DodgerBlue */
+}
+
+header, footer {
+    background-color: #222; /* Slightly darker grey for header and footer */
+}
