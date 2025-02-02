@@ -19,13 +19,13 @@ Through the mentorship of exceptional leaders and the shaping of my methodologie
 ### [Network Architecture](Projects/Network/List.html)
 
 
-### ### [Incident Response Planning and Execution](Projects/IRP/List.html)
+### [Incident Response Planning and Execution](Projects/IRP/List.html)
 
 
-### ### [Scripting and Automation for Threat Mitigation](Projects/Script/List.html)
+### [Scripting and Automation for Threat Mitigation](Projects/Script/List.html)
 
 
-### ### [Social Engineering & Cyber Deception](Projects/Deception/List.html)
+### [Social Engineering & Cyber Deception](Projects/Deception/List.html)
 
 
 
