@@ -1,17 +1,11 @@
-# Chas Riley
-<a href="https://linkedin.com/in/chas-riley/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-
-[Brief Introduction - Remove this afterwards]
-
-I am a recent graduate with a profound interest in technology and a dedication to solving complex problems.
+# Introduction
+    Speaking both professionally and personally, I am a morally driven and objective focused person. I hold a deep curiousity and passion for cybersecurity and it usually takes up most of my free time. I believe knowledge, moral character, and mental resilience are what separate us from the bad actors who intend to ruin the lives of everyday individuals. I believe that helping and protecting those who are unable to do so themselves is a fundamental duty. As a father, husband, teammate, or even as a passerby, protective altruism drives me to safeguard those around me.
 
 ## Objective
-[Provide Objective - Remove this afterwards]]
-
+    Through the mentorship of exceptional leaders and the shaping of my methodologies from the insightful subordinates I was privileged to lead, I have developed a growth-focused mindset. I believe that we should always seek to be better than we were the day prior. That our work reflects our character. We should strive to surround ourselves with those who want others to succeed just as much as they themselves want success. For these reasons, I am seeking employment with an organization that prioritizes excellence and societal betterment.
 My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
 
 ## Skills
-[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
