@@ -1,5 +1,5 @@
 logo: assets/img/profilepic.png
-title: Chas Riley <a href="https://www.linkedin.com/in/chas-riley/">
+title: Chas Riley
 description: Cybersecurity Professional
 theme: jekyll-theme-minimal
-logo: <a href="https://linkedin.com/in/chas-riley/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+linkedin_url: https://www.linkedin.com/in/chas-riley/
