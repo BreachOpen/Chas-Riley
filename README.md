@@ -10,8 +10,8 @@ Through the mentorship of exceptional leaders and the shaping of my methodologie
 - Educational Courses
   
 ## Portfolio Projects
-### [Penetration Testing](Projects/Pen-Testing/List)
-- [CyberApolis Water Company Breach](Projects/Pen-Testing/Water-Company.html)
+### [Penetration Testing](Projects/Pen-Testing/List.html)
+- [CyberApolis Water Company Breach](Projects/Pen-Testing/Water-Company)
 
 ### [Digital Forensics](Projects/Forensics/List)
 
