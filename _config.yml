@@ -2,4 +2,6 @@ logo: assets/img/profilepic.png
 title: Chas Riley
 description: Cybersecurity Professional
 theme: jekyll-theme-minimal
+include:
+  - assets/css/custom.css
 linkedin_url: https://www.linkedin.com/in/chas-riley/
