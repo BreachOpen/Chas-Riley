@@ -11,7 +11,7 @@ Through the mentorship of exceptional leaders and the shaping of my methodologie
   
 ## Portfolio Projects
 ### [Penetration Testing](Projects/Pen-Testing/List)
-- [CyberApolis Water Company Breach](Projects/Pen-Testing/Water-Company)
+- [CyberApolis Water Company Breach](Projects/Pen-Testing/Water-Company.html)
 
 ### [Digital Forensics](Projects/Forensics/List)
 
