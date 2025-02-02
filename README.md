@@ -4,19 +4,35 @@ Speaking both professionally and personally, I am a morally driven and objective
 ## Objective
 Through the mentorship of exceptional leaders and the shaping of my methodologies from the insightful subordinates I was privileged to lead, I have developed a growth-focused mindset. I believe that we should always seek to be better than we were the day prior. That our work reflects our character. We should strive to surround ourselves with those who want others to succeed just as much as they themselves want success. For these reasons, I am seeking employment with an organization that prioritizes excellence and societal betterment.
 
-## Skills
+## [Professional Development & Education](Projects/Education)
+- Cyber Operation Degree Coursework 
+- Certifications
+- Educational Courses
+  
+## Portfolio Projects
+### [Penetration Testing](Projects/Pen-Testing/List)
+- [CyberApolis Water Company Breach](Projects/Pen-Testing/Water-Company)
 
-| Skill                                         | Associated Project         |
-|-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
-| Security Automation with Shuffle SOAR         | SOC Automation Lab|
-| Incident Response Planning and Execution      | SOC Automation Lab|
-| Case Management with TheHive                  | SOC Automation Lab|
-| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
+### [Digital Forensics](Projects/Forensics/List)
 
-## Tools
-[Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
+
+### [Network Architecture](Projects/Network/List)
+
+
+### ### [Incident Response Planning and Execution](Projects/IRP/List)
+
+
+### ### [Scripting and Automation for Threat Mitigation](Projects/Script/List)
+
+
+### ### [Social Engineering & Cyber Deception](Projects/Deception/List)
+
+
+
+
+
+KEEP AND REMOVE
+## Certifications
 
 ### Network
 <div>
@@ -38,7 +54,9 @@ Through the mentorship of exceptional leaders and the shaping of my methodologie
     <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
 </div>
 
-## Certifications
+### Tools 
+[Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
+
 [Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
 <div>
 <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
@@ -47,7 +65,3 @@ Through the mentorship of exceptional leaders and the shaping of my methodologie
 <img src="https://img.shields.io/badge/-CDSA-006400?&style=for-the-badge&logoColor=white" />
 <img src="https://img.shields.io/badge/-CCD-000080?&style=for-the-badge&logoColor=white" />
 </div>
-
-## Projects
-- Detection Lab
-- SOC Automation Project
