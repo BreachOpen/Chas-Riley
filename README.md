@@ -4,7 +4,7 @@ Speaking both professionally and personally, I am a morally driven and objective
 ## Objective
 Through the mentorship of exceptional leaders and the shaping of my methodologies from the insightful subordinates I was privileged to lead, I have developed a growth-focused mindset. I believe that we should always seek to be better than we were the day prior. That our work reflects our character and we should always strive to surround ourselves with those who want others to succeed just as much as they themselves want success. For these reasons, I am seeking employment with an organization that prioritizes excellence and societal betterment.
 
-## [Professional Development & Education](Projects/Education)
+## [Professional Development & Education](Projects/Education.html)
 - Cyber Operation Degree Coursework 
 - Certifications
 - Educational Courses
@@ -14,19 +14,30 @@ Through the mentorship of exceptional leaders and the shaping of my methodologie
 - [CyberApolis Water Company Breach](Projects/Pen-Testing/Water-Company)
 
 ## [Digital Forensics](Projects/Forensics/List.html)
-
+- [Sock Puppet Creation](Projects/Deception/create.html)
+- [Sock Puppet Detection](Projects/Deception/detect.html)
+- [Digital Profiling #1: Tim](Projects/Deception/tim.html)
+- [Digital Profiling #2: Sarah](Projects/Deception/sarah.html)
+- [Digital Profiling #3: John](Projects/Deception/john.html)
 
 ## [Network Architecture](Projects/Network/List.html)
-
+- [](Projects/Network/.html)
+- [](Projects/Network/.html)
 
 ## [Incident Response Planning and Execution](Projects/IRP/List.html)
-
+- [](Projects/IRP/.html)
+- [](Projects/IRP/.html)
 
 ## [Scripting and Automation for Threat Mitigation](Projects/Script/List.html)
-
+- [](Projects/Script/.html)
+- [](Projects/Script/.html)
 
 ## [Social Engineering & Cyber Deception](Projects/Deception/List.html)
-
+- [Sock Puppet Creation](Projects/Deception/create.html)
+- [Sock Puppet Detection](Projects/Deception/detect.html)
+- [Digital Profiling #1: Tim](Projects/Deception/tim.html)
+- [Digital Profiling #2: Sarah](Projects/Deception/sarah.html)
+- [Digital Profiling #3: John](Projects/Deception/john.html)
 
 
 
