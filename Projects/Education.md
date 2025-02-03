@@ -1,10 +1,4 @@
-
-<div style="display: inline-block;">
-  <a href="https://breachopen.github.io/Chas-Riley/" target="_blank">
-    <img src="https://img.shields.io/badge/Home-3ba0e6" alt="Home">
-  </a>
-</div>
-
+[![Home](https://img.shields.io/badge/Home-3ba0e6)](https://breachopen.github.io/Chas-Riley/)
 <div style="display: inline-block;">
   <a href="https://github.com/BreachOpen/Chas-Riley/" target="_blank">
     <img src="https://img.shields.io/badge/Github_Source-3ba0e6" alt="Github Source">
