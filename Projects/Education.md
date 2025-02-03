@@ -1,14 +1,7 @@
-![Static Badge](https://img.shields.io/badge/:badgeContent?style=flat&label=Home&color=%233ba0e6)
+
+[![Static Badge](https://img.shields.io/badge/:badgeContent?style=flat&label=Home&color=%233ba0e6)](https://breachopen.github.io/Chas-Riley/)
 
 
-[![Static Badge](https://img.shields.io/badge/:badgeContent?style=flat&label=Home&labelColor=%233ba0e6)](https://breachopen.github.io/Chas-Riley/)
-
-
-<a href="javascript:history.back()" style="text-decoration: none;">
-  <button style="background-color: #3ba0e6; color: white; border: none; padding: 10px 20px; cursor: pointer;">
-    Back
-  </button>
-</a>
 
 
 
