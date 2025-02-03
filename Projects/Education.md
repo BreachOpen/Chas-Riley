@@ -1,8 +1,5 @@
-
-[![Static Badge](https://img.shields.io/badge/:badgeContent?style=flat&label=Home&color=%233ba0e6)](https://breachopen.github.io/Chas-Riley/)
-
 [![Home](https://img.shields.io/badge/Home-3ba0e6)](https://breachopen.github.io/Chas-Riley/)
-
+[![Projects](https://img.shields.io/badge/Projects-3ba0e6)](https://breachopen.github.io/Chas-Riley/Projects)
 
 
 
