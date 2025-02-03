@@ -1,5 +1,4 @@
 [![Home](https://img.shields.io/badge/Home-3ba0e6)](https://breachopen.github.io/Chas-Riley/)
-[![Projects](https://img.shields.io/badge/Projects-3ba0e6)](https://breachopen.github.io/Chas-Riley/Projects)
 [![Github Source](https://img.shields.io/badge/Github_Source-3ba0e6)](https://github.com/BreachOpen/Chas-Riley/)
 
 
