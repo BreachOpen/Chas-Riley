@@ -1,4 +1,18 @@
-# EDUCATION       [Home](../)  [Back](./)
+<a href="../README.md" style="text-decoration: none;">
+  <button style="background-color: #3ba0e6; color: white; border: none; padding: 10px 20px; cursor: pointer;">
+    Home
+  </button>
+</a>
+
+<a href="javascript:history.back()" style="text-decoration: none;">
+  <button style="background-color: #3ba0e6; color: white; border: none; padding: 10px 20px; cursor: pointer;">
+    Back
+  </button>
+</a>
+
+
+
+# EDUCATION
 Bachelor of Applied Science - Dec 2024
 University of Arizona - Tucson, AZ 
 Major: Cyber Operations - 3.82 GPA, Magna Cum Laude
