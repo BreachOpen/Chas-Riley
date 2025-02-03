@@ -1,4 +1,4 @@
-# EDUCATION       ##[Home](../)  ##[Back](./)
+# EDUCATION       [Home](../)  [Back](./)
 Bachelor of Applied Science - Dec 2024
 University of Arizona - Tucson, AZ 
 Major: Cyber Operations - 3.82 GPA, Magna Cum Laude
