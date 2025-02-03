@@ -22,7 +22,7 @@ Intro to Cyber Operations (CYBV 385 - Spring 2023)
 Fundamentals of Cybersecurity (CYBV 301 - Spring 2023)
 
  
-| CERTIFICATIONS/TRAINING                             | Organization |
+| ## CERTIFICATIONS/TRAINING                          | ##Organization |
 |:----------------------------------------------------|--------------|
 | Google Cybersecurity Professional Certification (Expected 02/25/2025) | Google LLC   |
 | Foundations of Cybersecurity                         | Google LLC   |
