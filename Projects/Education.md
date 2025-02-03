@@ -1,4 +1,4 @@
-# EDUCATION
+# EDUCATION       ##[Home](../)  ##[Back](./)
 Bachelor of Applied Science - Dec 2024
 University of Arizona - Tucson, AZ 
 Major: Cyber Operations - 3.82 GPA, Magna Cum Laude
@@ -22,17 +22,17 @@ Intro to Cyber Operations (CYBV 385 - Spring 2023)
 Fundamentals of Cybersecurity (CYBV 301 - Spring 2023)
 
  
-| ## CERTIFICATIONS/TRAINING                          | ##Organization |
-|:----------------------------------------------------|--------------|
-| Google Cybersecurity Professional Certification (Expected 02/25/2025) | Google LLC   |
-| Foundations of Cybersecurity                         | Google LLC   |
-| Manage Security Risks                                | Google LLC   |
-| Automate Cybersecurity Tasks with Python             | Google LLC   |
-| Linux and SQL                                        | Google LLC   |
-| Networks and Network Security                        | Google LLC   |
-| Assets, Threats, and Vulnerabilities                 | Google LLC   |
-| Detection and Response                               | Google LLC   |
-| Cybersecurity for Businesses                         | EC-Council   |
-| Analysis of a Cyber Incident                         | CISA         |
-| Common Attacks                                       | TryHackMe    |
-| Security Awareness                                   | TryHackMe    |
+| <span style="color:blue;">CERTIFICATIONS/TRAINING</span> | <span style="color:blue;">Organization</span> |
+|:--------------------------------------------------------|:----------------------------------------------|
+| Google Cybersecurity Professional Certification (Expected 02/25/2025) | Google LLC |
+| Foundations of Cybersecurity                             | Google LLC |
+| Manage Security Risks                                    | Google LLC |
+| Automate Cybersecurity Tasks with Python                 | Google LLC |
+| Linux and SQL                                            | Google LLC |
+| Networks and Network Security                            | Google LLC |
+| Assets, Threats, and Vulnerabilities                     | Google LLC |
+| Detection and Response                                   | Google LLC |
+| Cybersecurity for Businesses                             | EC-Council |
+| Analysis of a Cyber Incident                             | CISA       |
+| Common Attacks                                           | TryHackMe  |
+| Security Awareness                                       | TryHackMe  |
