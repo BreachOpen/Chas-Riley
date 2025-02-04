@@ -41,7 +41,7 @@ Through the mentorship of exceptional leaders and the shaping of my methodologie
 ## 🤜🤛 Connect with me
 
 [<img src="https://tryhackme-badges.s3.amazonaws.com/c0351.png" alt="TryHackMe Badge" height="50"/>](https://tryhackme.com/p/yourprofile){:target="_blank"} 
-[<img src="https://upload.wikimedia.org/wikipedia/commons/e/ec/Coursera-Logo_600x600.png" alt="Coursera Badge" height="50"/>](https://www.coursera.org/user/4aab3d6fb33c1129bcc36295a3c7bed2){:target="_blank"} 
+[<img src="https://upload.wikimedia.org/wikipedia/commons/9/97/Coursera-Logo_600x600.svg)" alt="Coursera Badge" height="50"/>](https://www.coursera.org/user/4aab3d6fb33c1129bcc36295a3c7bed2){:target="_blank"} 
 [<img align="middle" alt="ChasRiley | LinkedIn" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" style="color: #aaa"/>](https://linkedin.com/in/chas-riley)
 [<img align="middle" alt="ChasRiley | Facebook" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/facebook.svg" style="color: #aaa"/>](https://www.facebook.com/CR0351/)
 [<img align="middle" alt="ChasRiley | Instagram" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" style="color: #aaa"/>](https://www.instagram.com/rezy0351/)
