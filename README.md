@@ -40,8 +40,8 @@ Through the mentorship of exceptional leaders and the shaping of my methodologie
 
 ## 🤜🤛 Connect with me
 
-[<img src="https://tryhackme-badges.s3.amazonaws.com/c0351.png" alt="TryHackMe Badge" height="50"/>](https://tryhackme.com/p/yourprofile){:target="_blank"} 
-[![Coursera](https://img.shields.io/badge/Coursera-%230056D2.svg?style=for-the-badge&logo=Coursera&logoColor=white)](https://www.coursera.org/user/4aab3d6fb33c1129bcc36295a3c7bed2){:target="_blank"} 
-[<img align="middle" alt="ChasRiley | LinkedIn" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" style="color: #aaa"/>](https://linkedin.com/in/chas-riley)
-[<img align="middle" alt="ChasRiley | Facebook" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/facebook.svg" style="color: #aaa"/>](https://www.facebook.com/CR0351/)
-[<img align="middle" alt="ChasRiley | Instagram" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" style="color: #aaa"/>](https://www.instagram.com/rezy0351/)
+[<img src="https://tryhackme-badges.s3.amazonaws.com/c0351.png" alt="TryHackMe Badge" height="50" style="vertical-align: middle;"/>](https://tryhackme.com/p/yourprofile){:target="_blank"} 
+[![Coursera](https://img.shields.io/badge/Coursera-%230056D2.svg?style=for-the-badge&logo=Coursera&logoColor=white)](https://www.coursera.org/learner/cr0351){:target="_blank"} 
+[<img align="middle" alt="ChasRiley | LinkedIn" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" style="fill: #aaa; vertical-align: middle;"/>](https://linkedin.com/in/chas-riley)
+[<img align="middle" alt="ChasRiley | Facebook" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/facebook.svg" style="fill: #aaa; vertical-align: middle;"/>](https://www.facebook.com/CR0351/)
+[<img align="middle" alt="ChasRiley | Instagram" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" style="fill: #aaa; vertical-align: middle;"/>](https://www.instagram.com/rezy0351/)
