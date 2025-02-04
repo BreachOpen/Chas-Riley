@@ -37,7 +37,7 @@
 - **Intro to Cyber Operations (CYBV 385 - Spring 2023)**
 - **Fundamentals of Cybersecurity (CYBV 301 - Spring 2023)**
 
-### Certifications/Training
+# Certifications and Training Courses
 
 | **Certification/Training**                                 | **Organization** |
 |:-----------------------------------------------------------|:-----------------|
