@@ -16,11 +16,11 @@
 
 ### Digital Profiling Projects
 
-#### [Digital Profiling #1: Tim](Projects/Deception/tim.md)
+#### [Digital Profiling #1: Tim](Projects/Recon/tim.md)
 - **Details:** Details here.
 
-#### [Digital Profiling #2: Sarah](Projects/Deception/sarah.md)
+#### [Digital Profiling #2: Sarah](Projects/Recon/sarah.md)
 - **Details:** Details here.
 
-#### [Digital Profiling #3: John](Projects/Deception/john.md)
+#### [Digital Profiling #3: John](Projects/Recon/john.md)
 - **Details:** Details here.
