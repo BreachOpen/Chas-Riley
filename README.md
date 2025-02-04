@@ -47,4 +47,4 @@ Through the mentorship of exceptional leaders and the shaping of my methodologie
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/CR0351/){:target="_blank"} 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/rezy0351/){:target="_blank"}
 
-[<img src="https://tryhackme-badges.s3.amazonaws.com/c0351.png" alt="TryHackMe Badge" height="90"/>](https://tryhackme.com/p/yourprofile){:target="_blank"}
+[<img src="https://tryhackme-badges.s3.amazonaws.com/c0351.png" alt="TryHackMe Badge" height="110"/>](https://tryhackme.com/p/yourprofile){:target="_blank"}
