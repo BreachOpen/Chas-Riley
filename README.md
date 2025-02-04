@@ -6,7 +6,6 @@ Through the mentorship of exceptional leaders and the shaping of my methodologie
 
 # [Professional Development](Projects/Education.md)
 - University of Arizona Bachelor's Degree in Cyber Operations
-  - Degree Coursework 
 - Certifications
 - Educational Courses
   
