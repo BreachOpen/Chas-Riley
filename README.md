@@ -38,7 +38,7 @@ Through the mentorship of exceptional leaders and the shaping of my methodologie
 - [Sock Puppet Detection](Projects/Deception/detect.md)
 
 
-## 🤜🤛 Connect with me
+# 🤜🤛 Connect with me
 
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/BreachOpen/Chas-Riley){:target="_blank"} 
 [![Coursera](https://img.shields.io/badge/Coursera-%230056D2.svg?style=for-the-badge&logo=Coursera&logoColor=white)](https://www.coursera.org/learner/cr0351){:target="_blank"} 
