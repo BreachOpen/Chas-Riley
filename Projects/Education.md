@@ -41,7 +41,7 @@
 
 # Certifications and Training Courses
 
-| **Certification/Course Name**                                 | **Organization** |
+| **Certification/Course Name**                               | **Organization** |
 |:-----------------------------------------------------------|:-----------------|
 | Google Cybersecurity Professional Certification (Expected 02/25/2025) | Google LLC |
 | Foundations of Cybersecurity                                | Google LLC |
@@ -53,5 +53,6 @@
 | Detection and Response                                      | Google LLC |
 | Cybersecurity for Businesses                                | EC-Council |
 | Analysis of a Cyber Incident                                | CISA       |
+| Enumeration & Brute Force                                   | TryHackMe  |
 | Common Attacks                                              | TryHackMe  |
 | Security Awareness                                          | TryHackMe  |
