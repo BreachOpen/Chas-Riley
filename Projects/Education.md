@@ -18,7 +18,9 @@
 *University of Arizona - Tucson, AZ*  
 **Major:** Cyber Operations - *3.82 GPA, Magna Cum Laude*  
 **Emphasis:** Defense and Forensics  
+
 ---
+
 ## Courses
 - **Active Cyber Defense (CYBV 400 - Spring 2024)**
 - **Violent Python (CYBV 473 - Fall 2024)**
@@ -36,6 +38,7 @@
 - **Advanced Composition (ENGV 306 - Fall 2023)**
 - **Intro to Cyber Operations (CYBV 385 - Spring 2023)**
 - **Fundamentals of Cybersecurity (CYBV 301 - Spring 2023)**
+
 
 ---
 
