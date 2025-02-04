@@ -5,74 +5,35 @@ Speaking both professionally and personally, I am a morally driven and objective
 Through the mentorship of exceptional leaders and the shaping of my methodologies from the insightful subordinates I was privileged to lead, I have developed a growth-focused mindset. I believe that we should always seek to be better than we were the day prior. That our work reflects our character and we should always strive to surround ourselves with those who want others to succeed just as much as they themselves want success. For these reasons, I am seeking employment with an organization that prioritizes excellence and societal betterment.
 
 # [Professional Development](Projects/Education.md)
-- Cyber Operation Degree Coursework 
+- University of Arizona Bachelor's Degree in Cyber Operations
+  - Degree Coursework 
 - Certifications
 - Educational Courses
   
 # Portfolio Projects
-## [Penetration Testing](Projects/Pen-Testing/List.html)
+## [Penetration Testing](Projects/Pen-Testing/List.md)
 - [CyberApolis Water Company Breach](Projects/Pen-Testing/Water-Company.html)
 
-## [Digital Forensics](Projects/Forensics/List.html)
-- [Sock Puppet Creation](Projects/Deception/create.html)
-- [Sock Puppet Detection](Projects/Deception/detect.html)
-- [Digital Profiling #1: Tim](Projects/Deception/tim.html)
-- [Digital Profiling #2: Sarah](Projects/Deception/sarah.html)
-- [Digital Profiling #3: John](Projects/Deception/john.html)
+## [Digital Forensics](Projects/Forensics/List.md)
+- 
 
-## [Network Architecture](Projects/Network/List.html)
-- [](Projects/Network/.html)
-- [](Projects/Network/.html)
+## [Digital Reconnaissance](Projects/Recon/List.md)
+- [Digital Profiling #1: Tim](Projects/Deception/tim.md)
+- [Digital Profiling #2: Sarah](Projects/Deception/sarah.md)
+- [Digital Profiling #3: John](Projects/Deception/john.md)
 
-## [Incident Response Planning and Execution](Projects/IRP/List.html)
-- [](Projects/IRP/.html)
-- [](Projects/IRP/.html)
+## [Network Architecture](Projects/Network/List.md)
+- [](Projects/Network/.md)
+- [](Projects/Network/.md)
 
-## [Scripting and Automation for Threat Mitigation](Projects/Script/List.html)
-- [](Projects/Script/.html)
-- [](Projects/Script/.html)
+## [Incident Response Planning and Execution](Projects/IRP/List.md)
+- [](Projects/IRP/.md)
+- [](Projects/IRP/.md)
 
-## [Social Engineering & Cyber Deception](Projects/Deception/List.html)
-- [Sock Puppet Creation](Projects/Deception/create.html)
-- [Sock Puppet Detection](Projects/Deception/detect.html)
-- [Digital Profiling #1: Tim](Projects/Deception/tim.html)
-- [Digital Profiling #2: Sarah](Projects/Deception/sarah.html)
-- [Digital Profiling #3: John](Projects/Deception/john.html)
+## [Scripting and Automation for Threat Mitigation](Projects/Script/List.md)
+- [](Projects/Script/.md)
+- [](Projects/Script/.md)
 
-
-
-
-KEEP AND REMOVE
-## Certifications
-
-### Network
-<div>
-    <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Zeek-777BB4?&style=for-the-badge&logo=Zeek&logoColor=white" />
-</div>
-
-### Endpoint
-<div>
-    <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Velociraptor-4B275F?&style=for-the-badge&logo=Velociraptor&logoColor=white" />
-</div>
-
-### SIEM
-<div>
-    <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
-</div>
-
-### Tools 
-[Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
-
-[Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
-<div>
-<img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-A%2B-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-CDSA-006400?&style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/-CCD-000080?&style=for-the-badge&logoColor=white" />
-</div>
+## [Social Engineering & Cyber Deception](Projects/Deception/List.md)
+- [Sock Puppet Creation](Projects/Deception/create.md)
+- [Sock Puppet Detection](Projects/Deception/detect.md)
