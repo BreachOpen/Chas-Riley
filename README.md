@@ -38,7 +38,7 @@ Through the mentorship of exceptional leaders and the shaping of my methodologie
 - [Sock Puppet Detection](Projects/Deception/detect.md)
 
 
-# 🤜🤛 Connect with me <img src="assets/img/Epic-Hand-Shake.png" alt="Epic Hand Shake" height="300" style="height: 35px; width: auto; vertical-align: -10px;"/>
+# 🤜🤛 Connect with me  <img src="assets/img/Epic-Hand-Shake.png" alt="Epic Hand Shake" height="300" style="height: 35px; width: auto; vertical-align: -10px;"/>
 
 
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/BreachOpen/Chas-Riley){:target="_blank"} 
