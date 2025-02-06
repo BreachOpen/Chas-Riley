@@ -1,16 +1,15 @@
 # Introduction
-Speaking both personally and professionally, I am a morally driven and objective-focused person. I hold a deep curiosity and passion for cybersecurity and it takes up most of my free time. I believe knowledge, moral character, and mental resilience are what separate us from the bad actors who intend to ruin the lives of everyday individuals. I also believe that helping and protecting those who are unable to do so themselves is a fundamental duty. As a father, husband, teammate, or even a passerby, protective altruism drives me to safeguard those around me.
+I am a morally driven and objective-focused person both personally and professionally. I hold a deep curiosity and passion for cybersecurity and it takes up most of my free time. I believe knowledge, moral character, and mental resilience are what separate us from the bad actors who intend to ruin the lives of everyday individuals. I also believe that helping and protecting those who are unable to do so themselves is a fundamental duty. As a father, husband, teammate, or even a passerby, protective altruism drives me to safeguard those around me.
 
 # Objective
 Through the mentorship of exceptional leaders and the shaping of my methodologies from the insightful subordinates I was privileged to lead, I have developed a growth-focused mindset. I believe that we should always seek to be better than we were the day prior. That our work reflects our character and we should always strive to surround ourselves with those who want others to succeed just as much as they themselves want success. For these reasons, I am seeking employment with an organization that prioritizes excellence and societal betterment.
 
 # [Professional Development](Projects/Education.md)
 - ## Master of Science in Information Technology (Purdue University)
-  - Major: Cybersecurity
+  - Emphasis: Cybersecurity
   - Expected Completion Date: September 09, 2026
   - Courses Overview
-- ## Bachelor of Applied Science (University of Arizona)
-  - Major: Cyber Operations
+- ## Bachelor of Applied Science in Cyber Operations (University of Arizona)
   - Emphasis: Defense and Forensics
   - Acquired: December 20, 2024
   - Courses Overview
