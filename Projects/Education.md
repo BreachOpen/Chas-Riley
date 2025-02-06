@@ -13,13 +13,36 @@
 ---
 
 # EDUCATION
+## **Master of Science**  
+*Purdue University - West Lafayette, IN*  
+**Major:** Information Technology <br />
+**Emphasis:** Cybersecurity <br />
+**Expected Completion Date:** September 09, 2026 
 
-**Bachelor of Applied Science - Dec 2024**  
-*University of Arizona - Tucson, AZ*  
-**Major:** Cyber Operations - *3.82 GPA, Magna Cum Laude*  
-**Emphasis:** Defense and Forensics  
-
+## Courses
+- **Research and Writing for the IT Professional** (IT513 - Spring 2025)
+- **Systems Analysis and Design** (IT510 - Spring 2025)
+- **Applied Statistics** (MM555 - Summer 2025)
+- **Information Systems Project Management** (IT511 - Summer 2025)
+- **Foundations in Data Analytics** (IT527 - Summer 2025)
+- **Database Design and Data Modeling** (IT525 - Summer 2025)
+- **Computer Networks** (IT530 - Fall 2025)
+- **Management of Information Security** (IT540 - Fall 2025)
+- **Introduction to Cybersecurity** (IT537 - Spring 2026)
+- **Ethical Hacking and Network Defense** (IT542 - Spring 2026)
+- **Cryptography Concepts and Techniques** (IT543 - Spring 2026)
+- **Computer Forensics and Investigations** (IT550 - Spring 2026)
+- **IT Security Auditing and Assessments** (IT591 - Summer 2026)
+- **Legal and Ethical Issues in IT** (IT590 - Summer 2026)
+- **Master's Capstone in Information Technology** (IT599 - Fall 2026)
+  
 ---
+## **Bachelor of Applied Science**  
+*University of Arizona - Tucson, AZ* <br />
+**Major:** Cyber Operations <br />
+**Emphasis:** Defense and Forensics <br />
+**Received:** December 20, 2024 <br />
+**Honors:** *3.82 GPA, Magna Cum Laude*  
 
 ## Courses
 - **Active Cyber Defense (CYBV 400 - Spring 2024)**
@@ -38,7 +61,6 @@
 - **Advanced Composition (ENGV 306 - Fall 2023)**
 - **Intro to Cyber Operations (CYBV 385 - Spring 2023)**
 - **Fundamentals of Cybersecurity (CYBV 301 - Spring 2023)**
-
 
 ---
 
