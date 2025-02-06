@@ -10,7 +10,7 @@
   </a>
 </div>
 
----
+--- <br />
 
 # EDUCATION
 ## **Master of Science**  
