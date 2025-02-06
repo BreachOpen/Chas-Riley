@@ -13,7 +13,7 @@
 --- <br />
 
 # EDUCATION
-<h2>Master of Science<h2><br />*Purdue University - West Lafayette, IN*  
+<h2>Master of Science</h2>h2><br />*Purdue University - West Lafayette, IN*  
 **Major:** Information Technology <br />
 **Emphasis:** Cybersecurity <br />
 **Expected Completion Date:** September 09, 2026 
