@@ -1,3 +1,17 @@
+<div style="display: inline-block;">
+  <a href="https://breachopen.github.io/Chas-Riley/">
+    <img src="https://img.shields.io/badge/Home-3ba0e6" alt="Home">
+  </a>
+</div>
+
+<div style="display: inline-block;">
+  <a href="https://github.com/BreachOpen/Chas-Riley/" target="_blank">
+    <img src="https://img.shields.io/badge/Github_Source-3ba0e6" alt="Github Source">
+  </a>
+</div>
+
+---
+
 ### Scenario 3: Investigating Insider Threat through Email Analysis
 
 In this exercise, you are tasked with investigating a potential insider threat within an organization. An employee is suspected of selling the organization's secrets to the media. The employee's hard drive has been recovered, and your goal is to examine the data artifacts, specifically the deleted emails, to uncover any evidence of wrongdoing.
