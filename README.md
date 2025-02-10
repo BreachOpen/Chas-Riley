@@ -29,17 +29,13 @@ Through the mentorship of exceptional leaders and the shaping of my methodologie
 - Scenario 4: [Investigation of Identity Theft and Bank Heist Plot](Projects/Forensics/scenario-4.md)
 
 ## Digital Reconnaissance
-- [Digital Profiling #1: Tim](Projects/Deception/tim.md)
-- [Digital Profiling #2: Sarah](Projects/Deception/sarah.md)
-- [Digital Profiling #3: John](Projects/Deception/john.md)
+- [Digital Profiling 1: Tim](Projects/Deception/tim.md)
+- [Digital Profiling 2: Sarah](Projects/Deception/sarah.md)
+- [Digital Profiling 3: John](Projects/Deception/john.md)
 
 ## Network Architecture
+- [](Projects/Network/scenario-1.md)
 - [](Projects/Network/.md)
-- [](Projects/Network/.md)
-
-## Incident Response Planning and Execution
-- [](Projects/IRP/.md)
-- [](Projects/IRP/.md)
 
 ## Scripting and Automation for Threat Mitigation
 - [](Projects/Script/.md)
