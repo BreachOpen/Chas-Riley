@@ -40,15 +40,46 @@ Through the mentorship of exceptional leaders and the shaping of my methodologie
 ## Network Architecture
 - [Home Network Setup](Projects/Network/home-network.md)
 - [Network Architecture](Projects/Network/diagram.md)
+- [Research Paper: Network Communication and Security Analysis](Projects/Network/analysis.md)
+- [Network Diagram Creation](Projects/Network/ndc.md)
+  - Small Business Network Diagram
+  - Local Area Network Diagram
 
 ## Scripting and Automation for Threat Mitigation
-- [](Projects/Script/.md)
-- [](Projects/Script/.md)
+- [Website Scraper](Projects/Script/scrape.md)
+- [Carving MP3 ID3 Headers](Projects/Script/carve.md)
+- [Covert Communications with Python](Projects/Script/covert.md)
+- [Create TCP Client](Projects/Script/TCP.md)
+- [Creating Virus Total Client](Projects/Script/virus.md)
+- [File Processing Object](Projects/Script/process.md)
+- [Image Data Extraction](Projects/Script/image.md)
+- [Natural Language Processing](Projects/Script/NLP.md)
+- [PCAP Processor](Projects/Script/PCAP.md)
+- [Processing Memory Dump and Extract](Projects/Script/dump.md)
+- [Python Sniffer](Projects/Script/sniff.md)
+- [Simple String Searching](Projects/Script/string.md)
+- [Website Crawler](Projects/Script/crawl.md)
 
 ## Social Engineering & Cyber Deception
 - [Sock Puppet Creation](Projects/Deception/create.md)
 - [Sock Puppet Detection](Projects/Deception/detect.md)
 
+## Cyber Threat Intelligence (CTI)
+- [CTI Report: APT28 Target Package](Projects/CTI/APT28.md)
+- [CTI Report: APT33 Target Package](Projects/CTI/APT33.md)
+- [Bad Actor Profiling: LulzSec](Projects/CTI/LulzSec.md)
+- [Analysis: Home Depot Data Breach Cyber Incident](Projects/CTI/home-depot.md)
+- [Aerospace Attack Analysis Exercise](Projects/CTI/aerospace.md)
+- [OpenIOC Exercise](Projects/CTI/IOC.md)
+
+## Academic and Professional Research
+- [BAS Capstone Research Project](Projects/Research/capstone.md)
+- [Botium Toys](Projects/Research/rar.md)
+  - Scope, Goals, and Risk Assessment Report
+  - Controls and Compliance Report
+- [Internet Becomes the New Playground for Child Predators](Projects/Research/cp.md)
+  - Rhetorical Analysis
+  - Mind Map
 
 # 🤜🤛 Connect with me  <img src="assets/img/Epic-Hand-Shake.png" alt="Epic Hand Shake" height="300" style="height: 35px; width: auto; vertical-align: -10px;"/>
 
