@@ -13,8 +13,7 @@
 --- <br />
 
 # EDUCATION
-<h2>Master of Science</h2>h2><br />*Purdue University - West Lafayette, IN*  
-**Major:** Information Technology <br />
+**Master of Science in Information Technology**<br />*Purdue University - West Lafayette, IN*  
 **Emphasis:** Cybersecurity <br />
 **Expected Completion Date:** September 09, 2026 
 
@@ -37,8 +36,7 @@
   
 ---
 
-<h2>Bachelor of Applied Science</h2>  <br />*University of Arizona - Tucson, AZ* <br />
-**Major:** Cyber Operations <br />
+**Bachelor of Applied Science in Cyber Operations**<br />*University of Arizona - Tucson, AZ* <br />
 **Emphasis:** Defense and Forensics <br />
 **Received:** December 20, 2024 <br />
 **Honors:** *3.82 GPA, Magna Cum Laude*  
