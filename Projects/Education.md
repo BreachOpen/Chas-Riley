@@ -12,7 +12,6 @@
 
 --- 
 <br />
-
 # EDUCATION
 **Master of Science in Information Technology**<br />*Purdue University - West Lafayette, IN*  
 **Emphasis:** Cybersecurity <br />
@@ -36,8 +35,7 @@
 - **Master's Capstone in Information Technology** (IT599 - Fall 2026)
   
 ---
-
-
+<br />
 **Bachelor of Applied Science in Cyber Operations**<br />*University of Arizona - Tucson, AZ* <br />
 **Emphasis:** Defense and Forensics <br />
 **Received:** December 20, 2024 <br />
