@@ -9,7 +9,6 @@
     <img src="https://img.shields.io/badge/Github_Source-3ba0e6" alt="Github Source">
   </a>
 </div>
-
 --- 
 <br />
 # EDUCATION
