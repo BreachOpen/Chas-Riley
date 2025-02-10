@@ -38,7 +38,7 @@ Through the mentorship of exceptional leaders and the shaping of my methodologie
 - [Digital Profiling 3: John](Projects/Recon/john.md)
 
 ## Network Architecture
-- [Home Network Setup](Projects/Network/scenario-1.md)
+- [Home Network Setup](Projects/Network/home-network.md)
 - [](Projects/Network/.md)
 
 ## Scripting and Automation for Threat Mitigation
