@@ -39,7 +39,7 @@ Through the mentorship of exceptional leaders and the shaping of my methodologie
 
 ## Network Architecture
 - [Home Network Setup](Projects/Network/home-network.md)
-- [](Projects/Network/.md)
+- [Network Architecture](Projects/Network/diagram.md)
 
 ## Scripting and Automation for Threat Mitigation
 - [](Projects/Script/.md)
