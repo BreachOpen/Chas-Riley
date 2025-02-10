@@ -16,7 +16,12 @@ Through the mentorship of exceptional leaders and the shaping of my methodologie
   - Acquired: December 20, 2024
   - Courses Overview
 - ## Certificates/Courses
-
+  - Google LLC
+  - EC-Council
+  - CISA
+  - Coursera
+  - TryHackMe
+    
 # Portfolio Projects
 ## Penetration Testing
 - Scenario 1: [CyberApolis Water Company Breach](Projects/Pen-Testing/Water-Company.md)
