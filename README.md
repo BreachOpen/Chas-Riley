@@ -6,12 +6,12 @@ Through the mentorship of exceptional leaders and the shaping of my methodologie
 
 # [Professional Development](Projects/Education.md)
 - ## Master of Science in Information Technology <br />
-*Purdue University*
+*Purdue University - West Lafayette, IN*
   - Emphasis: Cybersecurity
   - Expected Completion Date: September 09, 2026
   - Courses Overview
 - ## Bachelor of Applied Science in Cyber Operations <br />
-*University of Arizona*
+*University of Arizona - Tucson, AZ*
   - Emphasis: Defense and Forensics
   - Acquired: December 20, 2024
   - Courses Overview
