@@ -9,8 +9,9 @@
     <img src="https://img.shields.io/badge/Github_Source-3ba0e6" alt="Github Source">
   </a>
 </div>
---- 
 <br />
+--- 
+
 # EDUCATION
 **Master of Science in Information Technology**<br />*Purdue University - West Lafayette, IN*  
 **Emphasis:** Cybersecurity <br />
