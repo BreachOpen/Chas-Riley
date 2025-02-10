@@ -1,3 +1,18 @@
+<div style="display: inline-block;">
+  <a href="https://breachopen.github.io/Chas-Riley/">
+    <img src="https://img.shields.io/badge/Home-3ba0e6" alt="Home">
+  </a>
+</div>
+
+<div style="display: inline-block;">
+  <a href="https://github.com/BreachOpen/Chas-Riley/" target="_blank">
+    <img src="https://img.shields.io/badge/Github_Source-3ba0e6" alt="Github Source">
+  </a>
+</div>
+
+---
+
+
 ### Scenario 2: Digital Forensic Analysis and Suspect Linkage
 
 In this exercise, you are tasked with conducting a comprehensive digital forensics investigation on a recovered hard drive suspected to belong to an individual involved in a series of cybercrimes. The hard drive, found at a crime scene, contains potential evidence that could link the suspect to various criminal activities.
