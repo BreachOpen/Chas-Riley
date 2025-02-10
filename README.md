@@ -20,7 +20,7 @@ Through the mentorship of exceptional leaders and the shaping of my methodologie
 
 # Portfolio Projects
 ## Penetration Testing
-- [CyberApolis Water Company Breach](Projects/Pen-Testing/Water-Company.html)
+- Scenario 1: [CyberApolis Water Company Breach](Projects/Pen-Testing/Water-Company.html)
 
 ## Digital Forensics
 - Scenario 1: [Corporate Network Cybersecurity Breach Investigation](Projects/Forensics/scenario-1.md)
@@ -34,7 +34,7 @@ Through the mentorship of exceptional leaders and the shaping of my methodologie
 - [Digital Profiling 3: John](Projects/Deception/john.md)
 
 ## Network Architecture
-- [](Projects/Network/scenario-1.md)
+- [Home Network Setup](Projects/Network/scenario-1.md)
 - [](Projects/Network/.md)
 
 ## Scripting and Automation for Threat Mitigation
