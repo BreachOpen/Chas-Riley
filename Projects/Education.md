@@ -10,7 +10,8 @@
   </a>
 </div>
 
---- <br />
+--- 
+<br />
 
 # EDUCATION
 **Master of Science in Information Technology**<br />*Purdue University - West Lafayette, IN*  
