@@ -13,7 +13,7 @@
 
 ---
 
-### BAS Capstone Research Project: 
+### BAS Capstone Research Project: Combatting Cyberterrorism: Recognizing the Islamic State’s Global Threat
 
 In this exercise, you are tasked with investigating a cybersecurity breach within a corporate network. The network has been compromised, and your goal is to identify the source of the breach, analyze the affected systems, and gather digital evidence to support the investigation.
 
