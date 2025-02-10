@@ -15,8 +15,7 @@ Through the mentorship of exceptional leaders and the shaping of my methodologie
   - Emphasis: Defense and Forensics
   - Acquired: December 20, 2024
   - Courses Overview
-- ## Professional Certifications
-- ## Educational Certificates/Courses
+- ## Certificates/Courses
 
 # Portfolio Projects
 ## Penetration Testing
