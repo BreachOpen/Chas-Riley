@@ -48,6 +48,7 @@ This simulation created by TryHackMe (THM) gave me valuable knowledge and experi
 
 1. **Navigate to the Enumeration Lab:**
    - URL: http://enum.thm/labs/verbose_login/
+
 ![Enumeration Lab Login Page](../../assets/img/pentest/1.png)
 
 2. **Input Incorrect Email Address:**
@@ -56,13 +57,16 @@ This simulation created by TryHackMe (THM) gave me valuable knowledge and experi
 3. **Use Burp Suite:**
    - Exploit system informing us that the username entered isn't in the database
    - Download commonly used email addresses as usernames in list format
+
 ![Enumeration Lab Login Page](../../assets/img/pentest/2.png)
    - Use the provided Python script in Ubuntu Linux to check for valid email addresses
      - Command: python3 script.py usernames_gmail.com.txt
+
 ![Enumeration Lab Login Page](../../assets/img/pentest/3.png)
 
 4. **Record Valid Email Address:**
    - Answer: **canderson@gmail.com**
+
 ![Enumeration Lab Login Page](../../assets/img/pentest/4.png)
 
 ## Method 1 Conclusion
@@ -78,27 +82,33 @@ By identifying a valid email address in a database, I now have the information I
    - Enter *admin@admin.com* in email input field, then click *Submit*
 
 3. **Capture and Analyze the Token:**
+
 ![Burp Suite Token Analysis](../../assets/img/pentest/5.png)
 
 4. **Generate Brute Force Payload:**
    - Use Crunch to create a list of numbers from 100 to 200
    - Command: *crunch 3 3 -o otp.txt -t %%% -s 100 -e 200*
+
 ![Crunch Payload Generation](../../assets/img/pentest/6.png)
 
 5. **Configure Intruder and Launch Attack:**
    - Load the generated payload file (*otp.txt*) in *Intruder* then start attack
+
 ![Intruder Payload Configuration](../../assets/img/pentest/7.png)
 
 6. **Analyze Successful Response:**
    - Identify response with largest content length (size should be larger as well) indicating successful token
    - Use obtained token to reset password and login
+
 ![Successful Token Response](../../assets/img/pentest/8.png)
      
 7. **Log in with the New Password:**
+
 ![Input New Credentials](../../assets/img/pentest/9.png)
 
 8. **Record Answer:**
    - Answer: **THM{50_pr3d1ct4BL333!!}**
+
 ![Flag in Dashboard](../../assets/img/pentest/10.png)
 
      
@@ -114,26 +124,32 @@ Method 2 demonstrated how a weak or easily predictable token can be exploited to
 
 2. **Input Credentials:**
    - Input any username and password in pop up and capture Basic Auth request w/ Burp
+
 ![Random Login Credentials in the Popup](../../assets/img/pentest/11.png)
 
 3. **Capture the Request:**
    - Encoded login credentials will be in the HTTP Request Header
+
 ![Encoded Login Credentials](../../assets/img/pentest/12.png)
 
 4. **Decode the Base64 String:**
    - In Burp Intruder, go to the *Positions* tab and decode the base64 encoded string in the Authorization header
-![Decoded Base64 Encoded String](../../assets/img/pentest/13.png)
-![Decoded Base64 Encoded String](../../assets/img/pentest/14.png)
+
+![Decoded Base64 Encoded String #1](../../assets/img/pentest/13.png)
+![Decoded Base64 Encoded String #2](../../assets/img/pentest/14.png)
 
 5. **Configure Payloads:**
    - Go to *Payloads* tab and set payload type to Simple list
    - Select the provided wordlist (*500-worst-passwords.txt*)
+
 ![Choose Wordlist](../../assets/img/pentest/15.png)
 
 6. **Add Payload Processing Rules:**
    - Add the first rule to automatically add a username to the password
+
 ![First Payload Rule](../../assets/img/pentest/16.png)
    - Add the second rule to base64 encode the combined username and password from the supplied list
+
 ![Second Payload Rule](../../assets/img/pentest/17.png)
 
 7. **Launch the Attack:**
@@ -141,14 +157,18 @@ Method 2 demonstrated how a weak or easily predictable token can be exploited to
 
 8. **Analyze Successful Response:**
    - Identify the request with a Status code 200, which indicates a successful brute force attempt
+
 ![Status Code 200](../../assets/img/pentest/18.png)
    - Decode the encoded base64 string in the successful request
+
 ![Decoding Request Payload](../../assets/img/pentest/19.png)
    - Use the decoded base64 string to log into the application
+
 ![Use Credentials to Log In](../../assets/img/pentest/20.png)
 
 9. **Record Answer:**
    - Answer: **THM{b4$$1C_AuTTHHH}**
+
 ![Flag in Dashboard](../../assets/img/pentest/21.png)
   
 ## Method 3 Conclusion
