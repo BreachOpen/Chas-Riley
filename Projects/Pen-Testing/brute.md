@@ -103,7 +103,7 @@ By identifying a valid email address in a database, I now have the information I
 
      
 ## Method 2 Conclusion
-Method 2 demonstrated how easily weak or predictable tokens can be exploited to gain unauthorized access to a system. This simulated attack shows how important penetration testing is. With just a small amount of training, bad actors will exploit improper coding.
+Method 2 demonstrated how a weak or easily predictable token can be exploited to gain unauthorized access to a system. This simulated attack shows how important penetration testing is. With just a small amount of training, bad actors will exploit improper coding.
 
 ---
 
