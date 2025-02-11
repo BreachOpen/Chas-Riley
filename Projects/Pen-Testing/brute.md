@@ -147,8 +147,8 @@ Method 2 demonstrated how a weak or easily predictable token can be exploited to
    - Use the decoded base64 string to log into the application
 ![Use Credentials to Log In](../../assets/img/pentest/20.png)
 
-9. **Record the Flag:**
-   - Flag: `THM{b4$$1C_AuTTHHH}`
+9. **Record Answer:**
+   - Answer: **THM{b4$$1C_AuTTHHH}**
 ![Flag in Dashboard](../../assets/img/pentest/21.png)
   
 ## Method 3 Conclusion
