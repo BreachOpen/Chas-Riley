@@ -30,7 +30,9 @@ This project involved completing the Enumeration & Brute Force room on TryHackMe
 
 ## Objectives
 Method 1 - **Enumeration in Authentication Forms:** Identify valid email addresses using enumeration techniques.<br />
+
 Method 2 - **Exploiting Predictable Tokens:** Brute force vulnerable tokens to reset a password and gain access.<br />
+
 Method 3 - **Exploiting HTTP Basic Authentication:** Using Burp Intruder to exploit Authorization header strings to assist with brute force attacks.
 
 ---
