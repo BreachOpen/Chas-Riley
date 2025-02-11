@@ -45,7 +45,7 @@ Through the mentorship of exceptional leaders and the shaping of my methodologie
   - Small Business Network Diagram
   - Local Area Network Diagram
 
-## Scripting and Automation for Threat Mitigation
+## Python Scripting and Automation
 - [Website Scraper](Projects/Script/scrape.md)
 - [Carving MP3 ID3 Headers](Projects/Script/carve.md)
 - [Covert Communications with Python](Projects/Script/covert.md)
