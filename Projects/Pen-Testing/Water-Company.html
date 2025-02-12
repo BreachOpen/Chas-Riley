@@ -57,10 +57,16 @@ Method 3 - **Exploiting HTTP Basic Authentication:** Using Burp Intruder to expl
     <title>Research Paper</title>
     <style>
         .scrollable-pdf {
-            overflow: auto;
-            height: 500px;
+            overflow: hidden; /* This hides the scrollbars on the container */
+            height: 100vh; /* Full viewport height */
             width: 100%;
             border: 1px solid #ccc;
+            padding: 0;
+        }
+        iframe {
+            width: 100%;
+            height: 100%;
+            border: none; /* Remove the iframe border */
         }
     </style>
 </head>
@@ -68,7 +74,8 @@ Method 3 - **Exploiting HTTP Basic Authentication:** Using Burp Intruder to expl
     <h1>CyberApolis Water Breach Report</h1>
 
     <div class="scrollable-pdf">
-        <iframe src="../../assets/docs/Final Assessment Report.pdf" width="100%" height="1000px"></iframe>
+        <iframe src="../../assets/docs/Final Assessment Report.pdf"></iframe>
     </div>
 </body>
 </html>
+
