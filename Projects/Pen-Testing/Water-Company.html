@@ -91,34 +91,91 @@
         <h2>Project Conclusion</h2>
         <p>The CyberApolis Water Breach Report provided valuable insights into the security vulnerabilities of the facility's systems. By following a structured penetration testing approach, critical flaws were identified and mitigated. The implementation of recommended security measures and regular assessments will significantly reduce the risk of future breaches.</p>
     </div>
+</body>
+</html>
 
-    <!-- Start of detailed report content -->
-    <div class="section">
-        <h2>CyberApolis Water Breach Report</h2>
-        <h3>Executive Summary:</h3>
-        <p>The purpose of this report is to address the authorized defensive penetration measures taken to defend the CyberApolis Municipal Water company from the terrorist group known as Carbon Spector. Upon taking the facility by force, the group used the on-site hostages to obtain employee credentials necessary to infiltrate the organization’s private server. With unrestricted access, the group then opened the floodgates to the company’s dam with the intent of flooding the city of CyberApolis.</p>
-        <p>Steps taken to neutralize the threat:</p>
-        <ul>
-            <li>Reconnaissance</li>
-            <li>Scanning</li>
-            <li>Exploitation</li>
-        </ul>
-        <p>Through the lens of an attacker, I gathered publicly available intelligence from your organization’s websites, social media accounts affiliated with your company and employees, and with the assistance of common trends of similar organizations in recent years. I was then able to develop a comprehensive data profile, which is a collection of as much data that I can gather to defeat your system’s security. This analysis led to the discovery of critical system flaws that could have or may already have compromised your entire organization’s internal system or private server.</p>
-        <p>Utilizing a program that identifies coding flaws, which is also free and easily accessible to the public, I utilized one of these coding flaws found in the "pay your bill" section of the company's website. Using an operating system (OS) command injection attack, which is a technique an attacker uses to trick the system into performing tasks that it normally wouldn’t allow by accepting what looks like normal requested information. In this case, the "pay your bill" section text box that asks for a customer’s last name. I provided a last name but also included instructions that told the system to give me every user’s name and password located within it. Exploiting this data led me to using the user login and password of your Operation’s Manager. With that account, I located the on-site dam controls in the HMI control portal and closed the dam’s floodgates.</p>
-        <p>My recommendation is to restore the system to its default state with offline kept backups or rebuild the entire system from the ground up. The reason I defeated your system as quickly as I did is due to the default user being designated as the “root” user or a user with absolute control. To give credence to my recommendation, I provided examples of successful attacks against your private server that would take longer to find and fix than it would to start over. Once the system and updated security measures are put into place, I also recommend employee-focused educational training on cyber security preventative measures and regular vulnerability assessments. With these new standard operating procedures (SOP) in place, the probability of future successful breaches drops significantly.</p>
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>CyberApolis Water Breach Report</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            margin: 20px;
+        }
+        h1, h2, h3 {
+            color: #333;
+        }
+        .section {
+            margin-bottom: 20px;
+        }
+        .overview, .tools, .conclusion {
+            border: 1px solid #ccc;
+            padding: 10px;
+            border-radius: 5px;
+        }
+        .section h3 {
+            margin-top: 0;
+        }
+        .overview ul, .tools ul {
+            list-style-type: disc;
+            margin-left: 20px;
+        }
+    </style>
+</head>
+<body>
+    <h1>CyberApolis Water Breach Report</h1>
+    <p>Chas H. Riley</p>
+    <p>Department of Homeland Security</p>
+    <p>June 25, 2024</p>
+
+    <div class="section overview">
+        <h2>Project Overview</h2>
+        <p>This project focuses on the authorized defensive penetration measures taken to defend the CyberApolis Municipal Water company from the terrorist group known as Carbon Spector. The report details the various phases of the penetration test, including reconnaissance, scanning, exploitation, post-exploitation, and mitigation measures.</p>
     </div>
 
-    <div class="section">
-        <h3>Introduction:</h3>
-        <p>At 11:43 AM, the CyberApolis Municipal Water facility recorded eight armed, masked assailants breaching the premises. The last assailant is seen firing their weapon towards the camera, disabling it. This action then automates an internal alarm that prompts investigations from on-site security personnel and off-site remote monitor operators. At 11:53 am, remote monitor operators enacted their policy established Emergency Action Plan (EAP) for a security breach with high risk of critical infrastructure damage. At 12:02 pm, local authorities are alerted to a possible terrorist attack. At 12:19 pm, the Federal Bureau of Investigation (FBI) and the Department of Homeland Security (DHS) were notified.</p>
-        <p>On-site, at 12:04 pm, CyberApolis Municipal Water facility loses main power, causing backup power to engage. At 12:06 pm, remote operators report being disconnected from the facility’s private server. 12:15 pm, remote operators report server-wide accounts have been denied access to the server due to system login changes. Upon login attempt, the facility website displayed the message, “Your account has been temporarily locked due to multiple unsuccessful login attempts. Please wait indefinitely and try again.” Security analysts quickly determined that a “root” user, or a user with absolute authority, modified the system’s “Account Lockout Policies.” This modification prevented some or all users from accessing their accounts within the server.</p>
-        <p>At 1:05 pm, hostage negotiation procedures began. At 1:07 pm, data trails from the license plate of the vehicle used by assailants is linked to two members involved in the attack. The group is confirmed to be a terrorist cell from the terrorist organization, “Carbon Spector.” Carbon Spector is associated with many terrorist threats related to environmental extremism, coined as “eco-terrorists.”</p>
-        <p>At 1:12 pm, the
+    <div class="section simulation">
+        <h2>Simulated Situation</h2>
+        <p>The scenario involves a terrorist group taking control of the CyberApolis Municipal Water facility with the intent of flooding the city. The objective is to neutralize the threat by infiltrating the organization’s private server, gathering intelligence, and closing the dam floodgates to prevent disaster.</p>
+    </div>
 
+    <div class="section objective">
+        <h2>Objective</h2>
+        <p>The objective of this penetration simulation is to assess the security posture of the CyberApolis Municipal Water company, identify vulnerabilities, and provide recommendations for mitigation. The report covers the following main topics:</p>
+        <ul>
+            <li><strong>Executive Summary:</strong> Summarizes the findings and key actions taken during the penetration test.</li>
+            <li><strong>Introduction:</strong> Provides an overview of the incident and the immediate response by the security team.</li>
+            <li><strong>Reconnaissance:</strong> Details the initial information gathering and identification of potential access points.</li>
+            <li><strong>Scanning:</strong> Involves analyzing the website and network to identify vulnerabilities.</li>
+            <li><strong>Exploitation:</strong> Describes the methods used to exploit identified vulnerabilities.</li>
+            <li><strong>Post-Exploitation:</strong> Details the actions taken after gaining access to the system.</li>
+            <li><strong>Summary and Mitigation:</strong> Summarizes the security setup and provides recommendations for improvement.</li>
+            <li><strong>Synopsis:</strong> Offers a brief overview of the entire penetration test and its outcomes.</li>
+            <li><strong>Appendix:</strong> Includes additional information and supporting documentation.</li>
+        </ul>
+    </div>
 
+    <div class="section tools">
+        <h2>Tools Used</h2>
+        <ul>
+            <li><strong>Burp Suite:</strong> A comprehensive tool for web application security testing, used for scanning and exploiting vulnerabilities.</li>
+            <li><strong>Nmap:</strong> A network scanning tool used to discover hosts and services on a network.</li>
+            <li><strong>John the Ripper:</strong> A password cracking tool used to recover passwords from password hashes.</li>
+            <li><strong>Hydra:</strong> A tool for brute forcing login credentials on various protocols.</li>
+            <li><strong>Wireshark:</strong> A network protocol analyzer used for capturing and analyzing network traffic.</li>
+        </ul>
+    </div>
 
-
-
+    <div class="section conclusion">
+        <h2>Project Conclusion</h2>
+        <p>The CyberApolis Water Breach Report provided valuable insights into the security vulnerabilities of the facility's systems. By following a structured penetration testing approach, critical flaws were identified and mitigated. The implementation of recommended security measures and regular assessments will significantly reduce the risk of future breaches.</p>
+    </div>
+</body>
+</html>
 
 
 
