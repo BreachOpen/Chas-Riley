@@ -24,7 +24,7 @@ Through the mentorship of exceptional leaders and the shaping of my methodologie
     
 # Portfolio Projects
 ## Penetration Testing
-- Scenario 1: [CyberApolis Water Company Breach](Projects/Pen-Testing/Water-Company.md)
+- Scenario 1: [CyberApolis Water Company Breach](Projects/Pen-Testing/Water-Company.html)
 - Scenario 2: [Enumeration & Brute Force Simulation](Projects/Pen-Testing/brute.md)
 - Scenario 3: [](Projects/Pen-Testing/)
 - Scenario 4: [](Projects/Pen-Testing/)
