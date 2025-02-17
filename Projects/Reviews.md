@@ -28,7 +28,7 @@
 **Evaluation Date:** 10/06/2023
 **Evaluation Rating:** Exceeds Expectations
 **Manager Evaluation Conducted by:** Back-End Dept Supervisor
-(../assets/img/Review1.png)
+(../../assets/img/Review1.png)
 
 ---
 
