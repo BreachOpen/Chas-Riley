@@ -65,7 +65,7 @@ Step 3. **Use Burp Suite:**
 ![Enumeration Lab Login Page](../../assets/img/pentest/3.png)
 
 Step 4. **Record Valid Email Address:**
-   - Answer: **canderson@gmail.com**
+   - Answer: **canderson@gmail(.)com** (Defanged)
 
 ![Enumeration Lab Login Page](../../assets/img/pentest/4.png)
 
