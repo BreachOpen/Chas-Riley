@@ -27,7 +27,7 @@
 ## Personal Performance Review #1
 **Evaluation Date:** 10/06/2023<br />
 **Evaluation Rating:** Exceeds Expectations<br />
-**Manager Evaluation Conducted by:** <br />Back-End Dept Supervisor
+**Manager Evaluation Conducted by:** <br />Back-End Dept Supervisor<br />
 ![1st Review](../assets/img/Review1.png)
 
 ---
@@ -35,5 +35,5 @@
 ## Personal Performance Review #2
 **Evaluation Date:** 10/30/2024<br />
 **Evaluation Rating:** Exceeds Expectations<br />
-**Manager Evaluation Conducted by:** <br />Back-End Dept Supervisor
+**Manager Evaluation Conducted by:** <br />Back-End Dept Supervisor<br />
 ![2nd Review](../assets/img/Review2.png)
