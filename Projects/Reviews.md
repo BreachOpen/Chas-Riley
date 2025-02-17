@@ -28,7 +28,7 @@
 **Evaluation Date:** 10/06/2023
 **Evaluation Rating:** Exceeds Expectations
 **Manager Evaluation Conducted by:** Back-End Dept Supervisor
-(../../Chas-Riley/assets/img/Review1.png)
+(../../assets/img/Review1.png)
 
 ---
 
@@ -36,4 +36,4 @@
 **Evaluation Date:** 10/30/2024
 **Evaluation Rating:** Exceeds Expectations
 **Manager Evaluation Conducted by:** Back-End Dept Supervisor
-(../../Chas-Riley/assets/img/Review2.png)
+(../../assets/img/Review2.png)
