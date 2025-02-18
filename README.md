@@ -83,7 +83,7 @@ Through the mentorship of exceptional leaders and the shaping of my methodologie
 - [OpenIOC Exercise](Projects/CTI/IOC.md)
 
 ## Academic and Professional Research
-- [BAS Capstone Research Project](Projects/Research/capstone.md)
+- [BAS Capstone Research Project](Projects/Research/capstone.html)
 - [Botium Toys](Projects/Research/rar.html)
   - Scope, Goals, and Risk Assessment Report
   - Controls and Compliance Report
