@@ -12,10 +12,18 @@
 
 ---
 
+
+
+## STILL IN PROGRESS
+
+
+
 ## Research Paper: Network Communication and Security Analysis
 
 This research paper explores and analyzes the flow of network communication and the various layers involved when an IT employee at Jurassic Park accesses a file stored on the company's private server. Additionally, it delves into specific network vulnerabilities and attacks, including SQL Injection, MAC Address Spoofing, and Man-in-the-Middle (MitM) attacks. The research underscores the significance of robust cybersecurity measures and provides insights into securing networks against common threats.
 
+---
+#### Objectives:
 ---
 
 ### Resource Request and Data Flow Analysis
@@ -82,10 +90,6 @@ Bob, an IT employee at Jurassic Park, uses his desktop to log onto the companyâ€
 
 ## Conclusion
 
-Summarize the findings of your research paper, highlighting the key points and insights gained from the analysis. Discuss the importance of implementing robust cybersecurity measures to protect against common network vulnerabilities and attacks.
+???
 
----
-
-## References
-
-List all the references cited in your research paper in the appropriate citation style.
+## Skills Demonstrated
