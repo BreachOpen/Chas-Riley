@@ -84,7 +84,7 @@ Through the mentorship of exceptional leaders and the shaping of my methodologie
 
 ## Academic and Professional Research
 - [BAS Capstone Research Project](Projects/Research/capstone.md)
-- [Botium Toys](Projects/Research/rar.md)
+- [Botium Toys](Projects/Research/rar.html)
   - Scope, Goals, and Risk Assessment Report
   - Controls and Compliance Report
 - [Internet Becomes the New Playground for Child Predators](Projects/Research/cp.md)
