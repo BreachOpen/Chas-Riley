@@ -4,6 +4,9 @@ When it comes to both my personal life and professional career, I hold myself to
 # Career Objective
 Through the mentorship of exceptional leaders and the shaping of my methodologies from the insightful subordinates I was privileged to lead, I have developed a growth-focused mindset. I believe that we should always seek to be better than we were the day prior. That our work reflects our character, and that we should always strive to surround ourselves with those who want others to succeed just as much as they themselves want success. For these reasons, I am seeking employment with an organization that prioritizes excellence and societal betterment.
 
+## PORTFOLIO IS STILL IN PROGRESS.
+
+
 # [Professional Development](Projects/Education.md)
 - ## Master of Science in Information Technology <br/>
   - *Purdue University - West Lafayette, IN*
