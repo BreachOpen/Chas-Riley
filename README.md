@@ -49,11 +49,10 @@ Through the mentorship of exceptional leaders and the shaping of my methodologie
 
 ## Network Architecture
 - [Home Network Setup](Projects/Network/home-network.md)
-- [Network Architecture](Projects/Network/diagram.md)
+- [Small Business Network Diagram](Projects/Network/diagram.md)
 - [Research Paper: Network Communication and Security Analysis](Projects/Network/analysis.md)
-- [Network Diagram Creation](Projects/Network/ndc.md)
-  - Small Business Network Diagram
-  - Local Area Network Diagram
+- [Local Area Network Diagram](Projects/Network/diagram2.md)
+- [In Progress](Projects/Network/ndc.md)
 
 ## Python Scripting and Automation
 - [Website Scraper](Projects/Script/scrape.md)
