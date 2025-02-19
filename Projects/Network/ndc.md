@@ -12,6 +12,8 @@
 
 ---
 
+### IN PROGRESS
+
 ### Network Diagram Creation
 
 Bob, an IT employee at Jurassic Park, uses his desktop to log onto the companyâ€™s private wired router to access a file stored on the business's file server. The following sections outline the data flow, network protocols, and security measures involved in this process.
@@ -76,6 +78,6 @@ Bob, an IT employee at Jurassic Park, uses his desktop to log onto the companyâ€
 
 ## Conclusion
 
-Summarize the findings of your research paper, highlighting the key points and insights gained from the analysis. Discuss the importance of implementing robust cybersecurity measures to protect against common network vulnerabilities and attacks.
+
 
 ---
