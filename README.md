@@ -51,7 +51,7 @@ Through the mentorship of exceptional leaders and the shaping of my methodologie
 - [Home Network Setup](Projects/Network/home-network.md)
 - [Small Business Network Diagram](Projects/Network/diagram.md)
 - [Research Paper: Network Communication and Security Analysis](Projects/Network/analysis.md)
-- [Local Area Network Diagram](Projects/Network/diagram2.md)
+- [Public and Private Network Architecture Final Project](Projects/Network/diagram2.html)
 - [In Progress](Projects/Network/ndc.md)
 
 ## Python Scripting and Automation
