@@ -4,8 +4,8 @@ When it comes to both my personal life and professional career, I hold myself to
 # Career Objective
 Through the mentorship of exceptional leaders and the shaping of my methodologies from the insightful subordinates I was privileged to lead, I have developed a growth-focused mindset. I believe that we should always seek to be better than we were the day prior. That our work reflects our character, and that we should always strive to surround ourselves with those who want others to succeed just as much as they themselves want success. For these reasons, I am seeking employment with an organization that prioritizes excellence and societal betterment.
 
-## PORTFOLIO IS STILL IN PROGRESS.
-
+# [Work Performance Reviews](Projects/Reviews.md)
+  - Recent Performance Reviews by Current Employer
 
 # [Professional Development](Projects/Education.md)
 - ## Master of Science in Information Technology <br/>
@@ -25,8 +25,7 @@ Through the mentorship of exceptional leaders and the shaping of my methodologie
   - Coursera
   - TryHackMe
 
-# [Work Performance Reviews](Projects/Reviews.md)
-  - Recent Performance Reviews by Current Employer
+## PORTFOLIO IS STILL IN PROGRESS BELOW THIS POINT
     
 # Portfolio Projects
 ## Penetration Testing
@@ -82,13 +81,9 @@ Through the mentorship of exceptional leaders and the shaping of my methodologie
 - [OpenIOC Exercise](Projects/CTI/IOC.md)
 
 ## Academic and Professional Research
-- [BAS Capstone Research Project](Projects/Research/capstone.html)
+- [University of Arizona Capstone Research Paper](Projects/Research/capstone.html)
 - [Botium Toys](Projects/Research/rar.html)
-  - Scope, Goals, and Risk Assessment Report
-  - Controls and Compliance Report
 - [Internet Becomes the New Playground for Child Predators](Projects/Research/cp.md)
-  - Rhetorical Analysis
-  - Mind Map
 
 # 🤜🤛 Connect with me  <img src="assets/img/Epic-Hand-Shake.png" alt="Epic Hand Shake" height="300" style="height: 35px; width: auto; vertical-align: -10px;"/>
 
