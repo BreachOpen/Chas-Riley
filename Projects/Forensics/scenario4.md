@@ -12,7 +12,7 @@
 
 ---
 
-### Scenario 4: Investigation of Identity Theft and Bank Heist Plot
+### Investigation of Identity Theft and Bank Heist Plot
 
 **Summary:**
 In this exercise, I was tasked with conducting a criminal investigation involving identity theft and the planning of a bank heist. The suspect's hard drive was recovered, and the goal was to examine the digital evidence for any traces of the suspect's crime. I was tasked with using browser analyzers to view downloads and search results to determine if the suspect left any evidence or showed intent to commit the crime.
