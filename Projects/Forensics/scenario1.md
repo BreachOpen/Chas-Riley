@@ -57,8 +57,6 @@ In this exercise, I was tasked with investigating a cybersecurity breach within 
 ---
 
 ### Conclusion:
- and gathered substantial digital evidence to support the case. Each tool utilized provided crucial insights and data. This project not only reinforced my proficiency in forensic tools such as Arsenal Image Mounter, FTK Imager, Autopsy, Exiftool, and Wireshark but also demonstrated my capability to handle complex cybersecurity challenges effectively.
-
 I identified the source of the breach and gathered digital evidence to support my conclusion. Each tool I used gave me valuable data, which helped me thoroughly investigate the breach. This project boosted my skills with forensic tools like Arsenal Image Mounter, FTK Imager, Autopsy, Exiftool, and Wireshark, and also gave me skillsets that could help me in other similar cybersecurity scenarios.
 
 ---
