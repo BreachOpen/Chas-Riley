@@ -21,47 +21,45 @@ In this exercise, I was tasked with investigating a cybersecurity breach within 
 1. **Mounting the Forensic Image:**
    - **Tool Used:** Arsenal Image Mounter
    - **Task:** Mount the forensic image “CBARROW_Student.E01” using the default settings.
-   - **Screenshot:** ![Mounting the Image]()
+![Mounting the Image](../../assets/img/forensics/1.png)
 
 2. **Adding the Logical Device with FTK Imager:**
    - **Tool Used:** FTK Imager
    - **Task:** Add the Logical device mounted with Arsenal Image Mounter and export the forensic image in E01 format with specified settings.
-   - **Screenshot:** ![Logical Device]()
+ ![Logical Device](../../assets/img/forensics/2.png)
 
 3. **Adding the Physical Device with FTK Imager:**
    - **Tool Used:** FTK Imager
    - **Task:** Remove the current device and add the physical device mounted with Arsenal Image Mounter, then export the forensic image in E01 format with specified settings.
-   - **Screenshot:** ![Physical Device]()
+![Physical Device](../../assets/img/forensics/3.png)
 
 4. **Creating a New Autopsy Case:**
    - **Tool Used:** Autopsy
    - **Task:** Create a new Autopsy case using “nps-2009-domexusers.e01” as a data source and let the case finish building.
-   - **Screenshot:** ![Autopsy Case]()
+![Autopsy Case](../../assets/img/forensics/4.png)
 
 5. **Adding and Running Hash Lookup in Autopsy:**
    - **Tool Used:** Autopsy
    - **Task:** Add the hash set named “CYBV-388-Final-Hashset” and run the ingest module with selected hash lookup.
-   - **Screenshot:** ![Hash Lookup]()
+![Hash Lookup](../../assets/img/forensics/5.png)
 
 6. **Processing Files with Exiftool:**
    - **Tool Used:** Exiftool
    - **Task:** Export files found by Autopsy and process them using Exiftool to extract metadata.
-   - **Screenshot:** ![Exiftool]()
+![Exiftool](../../assets/img/forensics/6.png)
 
-7. **Exporting Registry Hives:**
-   - **Tool Used:** FTK Imager / Registry Explorer
-   - **Task:** Export the registry hives located in “windows\system32\config” to a directory of your choice.
-   - **Screenshot:** ![Registry Hives]()
 
-8. **Analyzing Network Traffic with Wireshark:**
+7. **Analyzing Network Traffic with Wireshark:**
    - **Tool Used:** Wireshark
-   - **Task:** Open “nitroba.pcap” with Wireshark and analyze the network traffic.
-   - **Screenshot:** ![Wireshark Analysis]()
+   - **Task:** Open Wireshark and analyze the affiliated network traffic.
+![Wireshark Analysis](../../assets/img/forensics/7.png)
 
 ---
 
 ### Conclusion:
+ and gathered substantial digital evidence to support the case. Each tool utilized provided crucial insights and data. This project not only reinforced my proficiency in forensic tools such as Arsenal Image Mounter, FTK Imager, Autopsy, Exiftool, and Wireshark but also demonstrated my capability to handle complex cybersecurity challenges effectively.
 
+I identified the source of the breach and gathered digital evidence to support my conclusion. Each tool I used gave me valuable data, which helped me thoroughly investigate the breach. This project boosted my skills with forensic tools like Arsenal Image Mounter, FTK Imager, Autopsy, Exiftool, and Wireshark, and also gave me skillsets that could help me in other similar cybersecurity scenarios.
 
 ---
 
