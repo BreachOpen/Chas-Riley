@@ -1,7 +1,8 @@
 # Introduction
 I chose the cybersecurity field due to my growth-focused mindset and a passion for understanding how complicated things function. To me, cybersecurity is a complex puzzle that is filled with constant challenges and accomplishments, fueling my drive to learn and improve. I believe we should all continuously seek knowledge and aim to be better each day. My past mentorship from exceptional leaders and the insights from subordinates have instilled in me a strong sense of integrity and a continuous pursuit of wisdom. I take pride in my work, understanding that it reflects my character, and I always strive to give my best effort, especially when my work impacts others. Helping others brings me genuine satisfaction, and I find it difficult not to assist those in need, especially when that help is needed by good people. I aim to surround myself with individuals who possess integrity and a mutual desire for success. For these reasons, I seek employment with an organization that prioritizes excellence and societal betterment.
 
-# [Work Performance Reviews](Projects/Reviews.md)
+# [Work Experience](Projects/Reviews.md)
+  - Work History
   - Recent Performance Reviews by Current Employer
 
 # [Professional Development](Projects/Education.md)
@@ -33,10 +34,10 @@ I chose the cybersecurity field due to my growth-focused mindset and a passion f
 - Scenario 5: [](Projects/Pen-Testing/)
 
 ## Digital Forensics
-- Scenario 1: [Corporate Network Cybersecurity Breach Investigation](Projects/Forensics/scenario-1.md)
-- Scenario 2: [Digital Forensic Analysis and Suspect Linkage](Projects/Forensics/scenario-2.md)
-- Scenario 3: [Investigating Insider Threat through Email Analysis](Projects/Forensics/scenario-3.md)
-- Scenario 4: [Investigation of Identity Theft and Bank Heist Plot](Projects/Forensics/scenario-4.md)
+- [Corporate Network Cybersecurity Breach Investigation](Projects/Forensics/scenario1.md)
+- [Digital Forensic Analysis and Suspect Linkage](Projects/Forensics/scenario2.md)
+- [Investigating Insider Threat through Email Analysis](Projects/Forensics/scenario3.md)
+- [Investigation of Identity Theft and Bank Heist Plot](Projects/Forensics/scenario4.md)
 
 ## Digital Reconnaissance
 - [Digital Profiling 1: Tim](Projects/Recon/tim.md)
