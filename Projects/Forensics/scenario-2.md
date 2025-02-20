@@ -34,3 +34,49 @@
 ---
 
 ## Skills Demonstrated
+
+
+### Scenario 2: Digital Forensic Analysis and Suspect Linkage
+
+In this exercise, you are tasked with conducting a comprehensive digital forensics investigation on a recovered hard drive suspected to belong to an individual involved in a series of cybercrimes. The hard drive, found at a crime scene, contains potential evidence that could link the suspect to various criminal activities.
+
+#### Objectives:
+
+1. **Creating a Forensic Image of the Disk:**
+   - **Tool Used:** FTK Imager
+   - **Task:** Use FTK Imager to create a forensic image of the recovered hard drive. Ensure the integrity of the evidence by using appropriate settings for image creation.
+   - **Screenshot:** ![Creating Forensic Image](insert_screenshot_here)
+
+2. **Analyzing the Forensic Image with Autopsy:**
+   - **Tool Used:** Autopsy
+   - **Task:** Use Autopsy to analyze the forensic image and extract all images stored on the hard drive.
+   - **Screenshot:** ![Extracting Images](insert_screenshot_here)
+
+3. **Extracting Metadata from Images using ExifDataView:**
+   - **Tool Used:** ExifDataView
+   - **Task:** Use ExifDataView to extract metadata from the images recovered from the hard drive. Focus on obtaining date, time, personal information, and GPS coordinates.
+   - **Screenshot:** ![Metadata Extraction](insert_screenshot_here)
+
+4. **Linking Evidence to the Suspect:**
+   - **Objective:** Analyze the extracted metadata to identify date, time, personal information, and location data that could link the suspect to the crime scene and activities.
+   - **Documentation:** ![Evidence Analysis](insert_screenshot_here)
+
+---
+
+### Conclusion
+
+Summarize the findings of your investigation, highlighting the key pieces of evidence that link the suspect to the cybercrimes. Discuss the significance of the extracted metadata and how it supports the case against the suspect.
+
+---
+
+## Skills Demonstrated
+
+List the skills you demonstrated through your projects:
+
+- Data Acquisition
+- Analysis
+- Network Forensics
+- Memory Forensics
+- Registry Analysis
+- Metadata Extraction
+- Evidence Linkage
