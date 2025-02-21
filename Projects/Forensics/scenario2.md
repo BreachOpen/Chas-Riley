@@ -33,13 +33,16 @@ In this exercise, I was tasked with conducting a digital forensics investigation
    - **Tool Used:** ExifDataView
    - **Task:** Use ExifDataView to extract metadata from the images recovered from the hard drive. Focus on obtaining date, time, personal information, and GPS coordinates.
 ![Metadata Extraction](../../assets/img/forensics/10.png)
+
 ![Metadata Extraction2](../../assets/img/forensics/11.png)
 
 4. **Linking Evidence to the Suspect:**
    - **Objective:** Analyze the extracted metadata to identify the date, time, personal information, and location data that could link the suspect to the crime scene and activities.
 
 ![Evidence Analysis1](../../assets/img/forensics/12.png)
+
 ![Evidence Analysis2](../../assets/img/forensics/13.png)
+
 ![Evidence Analysis3](../../assets/img/forensics/14.png)
 
 ---
