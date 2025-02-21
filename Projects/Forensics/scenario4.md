@@ -41,9 +41,18 @@ In this exercise, I was tasked with conducting a criminal investigation involvin
 ---
 
 ### Conclusion:
-
+To complete this investigation, I created a forensic image, analyzed browser history, and extracted downloaded files, which provided evidence of the suspect's intent to commit the crimes in question. I used the tools FTK Imager, Autopsy, and Browser Analyzer to link the identity theft and bank heist planning to the suspect. This project taught me a surprising amount about how browsers work and the amount of information your computer records even if the recorded information is from a third-party source. 
 
 ---
+
+### Skillsets Used:
+- Data Acquisition
+- Browser Analysis
+- File Extraction
+- Evidence Identification
+- Digital Forensics
+- Attention to Detail
+- Analytical Skills
 
 ### Tools Used:
 - FTK Imager
