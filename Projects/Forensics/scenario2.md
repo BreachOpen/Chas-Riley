@@ -21,25 +21,30 @@ In this exercise, I was tasked with conducting a digital forensics investigation
 
 1. **Create a Forensic Image of the Disk using FTK Imager:**
    - **Tool Used:** FTK Imager
-   - **Task:** Upon creating an image of the disk, ensure validity by verifying hash values.
+   - **Task:** Upon creating an image of the disk, ensure validity by verifying hash values.<br />
 ![Forensic Image](../../assets/img/forensics/8.png)
 
 2. **Open Forensic Image open with Autopsy:**
    - **Tool Used:** Autopsy
-   - **Task:** Use Autopsy to analyze the forensic image and extract all images stored on the hard drive.
+   - **Task:** Use Autopsy to analyze the forensic image and extract all images stored on the hard drive.<br />
 ![Extracting Images](../../assets/img/forensics/9.png)
 
 3. **Extracting Metadata from Images using ExifDataView:**
    - **Tool Used:** ExifDataView
-   - **Task:** Use ExifDataView to extract metadata from the images recovered from the hard drive. Focus on obtaining date, time, personal information, and GPS coordinates.
-![Found Images](../../assets/img/forensics/10.png)
+   - **Task:** Use ExifDataView to extract metadata from the images recovered from the hard drive. Focus on obtaining date, time, personal information, and GPS coordinates.<br />
+![Found Images](../../assets/img/forensics/10.png)<br />
+These three images were identified.<br />
 ![Metadata Extraction](../../assets/img/forensics/11.png)
-
+Example of metadata collected from one of the images.<br />
 4. **Linking Evidence to the Suspect:**
-   - **Objective:** Analyze the extracted metadata to identify the date, time, personal information, and location data that could link the suspect to the crime scene and activities.
-![Evidence Maryland](../../assets/img/forensics/12.png)
-![Evidence Estonia](../../assets/img/forensics/13.png)
-![Evidence RMaryland](../../assets/img/forensics/14.png)
+   - **Objective:** Analyze the extracted metadata to identify the date, time, personal information, and location data that could link the suspect to the crime scene and activities.<br />
+With each photo, I used the coordinate values found to tie the suspect to the locations of the crimes committed.<br />
+![Evidence Maryland](../../assets/img/forensics/12.png)<br />
+Location: South Laurel, Maryland<br />
+![Evidence Estonia](../../assets/img/forensics/13.png)<br />
+Location: Tallinn, Estonia<br />
+![Evidence RMaryland](../../assets/img/forensics/14.png)<br />
+Location: Russett, Maryland
 
 ---
 
