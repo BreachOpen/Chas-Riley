@@ -40,14 +40,19 @@ In this exercise, I was tasked with investigating a potential insider threat wit
 ---
 
 ### Conclusion:
+To complete this investigation, I created a forensic image, recovered deleted emails, and analyzed metadata to uncover potential evidence of a crime. FTK Imager, Autopsy, and Email Examiner/ExifDataView were the tools I used to identify the unauthorized sharing (no evidence of selling was found) of confidential information.
 
 ---
 
 ## Skills Demonstrated
-
-
 - Data Acquisition
 - Analysis
 - Network Forensics
 - Memory Forensics
 - Registry Analysis
+
+## Tools Used
+- FTK Imager
+- Autopsy
+- ExifDataView
+
