@@ -35,7 +35,7 @@ I chose the cybersecurity field due to my growth-focused mindset and a passion f
 
 ## Digital Forensics
 - [Corporate Network Cybersecurity Breach Investigation](Projects/Forensics/scenario1.md)
-- [Digital Forensic Analysis and Suspect Linkage](Projects/Forensics/scenario2.md)
+- [Photo Metadata Analysis and Suspect Linkage](Projects/Forensics/scenario2.md)
 - [Investigating Insider Threat through Email Analysis](Projects/Forensics/scenario3.md)
 - [Investigation of Identity Theft and Bank Heist Plot](Projects/Forensics/scenario4.md)
 
