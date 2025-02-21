@@ -13,7 +13,7 @@
 ---
 
 
-## Digital Forensic Analysis and Suspect Linkage
+## Photo Metadata Analysis and Suspect Linkage
 
 In this exercise, I was tasked with conducting a digital forensics investigation on a recovered hard drive suspected to belong to an individual involved in a series of cybercrimes. The hard drive in question was found at a crime scene and contains potential evidence that could link the suspect to various criminal activities. 
 
