@@ -24,30 +24,30 @@ I chose the cybersecurity field due to my growth-focused mindset and a passion f
 ## Penetration Testing
 - Scenario 1: [CyberApolis Water Company Breach](Projects/Pen-Testing/Water-Company.html)
 - Scenario 2: [Enumeration & Brute Force Simulation](Projects/Pen-Testing/brute.md)
-- Scenario 3: [](Projects/Pen-Testing/)
-- Scenario 4: [](Projects/Pen-Testing/)
-- Scenario 5: [](Projects/Pen-Testing/)
+- Scenario 3: [](Projects/Pen-Testing/) *IN PROGRESS
+- Scenario 4: [](Projects/Pen-Testing/) *IN PROGRESS
+- Scenario 5: [](Projects/Pen-Testing/) *IN PROGRESS
 
 ## Digital Forensics
 - [Corporate Network Cybersecurity Breach Investigation](Projects/Forensics/scenario1.md)
 - [Photo Metadata Analysis and Suspect Linkage](Projects/Forensics/scenario2.md)
-- [Investigating Insider Threat through Email Analysis](Projects/Forensics/scenario3.md)
-- [Investigation of Identity Theft and Bank Heist Plot](Projects/Forensics/scenario4.md)
+- [Investigating Insider Threat through Email Analysis](Projects/Forensics/scenario3.md) *IN PROGRESS
+- [Investigation of Identity Theft and Bank Heist Plot](Projects/Forensics/scenario4.md) *IN PROGRESS
 
 ## Digital Reconnaissance
-- [Digital Profiling 1: Tim](Projects/Recon/tim.md)
-- [Digital Profiling 2: Sarah](Projects/Recon/sarah.md)
-- [Digital Profiling 3: John](Projects/Recon/john.md)
+- [Digital Profiling 1: Tim](Projects/Recon/tim.md) *IN PROGRESS
+- [Digital Profiling 2: Sarah](Projects/Recon/sarah.md) *IN PROGRESS
+- [Digital Profiling 3: John](Projects/Recon/john.md) *IN PROGRESS
 
 ## Network Architecture
-- [Home Network Setup](Projects/Network/home-network.md)
-- [Small Business Network Diagram](Projects/Network/diagram.md)
-- [Research Paper: Network Communication and Security Analysis](Projects/Network/analysis.md)
+- [Home Network Setup](Projects/Network/home-network.md) *IN PROGRESS
+- [Small Business Network Diagram](Projects/Network/diagram.md) *IN PROGRESS
+- [Research Paper: Network Communication and Security Analysis](Projects/Network/analysis.md) *IN PROGRESS
 - [Public and Private Network Architecture Final Project](Projects/Network/diagram2.html)
-- [In Progress](Projects/Network/ndc.md)
+- [](Projects/Network/ndc.md)
 
-## Python Scripting and Automation
-- [Website Scraper](Projects/Script/scrape.md)
+## Python Scripting and Automation *IN PROGRESS
+- [Website Scraper](Projects/Script/scrape.md) 
 - [Carving MP3 ID3 Headers](Projects/Script/carve.md)
 - [Covert Communications with Python](Projects/Script/covert.md)
 - [Create TCP Client](Projects/Script/TCP.md)
@@ -61,11 +61,11 @@ I chose the cybersecurity field due to my growth-focused mindset and a passion f
 - [Simple String Searching](Projects/Script/string.md)
 - [Website Crawler](Projects/Script/crawl.md)
 
-## Social Engineering & Cyber Deception
+## Social Engineering & Cyber Deception *IN PROGRESS
 - [Sock Puppet Creation](Projects/Deception/create.md)
 - [Sock Puppet Detection](Projects/Deception/detect.md)
 
-## Cyber Threat Intelligence (CTI)
+## Cyber Threat Intelligence (CTI) *IN PROGRESS
 - [CTI Report: APT28 Target Package](Projects/CTI/APT28.md)
 - [CTI Report: APT33 Target Package](Projects/CTI/APT33.md)
 - [Bad Actor Profiling: LulzSec](Projects/CTI/LulzSec.md)
@@ -76,7 +76,7 @@ I chose the cybersecurity field due to my growth-focused mindset and a passion f
 ## Academic and Professional Research
 - [University of Arizona Capstone Research Paper](Projects/Research/capstone.html)
 - [Botium Toys](Projects/Research/rar.html)
-- [Internet Becomes the New Playground for Child Predators](Projects/Research/cp.md)
+- [Internet Becomes the New Playground for Child Predators](Projects/Research/cp.md) *IN PROGRESS
 
 # 🤜🤛 Connect with me  <img src="assets/img/Epic-Hand-Shake.png" alt="Epic Hand Shake" height="300" style="height: 35px; width: auto; vertical-align: -10px;"/>
 
