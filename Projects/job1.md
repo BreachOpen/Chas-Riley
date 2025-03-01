@@ -12,10 +12,9 @@
 
 ---
 
-# Accomplishments and Performance Reviews
-**Company:** Lowe’s<br />
-**Job Title:** Delivery Coordinator<br />
-**Dates Employed:** June 2022 - Present 
+# **Company:** Lowe’s<br />
+# **Job Title:** Delivery Coordinator<br />
+# **Dates Employed:** June 2022 - Present 
 
 ## **Awards and Accomplishments**
 - Received **72 Personal Performance Recognitions** of Achievement from Management and Peers.
