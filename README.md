@@ -27,7 +27,7 @@ I chose the cybersecurity field due to my growth-focused mindset and a passion f
   - Coursera
   - TryHackMe
 
-## PORTFOLIO IS STILL IN PROGRESS BELOW THIS POINT
+## PORTIONS OF PORTFOLIO ARE STILL IN PROGRESS BELOW THIS POINT
     
 # Portfolio Projects
 ## Penetration Testing
