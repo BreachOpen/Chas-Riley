@@ -6,11 +6,6 @@ I chose the cybersecurity field due to my growth-focused mindset and a passion f
   - Recent Performance Reviews by Current Employer
 
 # [Professional Development](Projects/Education.md)
-- ## Master of Science in Information Technology <br/>
-  - *Purdue University - West Lafayette, IN*
-  - Emphasis: Cybersecurity
-  - Expected Completion Date: September 09, 2026
-  - Courses Overview
 - ## Bachelor of Applied Science in Cyber Operations <br />
   - *University of Arizona - Tucson, AZ*
   - Emphasis: Defense and Forensics
