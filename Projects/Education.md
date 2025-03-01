@@ -13,29 +13,6 @@
 ---
 
 # EDUCATION
-**Master of Science in Information Technology**<br />*Purdue University - West Lafayette, IN*  
-**Emphasis:** Cybersecurity <br />
-**Expected Completion Date:** September 09, 2026 
-
-## Courses
-- **Research and Writing for the IT Professional** (IT513 - Spring 2025)
-- **Systems Analysis and Design** (IT510 - Spring 2025)
-- **Applied Statistics** (MM555 - Summer 2025)
-- **Information Systems Project Management** (IT511 - Summer 2025)
-- **Foundations in Data Analytics** (IT527 - Summer 2025)
-- **Database Design and Data Modeling** (IT525 - Summer 2025)
-- **Computer Networks** (IT530 - Fall 2025)
-- **Management of Information Security** (IT540 - Fall 2025)
-- **Introduction to Cybersecurity** (IT537 - Spring 2026)
-- **Ethical Hacking and Network Defense** (IT542 - Spring 2026)
-- **Cryptography Concepts and Techniques** (IT543 - Spring 2026)
-- **Computer Forensics and Investigations** (IT550 - Spring 2026)
-- **IT Security Auditing and Assessments** (IT591 - Summer 2026)
-- **Legal and Ethical Issues in IT** (IT590 - Summer 2026)
-- **Master's Capstone in Information Technology** (IT599 - Fall 2026)
-  
----
-<br />
 **Bachelor of Applied Science in Cyber Operations**<br />*University of Arizona - Tucson, AZ* <br />
 **Emphasis:** Defense and Forensics <br />
 **Received:** December 20, 2024 <br />
