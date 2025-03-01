@@ -13,7 +13,7 @@
 
 ---
 
-# Small Business Network Diagram Explanation
+# Small Business Network Diagram
 
 The diagram below shows a common network setup for a small business. Here’s a breakdown of each part and its role in the network:
 
