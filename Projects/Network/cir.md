@@ -14,7 +14,7 @@
 
 # Cybersecurity Incident Report: Network Traffic Analysis
 
-Bob, an IT employee at Jurassic Park, uses his desktop to log onto the company’s private wired router to access a file stored on the business's file server. The following sections outline the data flow, network protocols, and security measures involved in this process.
+
 
 ## Steps Taken:
 1. **Determine which end the issue occurs** 
@@ -22,7 +22,7 @@ To investigate, we attempted to replicate the issue to determine if the issue is
   - This technique simply assesses whether the issue is occuring on the customer's end or the client's end. This step is vital because it reduces the possible issues to half. Because our team was able to replicate the same problem, we now know the problem is attributed to the client.
  
 2. **Utilyze network analyzer tools**
-Once replicated, we used a network analyzer tool and tcpdump while attempting to load the page.
+Once replicated, we used the network analyzer tools wireshark and tcpdump while attempting to load the page.
   - This step is important because we are able to visually see the exact steps our computer took to establish a connection with the DNS server. This information replaces the generic response of "Unable to connect" that our browser is telling us.
 
 4. **Analyze the traffic data**
@@ -32,58 +32,17 @@ The traffic shows multiple attempts of our UDP data packets attempting to contac
 Lastly, we developed the most likely cause through the process of elimination
   - **Must be client side**: Customer and our system ran into same issue. We also have to assume our system is functioning correctly. 
   - **Webpage is not the issue**: The DNS server not responding prevents any connection from being created, meaning the HTTPS request is never sent to begin with. 
-  - **DNS Server or System Configuration is responsible**: 
+  - **DNS Server or System Configuration is responsible**: All communication attempts end here.
+
+6. **Follow up Team**
+There are a few possibilities as to why this issue is occuring. The scenario had many details, and the investigation/correction portion is left to another team, I'd like to elaborate more on what the next team should be trying to identify.
+  - Determine previous trends of the client's system
+    - Is the client's company system well established or new?
+    - Has the client's company recently implemented any significant updates or additions to their digital security systems or operational programs?
+Assuming the client hasn't made any recent changes to their digital security systems or operational programs, the issue then falls on their DNS server.
+  - **Established DNS Server**: DNS server is most likely down or overloaded with requests.
+  - **New DNS Server**: Misconfiguration of the client’s DNS server itself, network, or firewall is preventing communication with the client’s customers.
+
+  ---
+
   
-
-
-## Key Network Protocols and Concepts:
-- **Ethernet Protocol**
-- **Switching**
-- **Wi-Fi**
-- **MAC Address**
-- **ARP (Address Resolution Protocol)**
-- **IP (Internet Protocol)**
-- **ICMP (Internet Control Message Protocol)**
-- **Routing**
-- **Subnetting**
-- **NAT (Network Address Translation)**
-- **TCP (Transmission Control Protocol)**
-- **UDP (User Datagram Protocol)**
-- **Port Numbers**
-- **Flow Control**
-- **Error Detection and Correction**
-- **HTTP (Hypertext Transfer Protocol)**
-- **DNS (Domain Name System)**
-- **SSL/TLS (Secure Sockets Layer/Transport Layer Security)**
-- **Public Firewall**
-- **FTP (File Transfer Protocol)**
-
-## Research and Analysis
-
-#### SQL Injection (Application Layer Attack)
-- **Incident:** October 2012 breach of 53 universities by "Team GhostShell"
-- **Attack Method:** SQL Injection
-- **Attackers' Goal:** Unclear, possibly hacktivism
-- **Vulnerability Exploited:** Poor input validation, lack of parameterized queries
-- **Recommendations:** Use parameterized queries, input validation, output encoding, access controls
-
-#### MAC Address Spoofing (Network Access Layer)
-- **Incident:** Aaron Swartz case involving MIT
-- **Attack Method:** MAC Address Spoofing
-- **Attackers' Goal:** Unauthorized network access, man-in-the-middle attacks
-- **Vulnerability Exploited:** Trust in MAC addresses
-- **Recommendations:** Implement port security, network access control solutions, 802.1X authentication
-
-#### Man-in-the-Middle (MitM) Attack (Transport Layer Attack)
-- **Incident:** 2011 DigiNotar breach in the Netherlands
-- **Attack Method:** MitM Attack
-- **Vulnerability Exploited:** Compromised digital certificates, lack of oversight
-- **Recommendations:** Improved oversight, risk awareness, mitigation strategies
-
----
-
-## Conclusion
-
-
-
----
