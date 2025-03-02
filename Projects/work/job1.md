@@ -28,7 +28,7 @@
 - **Primary point of contact for management** to address software malfunctions, develop solutions, and create workarounds to ensure the completion of high-priority tasks, preventing operational delays.
 - Received **72 Personal Performance Recognitions** of Achievement from Management and Peers.
 - Through my own volition, I **developed a new Standard Operating Procedure/Operational Playbook**.
-          - Utilizing the internal Operational Management System, I consolidated numerous identification barcodes into a single accessible chart/list, resulting in significant time savings and improved efficiency.
+Utilizing the internal Operational Management System, I consolidated numerous identification barcodes into a single accessible chart/list, resulting in significant time savings and improved efficiency.
 - Awarded **5 Career Performance Badges**: Delivering Results, Focusing on Customers, Showing Courage, Continuous Learning, and Taking Action.
 - Achieved multiple Manager Performance Evaluation Ratings of **“Exceeds Expectations”**.
 - Due to my reliability, management entrusts me to determine my own weekly schedule.
