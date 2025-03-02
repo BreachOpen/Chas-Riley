@@ -90,13 +90,14 @@ I chose the cybersecurity field due to my growth-focused mindset and a passion f
 - [Aerospace Attack Analysis Exercise](Projects/CTI/aerospace.md)
 - [OpenIOC Exercise](Projects/CTI/IOC.md)
 
-## Academic and Professional Research  
+## Academic and Professional Research
 <br />
 - [University of Arizona Capstone Research Paper](Projects/Research/capstone.html)
 - [Botium Toys](Projects/Research/rar.html)
 - [Internet Becomes the New Playground for Child Predators](Projects/Research/cp.md) *IN PROGRESS
 
 # Connect with me 🤜🤛
+<br />
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/BreachOpen/Chas-Riley){:target="_blank"} 
 [![Coursera](https://img.shields.io/badge/Coursera-%230056D2.svg?style=for-the-badge&logo=Coursera&logoColor=white)](https://www.coursera.org/learner/cr0351){:target="_blank"} 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/chas-riley){:target="_blank"} <br>
