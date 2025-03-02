@@ -60,7 +60,7 @@ March 2015 - March 2019 <br />
 - [Small Business Network Diagram](Projects/Network/diagram.md) *IN PROGRESS
 - [Research Paper: Network Communication and Security Analysis](Projects/Network/analysis.md) *IN PROGRESS
 - [Public and Private Network Architecture Final Project](Projects/Network/diagram2.html)
-- [](Projects/Network/ndc.md)
+ [](Projects/Network/ndc.md)
 
 ## Python Scripting and Automation *IN PROGRESS
 - [Website Scraper](Projects/Script/scrape.md) 
