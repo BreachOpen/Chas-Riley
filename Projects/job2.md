@@ -15,7 +15,7 @@
 # Counter-Improvised Explosive Device Instructor
 ## *II Corps Inc.* 
 ## October 2019 - January 2022
-
+  
 ## Experience
 -	Coordinated, instructed, and evaluated threat mitigation-focused training individually and in groups of up to 500 personnel for U.S. and Coalition forces at the individual, collective, and upper-leadership levels.
 -	Training covered beginner to advanced concepts, tactics, techniques, and procedures (TTPs) of international threat groups and took place at home stations and abroad through classroom instruction and practical application.
