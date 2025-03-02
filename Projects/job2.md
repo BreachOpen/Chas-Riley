@@ -12,11 +12,11 @@
 
 ---
 
-# **Company:** II Corps Inc.<br />
-# **Job Title:** Counter-Improvised Explosive Device Instructor<br />
-# **Dates Employed:** October 2019 - January 2022
+# Company: II Corps Inc.<br />
+# Job Title: Counter-Improvised Explosive Device Instructor<br />
+# Dates Employed: October 2019 - January 2022
 
-## **Experience**
+## Experience
 -	Coordinated, instructed, and evaluated threat mitigation-focused training individually and in groups of up to 500 personnel for U.S. and Coalition forces at the individual, collective, and upper-leadership levels.
 -	Training covered beginner to advanced concepts, tactics, techniques, and procedures (TTPs) of international threat groups and took place at home stations and abroad through classroom instruction and practical application.
 -	Developed and executed customized training events for a target audience that replicated real-world situation scenarios while also creating/tailoring associated training materials.
@@ -25,7 +25,7 @@
 -	Handled, gathered, and prepared secret clearance-level intelligence reports, including bad actor profiles and their respective threat analysis/intelligence, TTPs, common/new/possible trends, and recent statistics.
 -	Provided written After-Action Reports; collected and analyzed lessons learned, identified trends, and conducted follow-up remediate training.
 
-## **Awards and Accomplishments**
+## Awards and Accomplishments
 -	To become one of the ten selected instructors, we were expected to be among the top performers in our military occupation, receive recommendations, and  demonstrate our areas of expertise through corporate-level evaluated mock presentations and knowledge selection board.
 - Demonstrated mastery and competency while being the **youngest and lowest prior military rank to ever be hired**.
 - Acted as the **C-IED Lead Instructor and Evaluator** for multiple Department of Defense training programs for foreign, domestic, and specialized units.
