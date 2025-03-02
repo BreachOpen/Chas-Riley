@@ -21,7 +21,7 @@ I chose the cybersecurity field due to my growth-focused mindset and a passion f
 - Awards and Accomplishments
 
 # [Professional Development](Projects/Education.md)
-<br />
+
 - ## Bachelor of Applied Science in Cyber Operations
   - *University of Arizona - Tucson, AZ*
   - Emphasis: Defense and Forensics
@@ -34,10 +34,10 @@ I chose the cybersecurity field due to my growth-focused mindset and a passion f
   - Coursera
   - TryHackMe
 
-### PORTIONS OF PORTFOLIO ARE STILL IN PROGRESS BELOW THIS POINT<br />
+### PORTIONS ARE STILL IN PROGRESS BELOW THIS POINT<br />
     
 # Portfolio Projects  
-<br />
+
 ## Penetration Testing
 - Scenario 1: [CyberApolis Water Company Breach](Projects/Pen-Testing/Water-Company.html)
 - Scenario 2: [Enumeration & Brute Force Simulation](Projects/Pen-Testing/brute.md)
