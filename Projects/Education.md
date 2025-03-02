@@ -42,7 +42,7 @@
 
 | **Certification/Course Name**                               | **Organization** |
 |:-----------------------------------------------------------|:-----------------|
-| Google Cybersecurity Professional Certification (Expected 02/25/2025) | Google LLC |
+| Google Cybersecurity Professional Certification (Expected 03/25/2025) | Google LLC |
 | Foundations of Cybersecurity                                | Google LLC |
 | Manage Security Risks                                       | Google LLC |
 | Automate Cybersecurity Tasks with Python                    | Google LLC |
