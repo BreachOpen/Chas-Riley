@@ -32,16 +32,15 @@ I chose the cybersecurity field due to my growth-focused mindset and a passion f
   - Coursera
   - TryHackMe
 
-### PORTIONS ARE STILL IN PROGRESS BELOW THIS POINT
-    
 # Portfolio Projects  
-
 ## Penetration Testing
 - Scenario 1: [CyberApolis Water Company Breach](Projects/Pen-Testing/Water-Company.html)
 - Scenario 2: [Enumeration & Brute Force Simulation](Projects/Pen-Testing/brute.md)
-- Scenario 3: [](Projects/Pen-Testing/) *IN PROGRESS
-- Scenario 4: [](Projects/Pen-Testing/) *IN PROGRESS
-- Scenario 5: [](Projects/Pen-Testing/) *IN PROGRESS
+[](Projects/Pen-Testing/)
+[](Projects/Pen-Testing/)
+[](Projects/Pen-Testing/)
+
+### Some projects below this point are still in progress
 
 ## Digital Forensics
 - [Corporate Network Cybersecurity Breach Investigation](Projects/Forensics/scenario1.md)
