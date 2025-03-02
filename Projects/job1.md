@@ -34,6 +34,7 @@
 - Due to my reliability, management entrusts me to determine my own weekly schedule.
 
 ---
+
 ## Personal Performance Review #1
 **Evaluation Date:** 10/06/2023<br />
 **Evaluation Rating:** Exceeds Expectations<br />
