@@ -28,27 +28,26 @@ You are a cybersecurity analyst working at a company that specializes in providi
 - The remaining lines show two more ICMP packets were sent, but the same delivery error was received each time.
 
 ## Steps Taken:
-1. **Determine which end the issue occurs** 
+1: **Determine which end the issue occurs** 
 To investigate, we attempted to replicate the issue to determine if the issue is at the customer’s end or the client’s end.
 - This technique simply assesses whether the issue is occurring on the customer's end or the client's end. This step is vital because it reduces the possible issues to half. Because our team was able to replicate the same problem, we now know the problem is attributed to the client.
 
 ![Browser Error Message](../../assets/img/cir/2.png)
 
-2. **Utilize network analyzer tools**
+2: **Utilize network analyzer tools**
 Once replicated, we used the network analyzer tools Wireshark and tcpdump while attempting to load the page.
-- This step is important because we are able to visually see the exact steps our computer took to establish a connection with the DNS server. This information replaces the generic response of "Unable to connect" that our browser is telling us.<br /><br />
+- This step is important because we are able to visually see the exact steps our computer took to establish a connection with the DNS server. This information replaces the generic response of "Unable to connect" that our browser is telling us.<br />
 
-3. **Analyze the traffic data**
+3: **Analyze the traffic data**
 The traffic shows multiple attempts of our UDP data packets attempting to contact the DNS server on port 53. However, the DNS server was unresponsive to our browser’s DNS queries when attempting to resolve the web server's domain name.
-
-
-4. **Determine Cause**
+<br />
+4: **Determine Cause**
 Lastly, we developed the most likely cause through the process of elimination
 - **Must be client side**: The customer and our system ran into the same issue. We also have to assume our system is functioning correctly. 
 - **Webpage is not the issue**: The DNS server not responding prevents any connection from being created, meaning the HTTPS request is never sent to begin with. 
 - **DNS Server or System Configuration is responsible**: All communication attempts end here.
 
-5. **Follow up Team**
+5: **Follow up Team**
 There are a few possibilities as to why this issue is occurring. The scenario had many details, and the investigation/correction portion is left to another team, however, I'd like to elaborate more on what the next team should be trying to identify.
 - Determine previous trends of the client's system
 - Is the client's company system well established or new?
