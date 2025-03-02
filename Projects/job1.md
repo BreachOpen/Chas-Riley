@@ -12,9 +12,9 @@
 
 --- 
 
-# **Company:** Lowe’s<br />
 # **Job Title:** Delivery Coordinator<br />
-# **Dates Employed:** June 2022 - Present 
+## **Company:** Lowe’s<br />
+## **Dates Employed:** June 2022 - Present 
 
 ## **Experience**
 - Primary point of contact for our customers, product specialists, multiple delivery teams, corporate management, vehicle technicians, third-party contractors, vendors, and installation teams.
