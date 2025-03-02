@@ -6,16 +6,16 @@
 }
 
 body {
-    font-family: 'Open Sans', sans-serif; !important;
+    font-family: 'Open Sans', sans-serif !important;
     line-height: 1.75em;
     font-size: 16px;
-    background-color: #222; !important;
-    color: #aaa; !important;
+    background-color: #222 !important;
+    color: #aaa !important;
 }
 
 b, strong {
     color: #aaa;
- }
+}
 
 .simple-container {
     max-width: 675px;
@@ -28,6 +28,7 @@ b, strong {
     fill: white;
     stroke: white;
 }
+
 .simple-print svg {
     height: 100%;
 }
@@ -41,6 +42,11 @@ b, strong {
     border-top: 1px solid #aaa;
 }
 
+p, h1, h2, h3, h4, li {
+    margin: 0; /* Ensure no extra margins */
+    padding: 0; /* Ensure no extra padding */
+}
+
 p {
     font-size: 16px;
 }
@@ -48,13 +54,13 @@ p {
 h1 {
     font-size: 30px;
     line-height: 34px;
-    color: #aaa; /* Changes color */
+    color: #aaa;
 }
 
 h2 {
     font-size: 20px;
     line-height: 25px;
-    color: #aaa; /* Changes color */
+    color: #aaa;
 }
 
 h3 {
@@ -62,11 +68,11 @@ h3 {
     line-height: 27px;
     padding-top: 15px;
     padding-bottom: 15px;
-    color: #aaa; /* Changes color */
+    color: #aaa;
 }
 
 h4 {
-    color: #aaa; /* Changes color */
+    color: #aaa;
 }
 
 hr {
@@ -94,12 +100,17 @@ li {
 }
 
 aside,
-[class *= "sidebar"],
-[id *= "sidebar"] {
+[class*="sidebar"],
+[id*="sidebar"] {
     max-width: 90%;
     margin: 0 auto;
     border: 1px solid lightgrey;
     padding: 5px 15px;
+}
+
+br {
+    display: block;
+    line-height: 1.75em; /* Ensure consistent line height for <br /> */
 }
 
 @media (min-width: 1921px) {
