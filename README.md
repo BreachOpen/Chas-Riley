@@ -1,9 +1,9 @@
 # Introduction  
-
+<br />
 I chose the cybersecurity field due to my growth-focused mindset and a passion for understanding how complicated things function. To me, cybersecurity is a complex puzzle that is filled with constant challenges and accomplishments, fueling my drive to learn and improve. I believe we should all continuously seek knowledge and aim to be better each day. My past mentorship from exceptional leaders and the insights from subordinates have instilled in me a strong sense of integrity and a continuous pursuit of wisdom. I take pride in my work, understanding that it reflects my character, and I always strive to give my best effort, especially when my work impacts others. Helping others brings me genuine satisfaction, and I find it difficult not to assist those in need, especially when that help is needed by good people. I aim to surround myself with individuals who possess integrity and a mutual desire for success. For these reasons, I seek employment with an organization that prioritizes excellence and societal betterment.<br /><br />
 
 # Work Experience  
-
+<br />
 
 ## [Delivery Coordinator](Projects/job1.md)
 *Lowe’s* (June 2022 - Present)
@@ -22,7 +22,7 @@ I chose the cybersecurity field due to my growth-focused mindset and a passion f
 - Awards and Accomplishments
 
 # [Professional Development](Projects/Education.md)  
-
+<br />
 - ## Bachelor of Applied Science in Cyber Operations
   - *University of Arizona - Tucson, AZ*
   - Emphasis: Defense and Forensics
@@ -38,8 +38,7 @@ I chose the cybersecurity field due to my growth-focused mindset and a passion f
 ### PORTIONS OF PORTFOLIO ARE STILL IN PROGRESS BELOW THIS POINT<br />
     
 # Portfolio Projects  
-
-
+<br />
 ## Penetration Testing
 - Scenario 1: [CyberApolis Water Company Breach](Projects/Pen-Testing/Water-Company.html)
 - Scenario 2: [Enumeration & Brute Force Simulation](Projects/Pen-Testing/brute.md)
@@ -98,6 +97,7 @@ I chose the cybersecurity field due to my growth-focused mindset and a passion f
 - [Internet Becomes the New Playground for Child Predators](Projects/Research/cp.md) *IN PROGRESS
 
 # 🤜🤛 Connect with me  <img src="assets/img/Epic-Hand-Shake.png" alt="Epic Hand Shake" height="300" style="height: 35px; width: auto; vertical-align: -10px;"/>  
+<br />
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/BreachOpen/Chas-Riley){:target="_blank"} 
 [![Coursera](https://img.shields.io/badge/Coursera-%230056D2.svg?style=for-the-badge&logo=Coursera&logoColor=white)](https://www.coursera.org/learner/cr0351){:target="_blank"} 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/chas-riley){:target="_blank"} <br>
