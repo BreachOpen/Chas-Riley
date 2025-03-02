@@ -15,7 +15,7 @@
 # Delivery Coordinator
 ## *Lowe’s* 
 ## June 2022 - Present
-
+  
 ## **Experience**
 - Primary point of contact for our customers, product specialists, multiple delivery teams, corporate management, vehicle technicians, third-party contractors, vendors, and installation teams.
 - Provide timely and effective communication regarding delivery inquiries, updates, order complications, and numerous other inquiries within the scope of my position.
