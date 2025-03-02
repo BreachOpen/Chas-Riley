@@ -40,7 +40,8 @@ Once replicated, we used the network analyzer tools Wireshark and tcpdump while 
 
 3: **Analyze the traffic data**
 The traffic shows multiple attempts of our UDP data packets attempting to contact the DNS server on port 53. However, the DNS server was unresponsive to our browser’s DNS queries when attempting to resolve the web server's domain name.
-<br />
+<br /><br />
+
 4: **Determine Cause**
 Lastly, we developed the most likely cause through the process of elimination
 - **Must be client side**: The customer and our system ran into the same issue. We also have to assume our system is functioning correctly. 
