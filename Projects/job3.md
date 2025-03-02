@@ -12,9 +12,9 @@
 
 --- 
 
-# Job Title: Infantry Assault Squad Leader<br />
-## Company: United States Marine Corps<br />
-## Dates Employed: March 2015 - March 2019
+# Infantry Assault Squad Leader<br />
+## *United States Marine Corps*<br />
+## March 2015 - March 2019
 
 ## Experience
 - Responsible for the training, welfare, fitness, morale, and discipline of the junior members of my squad.
