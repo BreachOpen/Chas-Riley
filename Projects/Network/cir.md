@@ -30,7 +30,8 @@ You are a cybersecurity analyst working at a company that specializes in providi
 ## Steps Taken:
 1. **Determine which end the issue occurs** 
 To investigate, we attempted to replicate the issue to determine if the issue is at the customer’s end or the client’s end.
-  - This technique simply assesses whether the issue is occurring on the customer's end or the client's end. This step is vital because it reduces the possible issues to half. Because our team was able to replicate the same problem, we now know the problem is attributed to the client.<br />
+  - This technique simply assesses whether the issue is occurring on the customer's end or the client's end. This step is vital because it reduces the possible issues to half. Because our team was able to replicate the same problem, we now know the problem is attributed to the client.
+
 ![Browser Error Message](../../assets/img/cir/2.png)
 
 2. **Utilize network analyzer tools**
@@ -54,5 +55,6 @@ There are a few possibilities as to why this issue is occurring. The scenario ha
     - Has the client's company recently implemented any significant updates or additions to their digital security systems or operational programs?
 Assuming the client hasn't made any recent changes to their digital security systems or operational programs, the issue then falls on their DNS server.
   - **Established DNS Server**: DNS server is most likely down or overloaded with requests.
-  - **New DNS Server**: Misconfiguration of the client’s DNS server itself, network, or firewall is preventing communication with the client’s customers.<br />
+  - **New DNS Server**: Misconfiguration of the client’s DNS server itself, network, or firewall is preventing communication with the client’s customers.
+
 ![Cybersecurity Incident Report](../../assets/img/cir/3.png)
