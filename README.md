@@ -91,7 +91,8 @@ I chose the cybersecurity field due to my growth-focused mindset and a passion f
 - [Aerospace Attack Analysis Exercise](Projects/CTI/aerospace.md)
 - [OpenIOC Exercise](Projects/CTI/IOC.md)
 
-## Academic and Professional Research<br /><br />
+## Academic and Professional Research  
+<br />
 - [University of Arizona Capstone Research Paper](Projects/Research/capstone.html)
 - [Botium Toys](Projects/Research/rar.html)
 - [Internet Becomes the New Playground for Child Predators](Projects/Research/cp.md) *IN PROGRESS
