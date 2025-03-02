@@ -1,18 +1,22 @@
----
-layout: default
-title: job1
----
+<div style="display: inline-block;">
+  <a href="https://breachopen.github.io/Chas-Riley/">
+    <img src="https://img.shields.io/badge/Home-3ba0e6" alt="Home">
+  </a>
+</div>
 
-[Home](https://breachopen.github.io/Chas-Riley/)
-[Github Source](https://github.com/BreachOpen/Chas-Riley/)
+<div style="display: inline-block;">
+  <a href="https://github.com/BreachOpen/Chas-Riley/" target="_blank">
+    <img src="https://img.shields.io/badge/Github_Source-3ba0e6" alt="Github Source">
+  </a>
+</div>
 
----
+--- 
 
-# Company: Lowe’s  
-# Job Title: Delivery Coordinator  
-# Dates Employed: June 2022 - Present 
+# **Company:** Lowe’s<br />
+# **Job Title:** Delivery Coordinator<br />
+# **Dates Employed:** June 2022 - Present 
 
-## Experience
+## **Experience**
 - Primary point of contact for our customers, product specialists, multiple delivery teams, corporate management, vehicle technicians, third-party contractors, vendors, and installation teams.
 - Provide timely and effective communication regarding delivery inquiries, updates, order complications, and numerous other inquiries within the scope of my position.
 - Planned, optimized, and maintained complex delivery routes for multiple delivery teams with different workloads and capabilities to minimize delivery times and costs, contributing to overall operational efficiency.
@@ -20,27 +24,26 @@ title: job1
 - Maintain delivery records, update the status of orders, and generate management-level reports.
 - Ensured compliance with safety regulations, delivery policies, and procedures, contributing to safe and efficient delivery operations.
 
-## Awards and Accomplishments
+## **Awards and Accomplishments**
 - **Primary point of contact for management** to address software malfunctions, develop solutions, and create workarounds to ensure the completion of high-priority tasks, preventing operational delays.
 - Received **72 Personal Performance Recognitions** of Achievement from Management and Peers.
 - Through my own volition, I **developed a new Standard Operating Procedure/Operational Playbook**.
-  - Utilizing the internal Operational Management System, I consolidated numerous identification barcodes into a single accessible chart/list, resulting in significant time savings and improved efficiency.
+          - Utilizing the internal Operational Management System, I consolidated numerous identification barcodes into a single accessible chart/list, resulting in significant time savings and improved efficiency.
 - Awarded **5 Career Performance Badges**: Delivering Results, Focusing on Customers, Showing Courage, Continuous Learning, and Taking Action.
 - Achieved multiple Manager Performance Evaluation Ratings of **“Exceeds Expectations”**.
 - Due to my reliability, management entrusts me to determine my own weekly schedule.
 
 ---
-
 ## Personal Performance Review #1
-**Evaluation Date:** 10/06/2023  
-**Evaluation Rating:** Exceeds Expectations  
-**Manager Evaluation Conducted by:** Back-End Dept Supervisor  
+**Evaluation Date:** 10/06/2023<br />
+**Evaluation Rating:** Exceeds Expectations<br />
+**Manager Evaluation Conducted by:** <br />Back-End Dept Supervisor<br />
 ![1st Review](../assets/img/Review1.png)
 
 ---
 
 ## Personal Performance Review #2
-**Evaluation Date:** 10/30/2024  
-**Evaluation Rating:** Exceeds Expectations  
-**Manager Evaluation Conducted by:** Back-End Dept Supervisor  
+**Evaluation Date:** 10/30/2024<br />
+**Evaluation Rating:** Exceeds Expectations<br />
+**Manager Evaluation Conducted by:** <br />Back-End Dept Supervisor<br />
 ![2nd Review](../assets/img/Review2.png)
