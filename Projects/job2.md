@@ -12,9 +12,9 @@
 
 ---
 
-# Job Title: Counter-Improvised Explosive Device Instructor<br />
-## Company: II Corps Inc.<br />
-## Dates Employed: October 2019 - January 2022
+# Counter-Improvised Explosive Device Instructor<br />
+## *II Corps Inc.* <br />
+## October 2019 - January 2022
 
 ## Experience
 -	Coordinated, instructed, and evaluated threat mitigation-focused training individually and in groups of up to 500 personnel for U.S. and Coalition forces at the individual, collective, and upper-leadership levels.
