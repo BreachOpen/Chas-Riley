@@ -12,10 +12,9 @@
 
 --- 
 
-# Delivery Coordinator<br />
-## *Lowe’s* <br />
+# Delivery Coordinator
+## *Lowe’s* 
 ## June 2022 - Present 
-<br />
 ## **Experience**
 - Primary point of contact for our customers, product specialists, multiple delivery teams, corporate management, vehicle technicians, third-party contractors, vendors, and installation teams.
 - Provide timely and effective communication regarding delivery inquiries, updates, order complications, and numerous other inquiries within the scope of my position.
@@ -35,8 +34,8 @@ Utilizing the internal Operational Management System, I consolidated numerous id
 
 ---
 ## Performance Evaluation #1
-**Evaluation Date:** 10/06/2023<br />
-**Evaluation Rating:** Exceeds Expectations<br />
+**Evaluation Date:** 10/06/2023
+**Evaluation Rating:** Exceeds Expectations
 **Manager Evaluation Conducted by:** <br />Back-End Dept Supervisor<br />
 ![1st Review](../assets/img/Review1.png)
 
