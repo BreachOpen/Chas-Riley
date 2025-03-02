@@ -42,7 +42,7 @@ To investigate, we attempted to replicate the issue to determine if the issue is
 
 2. **Utilize network analyzer tools**
 Once replicated, we used the network analyzer tools Wireshark and tcpdump while attempting to load the page.
-- This step is important because we are able to visually see the exact steps our computer took to establish a connection with the DNS server. This information replaces the generic response of "Unable to connect" that our browser is telling us.<br />
+- This step is important because we are able to visually see the exact steps our computer took to establish a connection with the DNS server. This information replaces the generic response of "Unable to connect" that our browser is telling us.<br /><br />
 
 3. **Analyze the traffic data**
 The traffic shows multiple attempts of our UDP data packets attempting to contact the DNS server on port 53. However, the DNS server was unresponsive to our browser’s DNS queries when attempting to resolve the web server's domain name.
