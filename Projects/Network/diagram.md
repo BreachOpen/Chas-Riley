@@ -17,7 +17,7 @@
 
 The diagram below shows a common network setup for a small business. Here’s a breakdown of each part and its role in the network:
 
-![Small Business Network Diagram](assets/img/network/network1.png)
+![Small Business Network Diagram](assets/img/network/small/1.png)
 
 1. **Internet**: The network starts with the internet, providing external connectivity.
 2. **Modem**: The internet connection first goes through a modem, which converts the internet signal into a form that the network can use.
@@ -29,12 +29,10 @@ The diagram below shows a common network setup for a small business. Here’s a 
    - **Printer**: A printer for, you know, printing.
    - **Desktop**: Of the computer kind.
    - **Laptop**: AKA a portable desktop.
-   - **Wireless Router**: Another router that provides wireless connectivity (WiFi) to devices that can access it. In this case, my examples are a cellphone and a laptop.
+   - **Wireless Router**: Another router that provides wireless connectivity (WiFi) to devices that can access it. In this case, my examples are a cell phone and a laptop.
 
 ## Why this Security Setup is Important
-
 Having a good security setup, like the one shown in the diagram, is great for several reasons:
-
 - **Protection from External and Internal Threats**: The firewall is the most important security piece to this network and also acts as the first line of defense, preventing unauthorized access and shielding this network from cyber attacks, malware, etc. The firewall also controls access to the network internally and externally. This means that sensitive data for this small business remains confidential and is only accessible to authorized personnel.
 - **Network Management**: The router and switch allow efficient communication between devices/entities on the network, ensuring smooth operation and quick response times. Proper configuration also helps in monitoring and managing network traffic, which is great for security purposes.
 - **Scalability**: This setup allows for easy expansion as this business grows. You can add more devices or upgrade components without disrupting the existing network structure.
