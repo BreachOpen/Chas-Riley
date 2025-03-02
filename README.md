@@ -18,7 +18,7 @@ I chose the cybersecurity field due to my growth-focused mindset and a passion f
 - Job Experience
 - Awards and Accomplishments
 
-# [Professional Development](Projects/Education.md)<br />
+# [Professional Development](Projects/Education.md)<br /><br />
 - ## Bachelor of Applied Science in Cyber Operations
   - *University of Arizona - Tucson, AZ*
   - Emphasis: Defense and Forensics
