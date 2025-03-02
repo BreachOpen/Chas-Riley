@@ -31,13 +31,13 @@ After the timestamps, you will find the source and destination IP addresses. In 
 
 After the source and destination IP addresses, there can be several additional details like the protocol, port number of the source, and flags. In the first line of the error log, the query identification number appears as "35084". The plus sign after the query identification number indicates there are flags associated with the UDP message. The "A?" indicates a flag associated with the DNS request for an A record, where an A record maps a domain name to an IP address. The third line displays the protocol of the response message to the browser: "ICMP," which is followed by an ICMP error message.
 
-The error message "udp port 53 unreachable" is mentioned in the last line. Port 53 is a port for DNS service. The word "unreachable" in the message indicates the UDP message requesting an IP address for the domain "www.yummyrecipesforme.com" did not go through to the DNS server because no service was listening on the receiving DNS port.
+The error message "udp port 53 unreachable" is mentioned in the last line. Port 53 is a port for DNS service. The word "unreachable" in the message indicates that the UDP message requesting an IP address for the domain "www[.]yummyrecipesforme[.]com" did not go through to the DNS server because no service was listening on the receiving DNS port.
 
 The remaining lines in the log indicate that ICMP packets were sent two more times, but the same delivery error was received both times. 
 
 ## Steps Taken:
 1. **Determine which end the issue occurs** 
-To investigate, we attempted to replicate the issue to determine if the issue is at the customer’s end or at the client’s end.
+To investigate, we attempted to replicate the issue to determine if the issue is at the customer’s end or the client’s end.
   - This technique simply assesses whether the issue is occurring on the customer's end or the client's end. This step is vital because it reduces the possible issues to half. Because our team was able to replicate the same problem, we now know the problem is attributed to the client.<br />
 ![Browser Error Message](../../assets/img/cir/2.png)
 
@@ -56,7 +56,7 @@ Lastly, we developed the most likely cause through the process of elimination
   - **DNS Server or System Configuration is responsible**: All communication attempts end here.
 
 6. **Follow up Team**
-There are a few possibilities as to why this issue is occuring. The scenario had many details, and the investigation/correction portion is left to another team, I'd like to elaborate more on what the next team should be trying to identify.
+There are a few possibilities as to why this issue is occurring. The scenario had many details, and the investigation/correction portion is left to another team, I'd like to elaborate more on what the next team should be trying to identify.
   - Determine previous trends of the client's system
     - Is the client's company system well established or new?
     - Has the client's company recently implemented any significant updates or additions to their digital security systems or operational programs?
