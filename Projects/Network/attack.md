@@ -25,21 +25,18 @@ You take the server offline temporarily so that the machine can recover and retu
 <br /><br />
 
 ## Steps Taken:
-1: **Analyze Traffic Data**<br />
+1: **Gather Traffic Data**<br />
 To investigate, we need to inspect the data in transit to get a better understanding of why the connection is timing out.
 - To do this, we use a  network analyzer tool like Wireshark to inspect the data packets.
 
-may be causing attempted to replicate the issue to determine if the issue is at the customer’s end or the client’s end.
-- This technique simply assesses whether the issue is occurring on the customer's end or the client's end. This step is vital because it reduces the possible issues to half. Because our team was able to replicate the same problem, we now know the problem is attributed to the client.
+2: **Analyze Traffic Data**<br />
+- A large number of TCP SYN requests are coming from the IP address "203.0.113.0".
+- In the 52 seconds of recorded traffic, we received 140 SYN requests from the IP address "203.0.113.0" <br />
+![Excelsheet](../../assets/img/attack/1.png)
 
-![Browser Error Message](../../assets/img/cir/2.png)
-
-2: **Utilize network analyzer tools**<br />
-Once replicated, we used the network analyzer tools Wireshark and tcpdump while attempting to load the page.
-- This step is important because we are able to visually see the exact steps our computer took to establish a connection with the DNS server. This information replaces the generic response of "Unable to connect" that our browser is telling us.<br />
-
-3: **Analyze the traffic data**<br />
-The traffic shows multiple attempts of our UDP data packets attempting to contact the DNS server on port 53. However, the DNS server was unresponsive to our browser’s DNS queries when attempting to resolve the web server's domain name.
+3: **Determine Reason for Connection Timing Out**<br />
+- The traffic shows numerous SYN requests and it's reasonable to assume our organization's system is currently being attacked
+- Based on the information available to us, this is most likely a Denial of service attack (DoS), but more specifically, a SYN Flood Attack.
 <br /><br />
 
 4: **Determine Cause**<br />
