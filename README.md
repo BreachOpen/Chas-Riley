@@ -2,17 +2,17 @@
 I chose the cybersecurity field due to my growth-focused mindset and a passion for understanding how complicated things function. To me, cybersecurity is a complex puzzle that is filled with constant challenges and accomplishments, fueling my drive to learn and improve. I believe we should all continuously seek knowledge and aim to be better each day. My past mentorship from exceptional leaders and the insights from subordinates have instilled in me a strong sense of integrity and a continuous pursuit of wisdom. I take pride in my work, understanding that it reflects my character, and I always strive to give my best effort, especially when my work impacts others. Helping others brings me genuine satisfaction, and I find it difficult not to assist those in need, especially when that help is needed by good people. I aim to surround myself with individuals who possess integrity and a mutual desire for success. For these reasons, I seek employment with an organization that prioritizes excellence and societal betterment.
 
 # Work Experience
-[**Job Title:** Delivery Coordinator<br />
+**Job Title:** [Delivery Coordinator](Projects/job1.md)<br />
 **Company:** Lowe’s<br />
-**Dates Employed:** June 2022 - Present](Projects/job1.md) 
+**Dates Employed:** June 2022 - Present
 
-[**Job Title:** Counter-Improvised Explosive Device Instructor<br />
+[**Job Title:** Counter-Improvised Explosive Device Instructor](Projects/job2.md)<br />
 **Company:** II Corps Inc.<br />
-**Dates Employed:** October 2019 - January 2022](Projects/job2.md) 
+**Dates Employed:** October 2019 - January 2022 
 
-[**Job Title:** Infantry Assault Squad Leader<br />
+[**Job Title:** Infantry Assault Squad Leader](Projects/job3.md)<br />
 **Company:** United States Marine Corps<br />
-**Dates Employed:** March 2015 - March 2019](Projects/job3.md) 
+**Dates Employed:** March 2015 - March 2019 
 
 # [Professional Development](Projects/Education.md)
 - ## Bachelor of Applied Science in Cyber Operations <br />
