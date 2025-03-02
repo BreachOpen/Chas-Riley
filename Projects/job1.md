@@ -34,7 +34,7 @@ Utilizing the internal Operational Management System, I consolidated numerous id
 - Due to my reliability, management entrusts me to determine my own weekly schedule.
 
 ---
-## Personal Performance Review #1
+## Performance Evaluation #1
 **Evaluation Date:** 10/06/2023<br />
 **Evaluation Rating:** Exceeds Expectations<br />
 **Manager Evaluation Conducted by:** <br />Back-End Dept Supervisor<br />
@@ -42,7 +42,7 @@ Utilizing the internal Operational Management System, I consolidated numerous id
 
 ---
 
-## Personal Performance Review #2
+## Performance Evaluation #2
 **Evaluation Date:** 10/30/2024<br />
 **Evaluation Rating:** Exceeds Expectations<br />
 **Manager Evaluation Conducted by:** <br />Back-End Dept Supervisor<br />
