@@ -4,6 +4,7 @@ I chose the cybersecurity field due to my growth-focused mindset and a passion f
 
 # Work Experience  
 
+
 ## [Delivery Coordinator](Projects/job1.md)
 *Lowe’s* (June 2022 - Present)
 - Job Experience
@@ -21,6 +22,7 @@ I chose the cybersecurity field due to my growth-focused mindset and a passion f
 - Awards and Accomplishments
 
 # [Professional Development](Projects/Education.md)  
+
 - ## Bachelor of Applied Science in Cyber Operations
   - *University of Arizona - Tucson, AZ*
   - Emphasis: Defense and Forensics
@@ -36,6 +38,7 @@ I chose the cybersecurity field due to my growth-focused mindset and a passion f
 ### PORTIONS OF PORTFOLIO ARE STILL IN PROGRESS BELOW THIS POINT<br />
     
 # Portfolio Projects  
+
 
 ## Penetration Testing
 - Scenario 1: [CyberApolis Water Company Breach](Projects/Pen-Testing/Water-Company.html)
