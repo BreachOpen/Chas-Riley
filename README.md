@@ -8,12 +8,12 @@ I chose the cybersecurity field due to my growth-focused mindset and a passion f
 - Awards and Accomplishments
 - Performance Evaluations
 
-## [Counter-Improvised Explosive Device Instructor](Projects/job2.md)<br />
+## [Counter-Improvised Explosive Device Instructor](Projects/job2.md)
 *II Corps Inc.* (October 2019 - January 2022)
 - Job Experience
 - Awards and Accomplishments
 
-## [Infantry Assault Squad Leader](Projects/job3.md)<br />
+## [Infantry Assault Squad Leader](Projects/job3.md)
 *United States Marine Corps* (March 2015 - March 2019)
 - Job Experience
 - Awards and Accomplishments
@@ -32,7 +32,7 @@ I chose the cybersecurity field due to my growth-focused mindset and a passion f
   - Coursera
   - TryHackMe
 
-### PORTIONS ARE STILL IN PROGRESS BELOW THIS POINT<br />
+### PORTIONS ARE STILL IN PROGRESS BELOW THIS POINT
     
 # Portfolio Projects  
 
