@@ -17,7 +17,7 @@
 
 The diagram below shows a common network setup for a small business. Here’s a breakdown of each part and its role in the network:
 
-![Small Business Network Diagram](assets/img/network/small/1.png)
+![Small Business Network Diagram](../../assets/img/network/small/1.png)
 
 1. **Internet**: The network starts with the internet, providing external connectivity.
 2. **Modem**: The internet connection first goes through a modem, which converts the internet signal into a form that the network can use.
