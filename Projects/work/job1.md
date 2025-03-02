@@ -13,8 +13,8 @@
 
 ---
 
-# Company: Lowe’s
-# Job Title: Delivery Coordinator
+# Company: Lowe’s<br />
+# Job Title: Delivery Coordinator<br />
 # Dates Employed: June 2022 - Present 
 
 ## Experience
@@ -37,15 +37,15 @@
 ---
 
 ## Personal Performance Review #1
-**Evaluation Date:** 10/06/2023
-**Evaluation Rating:** Exceeds Expectations
-**Manager Evaluation Conducted by:** Back-End Dept Supervisor
+**Evaluation Date:** 10/06/2023<br />
+**Evaluation Rating:** Exceeds Expectations<br />
+**Manager Evaluation Conducted by:** <br />Back-End Dept Supervisor<br />
 ![1st Review](../assets/img/Review1.png)
 
 ---
 
 ## Personal Performance Review #2
-**Evaluation Date:** 10/30/2024
-**Evaluation Rating:** Exceeds Expectations
-**Manager Evaluation Conducted by:** Back-End Dept Supervisor
+**Evaluation Date:** 10/30/2024<br />
+**Evaluation Rating:** Exceeds Expectations<br />
+**Manager Evaluation Conducted by:** <br />Back-End Dept Supervisor<br />
 ![2nd Review](../assets/img/Review2.png)
