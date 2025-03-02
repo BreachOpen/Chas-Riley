@@ -31,6 +31,7 @@ You are a cybersecurity analyst working at a company that specializes in providi
 1: **Determine which end the issue occurs** 
 To investigate, we attempted to replicate the issue to determine if the issue is at the customer’s end or the client’s end.
 - This technique simply assesses whether the issue is occurring on the customer's end or the client's end. This step is vital because it reduces the possible issues to half. Because our team was able to replicate the same problem, we now know the problem is attributed to the client.
+
 ![Browser Error Message](../../assets/img/cir/2.png)
 
 2: **Utilize network analyzer tools**
