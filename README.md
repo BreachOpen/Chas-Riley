@@ -96,8 +96,7 @@ I chose the cybersecurity field due to my growth-focused mindset and a passion f
 - [Botium Toys](Projects/Research/rar.html)
 - [Internet Becomes the New Playground for Child Predators](Projects/Research/cp.md) *IN PROGRESS
 
-# 🤜🤛 Connect with me  <img src="assets/img/Epic-Hand-Shake.png" alt="Epic Hand Shake" height="300" style="height: 35px; width: auto; vertical-align: -10px;"/>  
-<br />
+# Connect with me 🤜🤛
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/BreachOpen/Chas-Riley){:target="_blank"} 
 [![Coursera](https://img.shields.io/badge/Coursera-%230056D2.svg?style=for-the-badge&logo=Coursera&logoColor=white)](https://www.coursera.org/learner/cr0351){:target="_blank"} 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/chas-riley){:target="_blank"} <br>
