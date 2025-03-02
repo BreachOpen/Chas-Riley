@@ -12,10 +12,10 @@
 
 --- 
 
-# Infantry Assault Squad Leader<br />
-## *United States Marine Corps*<br />
+# Infantry Assault Squad Leader
+## *United States Marine Corps*
 ## March 2015 - March 2019
-<br />
+
 ## Experience
 - Responsible for the training, welfare, fitness, morale, and discipline of the junior members of my squad.
 - Tasked with the tactical employment of an 8-marine squad in accordance with the mission essential task list, training and readiness manual and unit’s standard operating procedure.
