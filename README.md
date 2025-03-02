@@ -55,7 +55,7 @@ I chose the cybersecurity field due to my growth-focused mindset and a passion f
 
 ## Network Architecture and Security<br />
 - [Home Network Setup](Projects/Network/home-network.md) *IN PROGRESS
-- [Small Business Network Diagram](Projects/Network/diagram.md) *IN PROGRESS
+- [Small Business Network Diagram](Projects/Network/diagram.md)
 - [Research Paper: Network Communication and Security Analysis](Projects/Network/analysis.md) *IN PROGRESS
 - [Public and Private Network Architecture Final Project](Projects/Network/diagram2.html)
 - [Cybersecurity Incident Report: Network Traffic Analysis](Projects/Network/cir.md)
