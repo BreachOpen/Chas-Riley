@@ -13,8 +13,8 @@
 --- 
 
 # Infantry Assault Squad Leader
-## *United States Marine Corps*
-## March 2015 - March 2019
+### *United States Marine Corps*
+### March 2015 - March 2019
 
 ## Experience
 - Responsible for the training, welfare, fitness, morale, and discipline of the junior members of my squad.
