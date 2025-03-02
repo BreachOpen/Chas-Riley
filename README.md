@@ -4,15 +4,15 @@ I chose the cybersecurity field due to my growth-focused mindset and a passion f
 # Work Experience
 [**Job Title:** Delivery Coordinator<br />
 **Company:** Lowe’s<br />
-**Dates Employed:** June 2022 - Present](Projects/work/job1.md) 
+**Dates Employed:** June 2022 - Present](Projects/work/job1.html) 
 
 [**Job Title:** Counter-Improvised Explosive Device Instructor<br />
 **Company:** II Corps Inc.<br />
-**Dates Employed:** October 2019 - January 2022](Projects/work/job2.md) 
+**Dates Employed:** October 2019 - January 2022](Projects/work/job2.html) 
 
 [**Job Title:** Infantry Assault Squad Leader<br />
 **Company:** United States Marine Corps<br />
-**Dates Employed:** March 2015 - March 2019](Projects/work/job3.md) 
+**Dates Employed:** March 2015 - March 2019](Projects/work/job3.html) 
 
 # [Professional Development](Projects/Education.md)
 - ## Bachelor of Applied Science in Cyber Operations <br />
