@@ -21,7 +21,7 @@ March 2015 - March 2019 <br />
 - Job Experience
 - Awards and Accomplishments
 
-# [Professional Development](Projects/Education.md)
+# [Professional Development](Projects/Education.md)<br />
 - ## Bachelor of Applied Science in Cyber Operations <br />
   - *University of Arizona - Tucson, AZ*
   - Emphasis: Defense and Forensics
@@ -34,35 +34,35 @@ March 2015 - March 2019 <br />
   - Coursera
   - TryHackMe
 
-## PORTIONS OF PORTFOLIO ARE STILL IN PROGRESS BELOW THIS POINT
+## PORTIONS OF PORTFOLIO ARE STILL IN PROGRESS BELOW THIS POINT<br /><br />
     
-# Portfolio Projects
-## Penetration Testing
+# Portfolio Projects<br />
+## Penetration Testing<br />
 - Scenario 1: [CyberApolis Water Company Breach](Projects/Pen-Testing/Water-Company.html)
 - Scenario 2: [Enumeration & Brute Force Simulation](Projects/Pen-Testing/brute.md)
 - Scenario 3: [](Projects/Pen-Testing/) *IN PROGRESS
 - Scenario 4: [](Projects/Pen-Testing/) *IN PROGRESS
 - Scenario 5: [](Projects/Pen-Testing/) *IN PROGRESS
 
-## Digital Forensics
+## Digital Forensics<br />
 - [Corporate Network Cybersecurity Breach Investigation](Projects/Forensics/scenario1.md)
 - [Photo Metadata Analysis and Suspect Linkage](Projects/Forensics/scenario2.md)
 - [Investigating Insider Threat through Email Analysis](Projects/Forensics/scenario3.md) *IN PROGRESS
 - [Investigation of Identity Theft and Bank Heist Plot](Projects/Forensics/scenario4.md) *IN PROGRESS
 
-## Digital Reconnaissance
+## Digital Reconnaissance<br />
 - [Digital Profiling 1: Tim](Projects/Recon/tim.md) *IN PROGRESS
 - [Digital Profiling 2: Sarah](Projects/Recon/sarah.md) *IN PROGRESS
 - [Digital Profiling 3: John](Projects/Recon/john.md) *IN PROGRESS
 
-## Network Architecture
+## Network Architecture<br />
 - [Home Network Setup](Projects/Network/home-network.md) *IN PROGRESS
 - [Small Business Network Diagram](Projects/Network/diagram.md) *IN PROGRESS
 - [Research Paper: Network Communication and Security Analysis](Projects/Network/analysis.md) *IN PROGRESS
 - [Public and Private Network Architecture Final Project](Projects/Network/diagram2.html)
  [](Projects/Network/ndc.md)
 
-## Python Scripting and Automation *IN PROGRESS
+## Python Scripting and Automation <br /> *IN PROGRESS
 - [Website Scraper](Projects/Script/scrape.md) 
 - [Carving MP3 ID3 Headers](Projects/Script/carve.md)
 - [Covert Communications with Python](Projects/Script/covert.md)
@@ -77,11 +77,11 @@ March 2015 - March 2019 <br />
 - [Simple String Searching](Projects/Script/string.md)
 - [Website Crawler](Projects/Script/crawl.md)
 
-## Social Engineering & Cyber Deception *IN PROGRESS
+## Social Engineering & Cyber Deception <br />*IN PROGRESS
 - [Sock Puppet Creation](Projects/Deception/create.md)
 - [Sock Puppet Detection](Projects/Deception/detect.md)
 
-## Cyber Threat Intelligence (CTI) *IN PROGRESS
+## Cyber Threat Intelligence (CTI)<br /> *IN PROGRESS
 - [CTI Report: APT28 Target Package](Projects/CTI/APT28.md)
 - [CTI Report: APT33 Target Package](Projects/CTI/APT33.md)
 - [Bad Actor Profiling: LulzSec](Projects/CTI/LulzSec.md)
@@ -89,12 +89,12 @@ March 2015 - March 2019 <br />
 - [Aerospace Attack Analysis Exercise](Projects/CTI/aerospace.md)
 - [OpenIOC Exercise](Projects/CTI/IOC.md)
 
-## Academic and Professional Research
+## Academic and Professional Research<br />
 - [University of Arizona Capstone Research Paper](Projects/Research/capstone.html)
 - [Botium Toys](Projects/Research/rar.html)
 - [Internet Becomes the New Playground for Child Predators](Projects/Research/cp.md) *IN PROGRESS
 
-# 🤜🤛 Connect with me  <img src="assets/img/Epic-Hand-Shake.png" alt="Epic Hand Shake" height="300" style="height: 35px; width: auto; vertical-align: -10px;"/>
+# 🤜🤛 Connect with me  <img src="assets/img/Epic-Hand-Shake.png" alt="Epic Hand Shake" height="300" style="height: 35px; width: auto; vertical-align: -10px;"/><br />
 
 
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/BreachOpen/Chas-Riley){:target="_blank"} 
