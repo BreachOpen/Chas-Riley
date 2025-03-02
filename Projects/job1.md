@@ -12,11 +12,11 @@
 
 ---
 
-# **Company:** Lowe’s<br />
-# **Job Title:** Delivery Coordinator<br />
-# **Dates Employed:** June 2022 - Present 
+# Company: Lowe’s<br />
+# Job Title: Delivery Coordinator<br />
+# Dates Employed: June 2022 - Present 
 
-## **Experience**
+## Experience
 - Primary point of contact for our customers, product specialists, multiple delivery teams, corporate management, vehicle technicians, third-party contractors, vendors, and installation teams.
 - Provide timely and effective communication regarding delivery inquiries, updates, order complications, and numerous other inquiries within the scope of my position.
 - Planned, optimized, and maintained complex delivery routes for multiple delivery teams with different workloads and capabilities to minimize delivery times and costs, contributing to overall operational efficiency.
@@ -24,7 +24,7 @@
 - Maintain delivery records, update the status of orders, and generate management-level reports.
 - Ensured compliance with safety regulations, delivery policies, and procedures, contributing to safe and efficient delivery operations.
 
-## **Awards and Accomplishments**
+## Awards and Accomplishments
 - **Primary point of contact for management** to address software malfunctions, develop solutions, and create workarounds to ensure the completion of high-priority tasks, preventing operational delays.
 - Received **72 Personal Performance Recognitions** of Achievement from Management and Peers.
 - Through my own volition, I **developed a new Standard Operating Procedure/Operational Playbook**.
