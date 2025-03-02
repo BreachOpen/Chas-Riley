@@ -1,3 +1,8 @@
+---
+layout: default
+title: Job Description
+---
+
 [Home](https://breachopen.github.io/Chas-Riley/)
 [Github Source](https://github.com/BreachOpen/Chas-Riley/)
 
@@ -39,4 +44,3 @@
 **Evaluation Rating:** Exceeds Expectations  
 **Manager Evaluation Conducted by:** Back-End Dept Supervisor  
 ![2nd Review](../assets/img/Review2.png)
-
