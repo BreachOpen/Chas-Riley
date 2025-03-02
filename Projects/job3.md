@@ -12,18 +12,18 @@
 
 ---
 
-# **Company:** United States Marine Corps<br />
-# **Job Title:** Infantry Assault Squad Leader<br />
-# **Dates Employed:** March 2015 - March 2019
+# Company: United States Marine Corps<br />
+# Job Title: Infantry Assault Squad Leader<br />
+# Dates Employed: March 2015 - March 2019
 
-## **Experience**
+## Experience
 - Responsible for the training, welfare, fitness, morale, and discipline of the junior members of my squad.
 - Tasked with the tactical employment of an 8-marine squad in accordance with the mission essential task list, training and readiness manual and unit’s standard operating procedure.
 - Maintained 100% accountability of all personnel, as well as gear and equipment valued over $2.5M on multiple 8-month deployments.
 - Appointed to lead 20-25 subordinates, where I led multiple events/projects with little to no oversight in highly stressful situations.
 - Instructed, evaluated, and assessed the primary, remedial, and sustainment of my company (180 people).
 
-## **Awards and Accomplishments**
+## Awards and Accomplishments
 - Chosen as a lead instructor for the company; duties included training scheduling, classroom instruction, practical application, and maintaining certificates and records of all classes taught.
 - Developed a new company Standard Operating Procedure that was successfully utilized in multiple training events.
       - Created improvised equipment that allowed previously unavailable observation using infrared technology that mitigated risk, improved efficiency, saved $100k+ over time, and potentially saved numerous lives. This TTP is still being used today
