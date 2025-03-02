@@ -1,25 +1,25 @@
 # Introduction<br />
 I chose the cybersecurity field due to my growth-focused mindset and a passion for understanding how complicated things function. To me, cybersecurity is a complex puzzle that is filled with constant challenges and accomplishments, fueling my drive to learn and improve. I believe we should all continuously seek knowledge and aim to be better each day. My past mentorship from exceptional leaders and the insights from subordinates have instilled in me a strong sense of integrity and a continuous pursuit of wisdom. I take pride in my work, understanding that it reflects my character, and I always strive to give my best effort, especially when my work impacts others. Helping others brings me genuine satisfaction, and I find it difficult not to assist those in need, especially when that help is needed by good people. I aim to surround myself with individuals who possess integrity and a mutual desire for success. For these reasons, I seek employment with an organization that prioritizes excellence and societal betterment.<br /><br />
 
-# Work Experience  
-## [Delivery Coordinator](Projects/job1.md), *Lowe’s* <br />
-June 2022 - Present  
+# Work Experience  <br /><br />
+## [Delivery Coordinator](Projects/job1.md), *Lowe’s* 
+June 2022 - Present
 - Job Experience
 - Awards and Accomplishments
 - Performance Evaluations
 
-## [Counter-Improvised Explosive Device Instructor](Projects/job2.md), *II Corps Inc.* <br />
-October 2019 - January 2022 <br />
+## [Counter-Improvised Explosive Device Instructor](Projects/job2.md), *II Corps Inc.*
+October 2019 - January 2022
 - Job Experience
 - Awards and Accomplishments
 
-## [Infantry Assault Squad Leader](Projects/job3.md) *United States Marine Corps* <br />
-March 2015 - March 2019 <br />
+## [Infantry Assault Squad Leader](Projects/job3.md) *United States Marine Corps*
+March 2015 - March 2019
 - Job Experience
 - Awards and Accomplishments
 
-# [Professional Development](Projects/Education.md)<br />
-- ## Bachelor of Applied Science in Cyber Operations <br />
+# [Professional Development](Projects/Education.md)<br /><br />
+- ## Bachelor of Applied Science in Cyber Operations
   - *University of Arizona - Tucson, AZ*
   - Emphasis: Defense and Forensics
   - Acquired: December 20, 2024
@@ -33,15 +33,15 @@ March 2015 - March 2019 <br />
 
 ## PORTIONS OF PORTFOLIO ARE STILL IN PROGRESS BELOW THIS POINT<br /><br />
     
-# Portfolio Projects<br />
-## Penetration Testing<br />
+# Portfolio Projects<br /><br />
+## Penetration Testing
 - Scenario 1: [CyberApolis Water Company Breach](Projects/Pen-Testing/Water-Company.html)
 - Scenario 2: [Enumeration & Brute Force Simulation](Projects/Pen-Testing/brute.md)
 - Scenario 3: [](Projects/Pen-Testing/) *IN PROGRESS
 - Scenario 4: [](Projects/Pen-Testing/) *IN PROGRESS
 - Scenario 5: [](Projects/Pen-Testing/) *IN PROGRESS
 
-## Digital Forensics<br />
+## Digital Forensics
 - [Corporate Network Cybersecurity Breach Investigation](Projects/Forensics/scenario1.md)
 - [Photo Metadata Analysis and Suspect Linkage](Projects/Forensics/scenario2.md)
 - [Investigating Insider Threat through Email Analysis](Projects/Forensics/scenario3.md) *IN PROGRESS
@@ -59,7 +59,7 @@ March 2015 - March 2019 <br />
 - [Public and Private Network Architecture Final Project](Projects/Network/diagram2.html)
  [](Projects/Network/ndc.md)
 
-## Python Scripting and Automation <br /> *IN PROGRESS
+## Python Scripting and Automation  *IN PROGRESS<br /><br />
 - [Website Scraper](Projects/Script/scrape.md) 
 - [Carving MP3 ID3 Headers](Projects/Script/carve.md)
 - [Covert Communications with Python](Projects/Script/covert.md)
@@ -74,11 +74,11 @@ March 2015 - March 2019 <br />
 - [Simple String Searching](Projects/Script/string.md)
 - [Website Crawler](Projects/Script/crawl.md)
 
-## Social Engineering & Cyber Deception <br />*IN PROGRESS
+## Social Engineering & Cyber Deception *IN PROGRESS<br /><br />
 - [Sock Puppet Creation](Projects/Deception/create.md)
 - [Sock Puppet Detection](Projects/Deception/detect.md)
 
-## Cyber Threat Intelligence (CTI)<br /> *IN PROGRESS
+## Cyber Threat Intelligence (CTI) *IN PROGRESS<br /><br />
 - [CTI Report: APT28 Target Package](Projects/CTI/APT28.md)
 - [CTI Report: APT33 Target Package](Projects/CTI/APT33.md)
 - [Bad Actor Profiling: LulzSec](Projects/CTI/LulzSec.md)
@@ -86,12 +86,12 @@ March 2015 - March 2019 <br />
 - [Aerospace Attack Analysis Exercise](Projects/CTI/aerospace.md)
 - [OpenIOC Exercise](Projects/CTI/IOC.md)
 
-## Academic and Professional Research<br />
+## Academic and Professional Research<br /><br />
 - [University of Arizona Capstone Research Paper](Projects/Research/capstone.html)
 - [Botium Toys](Projects/Research/rar.html)
 - [Internet Becomes the New Playground for Child Predators](Projects/Research/cp.md) *IN PROGRESS
 
-# 🤜🤛 Connect with me  <img src="assets/img/Epic-Hand-Shake.png" alt="Epic Hand Shake" height="300" style="height: 35px; width: auto; vertical-align: -10px;"/><br />
+# 🤜🤛 Connect with me  <img src="assets/img/Epic-Hand-Shake.png" alt="Epic Hand Shake" height="300" style="height: 35px; width: auto; vertical-align: -10px;"/><br /><br />
 
 
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/BreachOpen/Chas-Riley){:target="_blank"} 
