@@ -13,7 +13,7 @@
 --- 
 
 # Delivery Coordinator<br />
-## Lowe’s<br />
+## *Lowe’s* <br />
 ## June 2022 - Present 
 
 ## **Experience**
