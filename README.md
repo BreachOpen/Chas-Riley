@@ -59,7 +59,7 @@ I chose the cybersecurity field due to my growth-focused mindset and a passion f
 - [Public and Private Network Architecture Final Project](Projects/Network/diagram2.html)
  [](Projects/Network/ndc.md)
 
-## Python Scripting and Automation  *IN PROGRESS<br /><br />
+## Python Scripting and Automation  *IN PROGRESS<br />
 - [Website Scraper](Projects/Script/scrape.md) 
 - [Carving MP3 ID3 Headers](Projects/Script/carve.md)
 - [Covert Communications with Python](Projects/Script/covert.md)
@@ -74,11 +74,11 @@ I chose the cybersecurity field due to my growth-focused mindset and a passion f
 - [Simple String Searching](Projects/Script/string.md)
 - [Website Crawler](Projects/Script/crawl.md)
 
-## Social Engineering & Cyber Deception *IN PROGRESS<br /><br />
+## Social Engineering & Cyber Deception *IN PROGRESS<br />
 - [Sock Puppet Creation](Projects/Deception/create.md)
 - [Sock Puppet Detection](Projects/Deception/detect.md)
 
-## Cyber Threat Intelligence (CTI) *IN PROGRESS<br /><br />
+## Cyber Threat Intelligence (CTI) *IN PROGRESS<br />
 - [CTI Report: APT28 Target Package](Projects/CTI/APT28.md)
 - [CTI Report: APT33 Target Package](Projects/CTI/APT33.md)
 - [Bad Actor Profiling: LulzSec](Projects/CTI/LulzSec.md)
