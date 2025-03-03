@@ -15,7 +15,7 @@
 # Cybersecurity Incident Report: Network Traffic Analysis
 
 ## Scenario
-You are a cybersecurity analyst working at a company that specializes in providing IT services for clients. Several customers of clients reported that they were not able to access the client company website www[.]yummyrecipesforme[.]com and saw the error “destination port unreachable” after waiting for the page to load.<br /><br />
+You are a cybersecurity analyst working at a company that specializes in providing IT services for clients. Several customers of clients reported that they were not able to access the client (host) company website www[.]yummyrecipesforme[.]com and saw the error “destination port unreachable” after waiting for the page to load.<br /><br />
 
 ## Information Found Within tcpdump Log <br />
 ![Data Traffic](../../assets/img/cir/1.png) <br />
@@ -29,8 +29,8 @@ You are a cybersecurity analyst working at a company that specializes in providi
 
 ## Steps Taken:
 1: **Determine which end the issue occurs**<br />
-To investigate, we attempted to replicate the issue to determine if the issue is at the customer’s end or the client’s end.
-- This technique simply assesses whether the issue is occurring on the customer's end or the client's end. This step is vital because it reduces the possible issues to half. Because our team was able to replicate the same problem, we now know the problem is attributed to the client.
+To investigate, we attempted to replicate the issue to determine if the issue was at the customer’s  end or the host’s end.
+- This technique simply assesses whether the issue is occurring on the customer's end or the host's end. This step is vital because it reduces the possible issues to half. Because our team was able to replicate the same problem, we now know the problem is attributed to the host.
 
 ![Browser Error Message](../../assets/img/cir/2.png)
 
@@ -44,16 +44,16 @@ The traffic shows multiple attempts of our UDP data packets attempting to contac
 
 4: **Determine Cause**<br />
 Lastly, we developed the most likely cause through the process of elimination
-- **Must be client side**: The customer and our system ran into the same issue. We also have to assume our system is functioning correctly. 
+- **Must be host side**: The customer and our system ran into the same issue. We also have to assume our system is functioning correctly. 
 - **Webpage is not the issue**: The DNS server not responding prevents any connection from being created, meaning the HTTPS request is never sent to begin with. 
 - **DNS Server or System Configuration is responsible**: All communication attempts end here.
 
 5: **Follow up Team**<br />
 There are a few possibilities as to why this issue is occurring. The scenario had many details, and the investigation/correction portion is left to another team, however, I'd like to elaborate more on what the next team should be trying to identify.
-- Determine previous trends of the client's system
-- Is the client's company system well established or new?
-- Has the client's company recently implemented any significant updates or additions to their digital security systems or operational programs?<br />
-Assuming the client hasn't made any recent changes to their digital security systems or operational programs, the issue then falls on their DNS server.
+- Determine previous trends of the host's system
+- Is the host's company system well established or new?
+- Has the host's company recently implemented any significant updates or additions to their digital security systems or operational programs?<br />
+Assuming the host hasn't made any recent changes to their digital security systems or operational programs, the issue then falls on their DNS server.
 - **Established DNS Server**: DNS server is most likely down or overloaded with requests.
 - **New DNS Server**: Misconfiguration of the client’s DNS server itself, network, or firewall is preventing communication with the client’s customers.
 
