@@ -59,6 +59,7 @@ I chose the cybersecurity field due to my growth-focused mindset and a passion f
 - [Research Paper: Network Communication and Security Analysis](Projects/Network/analysis.md) *IN PROGRESS
 - [Public and Private Network Architecture Final Project](Projects/Network/diagram2.html)
 - [Cybersecurity Incident Report: Network Traffic Analysis](Projects/Network/cir.md)
+- [Analyze Network Attack](Projects/Network/attack.md) 
 
 ## Python Scripting and Automation  *IN PROGRESS<br />
 - [Website Scraper](Projects/Script/scrape.md) 
