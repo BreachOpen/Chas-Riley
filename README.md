@@ -53,7 +53,8 @@ I chose the cybersecurity field due to my growth-focused mindset and a passion f
 - [Digital Profiling 2: Sarah](Projects/Recon/sarah.md) *IN PROGRESS
 - [Digital Profiling 3: John](Projects/Recon/john.md) *IN PROGRESS
 
-## Network Architecture and Security<br />
+## Network Security and Architecture<br />
+- [Applying OS Hardening Techniques](Projects/Network/harden.md) 
 - [Home Network Setup](Projects/Network/home-network.md) *IN PROGRESS
 - [Small Business Network Diagram](Projects/Network/diagram.md)
 - [Research Paper: Network Communication and Security Analysis](Projects/Network/analysis.md) *IN PROGRESS
