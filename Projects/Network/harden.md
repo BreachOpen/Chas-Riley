@@ -18,57 +18,44 @@
 You are a cybersecurity analyst for yummyrecipesforme[.]com, a website that sells recipes and cookbooks. A former employee has decided to lure users to a fake website with malware.<br /><br />
 
 The former employee/hacker executed a brute force attack to gain access to the web host. They repeatedly entered several known default passwords for the administrative account until they correctly guessed the right one. After they obtained the login credentials, they were able to access the admin panel and change the website’s source code. They embedded a javascript function in the source code that prompted visitors to download and run a file upon visiting the website. After embedding the malware, the hacker changed the password to the administrative account. When customers download the file, they are redirected to a fake version of the website that contains the malware.<br /><br />
-
 Several hours after the attack, multiple customers emailed yummyrecipesforme’s help desk. They complained that the company’s website had prompted them to download a file to access free recipes. The customers claimed that, after running the file, the address of the website changed and their personal computers began running more slowly.<br /><br />
-
 In response to this incident, the website owner tries to log in to the admin panel but is unable to, so they reach out to the website hosting provider. You and other cybersecurity analysts are tasked with investigating this security event.<br /><br />
+Your job is to document the incident in detail, including identifying the network protocols used to establish the connection between the user and the website. You should also recommend a security action to take to prevent brute force attacks in the future.<br /><br />
 
-To address the incident, you create a sandbox environment to observe the suspicious website behavior. You run the network protocol analyzer tcpdump, then type in the URL for the website, yummyrecipesforme[.]com. As soon as the website loads, you are prompted to download an executable file to update your browser. You accept the download and allow the file to run. You then observe that your browser redirects you to a different URL, greatrecipesforme[.]com, which contains the malware.<br /><br />
+## Steps Taken From Incident Response Team
+1: **Create Sandbox Environment**<br />
+- A sandbox enviroment is important for replicating real word scenarios or incidents.  A sandbox enviroment is a protected location that is cut off from the rest of your system. This gives you the freedom to examine or run dangerous malware without the threat of damage to your system.<br /><br />
 
-## The logs show the following process:
-1. The browser initiates a DNS request: It requests the IP address of the yummyrecipesforme[.]com URL from the DNS server.
-2. The DNS replies with the correct IP address.
-3. The browser initiates an HTTP request: It requests the yummyrecipesforme[.]com webpage using the IP address sent by the DNS server.
-4. The browser initiates the download of the malware.
-5. The browser initiates a DNS request for greatrecipesforme[.]com.
-6. The DNS server responds with the IP address for greatrecipesforme[.]com.
-7. The browser initiates an HTTP request to the IP address for greatrecipesforme[.]com.
+2: **Use Network Protocol Analyzer**<br />
+- Run the network protocol analyzer tcpdump, then type in the URL "yummyrecipesforme[.]com". to observe traffic data.<br /><br />
 
+3: **Review Logs**<br />
+- The browser initiates a DNS request: It requests the IP address of the yummyrecipesforme[.]com URL from the DNS server.
+- The DNS replies with the correct IP address.
+- The browser initiates an HTTP request: It requests the yummyrecipesforme[.]com webpage using the IP address sent by the DNS server.
+- The browser initiates the download of the malware.
+- The browser initiates a DNS request for greatrecipesforme[.]com.
+- The DNS server responds with the IP address for greatrecipesforme[.]com.
+- The browser initiates an HTTP request to the IP address for greatrecipesforme[.]com.<br />
+![Data Traffic Log](../../assets/img/network/harden/1.png)<br /><br />
 
+4: **Identify the Network Protocol Involved in the Incident**<br />
+- The network protocol used in this incident is the Hypertext transfer protocol (HTTP). HTTP is used to both download the malicious file and then be redirected from the legitimate website to the spoofed website. The evidence for this is found in the network traffic data logs.<br /><br />
 
+5: **Document the Incident**<br />
+Multiple customers emailed the company’s helpdesk regarding the company’s website prompting them to download a file to access free recipes. After downloading the file, the address of the website changed, and their personal computers began running more slowly. In response, the website admin attempted to log into their admin panel, but was unable to, so they reached out to the website hosting provider.<br /><br />
 
+To analyze the incident, our team created a sandbox environment to observe the interaction between the client and host. Using a network protocol analyzer (tcpdump), we entered in the URL “yummyrecipesforme[.]com”.<br /><br />
 
+Upon loading the website, a prompt appears for the user to download an executable file to update the user’s browser. The download is accepted, allowing the file to run. 
+-	The data traffic logs show that at 14:18:36.786589, the user’s system requests to retrieve data from the host (HTTP: GET / HTTP/1.1).<br /><br />
 
+The browser is then redirected to a different URL (greatrecipesforme(.)com) which contains malware.  
+-	At 14:20:32.192571, the client sends a request to “dns[.]google[.]domain” for “greatrecipesforme[.]com”. The user is then redirected from the host site (yummyrecipesforme[.]com) to the malicious website (greatrecipesforme[.]com).<br /><br />
 
+A senior analyst confirmed the website was compromised by inspecting the source code for the website. The bad actor added JavaScript code to prompt website visitors to download an executable file that redirects the user’s browser from “yummyrecipesforme[.]com” to “greatrecipesforme[.]com”. Our team confirmed the web server was impacted by a brute force attack. The former employee/hacker was able to guess the password because the admin password was set to the default password. Additionally, there were no controls in place to prevent a brute force attack.<br /><br />
 
+6: **Recommend Remediation for Brute Force Attacks**<br />
+To mitigate the risk of brute force attacks, the company needs to require the use of strong passwords by employees and users. The company IT team should also implement an account lockout mechanism that will temporarily lock out a website visitor or the attempted account after failing to log in a set number of times.<br /><br />
 
-
-1: **Gather Traffic Data**<br />
-To investigate, we need to inspect the data in transit to get a better understanding of why the connection is timing out.
-- To do this, we use a  network analyzer tool like Wireshark to inspect the data packets.
-
-2: **Analyze Traffic Data**<br />
-- A large number of TCP SYN requests are coming from the IP address "203.0.113.0".
-- In the 52 seconds of recorded traffic, our system received 140 SYN requests from the IP address "203.0.113.0" <br />
-
-![Excelsheet](../../assets/img/network/attack/1.png)
-
-3: **Determine Reason for Connection Timing Out**<br />
-- The traffic shows numerous SYN requests and it's reasonable to assume our organization's system is currently being attacked
-- Based on the information available to us, this is most likely a Denial of service attack (DoS), but more specifically, a SYN Flood Attack.
-<br /><br />
-
-4: **Immediate Course of Action**<br />
-The most important action to take once an active threat/attack has been discovered is to minimize the immediate impact of the active attack and then return the availability of the asset (in this case, the company website).
-- **Take the server offline**: This solution is only temporary, but it allowes the system to return back to its normal operating functions. If this attack were more serious, this step would still be the most crucial when it comes to stopping attack and preventing further damage.
-- **Block the IP Address**: Also temporary, but blocking the IP address "203.0.113.0" by configuring the company’s firewall will stop the abnormal number of SYN requests and bring back the availability of the company's website. 
-
-5: **Permenant Solution**<br />
-Blocking an IP's access will only slow down the attacker. The moment they realize their IP address is being blocked, they can also change or spoof their IP address to continue further attacks. At this point, it's best to notify your CISO/team leader/manager for permenant solutions.
-- Spoofing an IP address can be as simple as using a VPN or changing the user's server location within their VPN application.
-
-6: **Recommendations**<br />
-Although outside the scope of the scenario, I'd like to offer permenant solutions that could be implemented to mitigate further DoS attacks in the future. - MITRE ATT&CK recommends filtering upstream network traffic by utilizing Content Delivery Networks (CDN). CDN's can block source addresses, block targeted ports, and block the protocols used for transport.
-- MITRE ATT&CK also recommends using SYN Cookies to prevent SYN Flood Attacks. SYN Cookies slightly alters the way a system handles TCP handshakes. The host encodes essential information (client's initial sequence number, a secret key, and a timestamp). The server will not use resources on SYN requests until the final ACK packet is received and the server has verified that the SYN cookie is legitimate.<br />
-
-![Attack Incident Report](../../assets/img/network/attack/2.png)
+![Incident Report](../../assets/img/network/harden/2.png)
