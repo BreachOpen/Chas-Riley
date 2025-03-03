@@ -54,9 +54,11 @@ Upon loading the website, a prompt appears for the user to download an executabl
 The browser is then redirected to a different URL (greatrecipesforme(.)com) which contains malware.  
 -	At 14:20:32.192571, the client sends a request to “dns[.]google[.]domain” for “greatrecipesforme[.]com”. The user is then redirected from the host site (yummyrecipesforme[.]com) to the malicious website (greatrecipesforme[.]com).<br />
 
-A senior analyst confirmed the website was compromised by inspecting the source code for the website. The bad actor added JavaScript code to prompt website visitors to download an executable file that redirects the user’s browser from “yummyrecipesforme[.]com” to “greatrecipesforme[.]com”. Our team confirmed the web server was impacted by a brute force attack. The former employee/hacker was able to guess the password because the admin password was set to the default password. Additionally, there were no controls in place to prevent a brute force attack.<br />
+A senior analyst confirmed the website was compromised by inspecting the source code for the website. The bad actor added JavaScript code to prompt website visitors to download an executable file that redirects the user’s browser from “yummyrecipesforme[.]com” to “greatrecipesforme[.]com”. Our team confirmed the web server was impacted by a brute force attack. The former employee/hacker was able to guess the password because the admin password was set to the default password. Additionally, there were no controls in place to prevent a brute force attack.<br /><br />
 
 6: **Recommend Remediation for Brute Force Attacks**<br />
-To mitigate the risk of brute force attacks, the company needs to require the use of strong passwords by employees and users. The company IT team should also implement an account lockout mechanism that will temporarily lock out a website visitor or the attempted account after failing to log in a set number of times.<br />
+To mitigate the risk of brute force attacks, the company needs to require the use of strong passwords by employees and users. The company IT team should also implement an account lockout mechanism that will temporarily lock out a website visitor or the attempted account after failing to log in a set number of times.<br /><br />
 
 ![Incident Report](../../assets/img/network/harden/2.png)
+
+--- 
