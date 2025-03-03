@@ -31,7 +31,7 @@ To investigate, we need to inspect the data in transit to get a better understan
 
 2: **Analyze Traffic Data**<br />
 - A large number of TCP SYN requests are coming from the IP address "203.0.113.0".
-- In the 52 seconds of recorded traffic, we received 140 SYN requests from the IP address "203.0.113.0" <br />
+- In the 52 seconds of recorded traffic, our system received 140 SYN requests from the IP address "203.0.113.0" <br />
 ![Excelsheet](../../assets/img/attack/1.png)
 
 3: **Determine Reason for Connection Timing Out**<br />
@@ -39,19 +39,18 @@ To investigate, we need to inspect the data in transit to get a better understan
 - Based on the information available to us, this is most likely a Denial of service attack (DoS), but more specifically, a SYN Flood Attack.
 <br /><br />
 
-4: **Determine Cause**<br />
-Lastly, we developed the most likely cause through the process of elimination
-- **Must be client side**: The customer and our system ran into the same issue. We also have to assume our system is functioning correctly. 
-- **Webpage is not the issue**: The DNS server not responding prevents any connection from being created, meaning the HTTPS request is never sent to begin with. 
-- **DNS Server or System Configuration is responsible**: All communication attempts end here.
+4: **Immediate Course of Action**<br />
+The most important action to take once an active threat/attack has been discovered is to minimize the immediate impact of the active attack and then return the availability of the asset (in this case, the company website).
+- **Take the server offline**: This solution is only temporary, but it allowes the system to return back to its normal operating functions. If this attack were more serious, this step would still be the most crucial when it comes to stopping attack and preventing further damage.
+- **Block the IP Address**: Also temporary, but blocking the IP address "203.0.113.0" by configuring the company’s firewall will stop the abnormal number of SYN requests and bring back the availability of the company's website. 
 
-5: **Follow up Team**<br />
-There are a few possibilities as to why this issue is occurring. The scenario had many details, and the investigation/correction portion is left to another team, however, I'd like to elaborate more on what the next team should be trying to identify.
-- Determine previous trends of the client's system
-- Is the client's company system well established or new?
-- Has the client's company recently implemented any significant updates or additions to their digital security systems or operational programs?<br />
-Assuming the client hasn't made any recent changes to their digital security systems or operational programs, the issue then falls on their DNS server.
-- **Established DNS Server**: DNS server is most likely down or overloaded with requests.
-- **New DNS Server**: Misconfiguration of the client’s DNS server itself, network, or firewall is preventing communication with the client’s customers.
+5: **Permenant Solution**<br />
+Blocking an IP's access will only slow down the attacker. The moment they realize their IP address is being blocked, they can also change or spoof their IP address to continue further attacks. At this point, it's best to notify your CISO/team leader/manager for permenant solutions.
+- Spoofing an IP address can be as simple as using a VPN or changing the user's server location within their VPN application.
 
-![Cybersecurity Incident Report](../../assets/img/cir/3.png)
+6: **Recommendations**<br />
+Although outside the scope of the scenario, I'd like to offer permenant solutions that could be implemented to mitigate further DoS attacks in the future. - MITRE ATT&CK recommends filtering upstream network traffic by utilizing Content Delivery Networks (CDN). CDN's can block source addresses, block targeted ports, and block the protocols used for transport.
+- MITRE ATT&CK also recommends using SYN Cookies to prevent SYN Flood Attacks. SYN Cookies slightly alters the way a system handles TCP handshakes. The host encodes essential information (client's initial sequence number, a secret key, and a timestamp). The server will not use resources on SYN requests until the final ACK packet is received and the server has verified that the SYN cookie is legitimate.<br />
+![Attack Incident Report](../../assets/img/attack/2.png)
+
+**Reference Used**: [MITRE ATT&CK: Endpoint Denial of Service](https://attack.mitre.org/techniques/T1499/)
