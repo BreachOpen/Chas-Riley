@@ -32,6 +32,7 @@ To investigate, we need to inspect the data in transit to get a better understan
 2: **Analyze Traffic Data**<br />
 - A large number of TCP SYN requests are coming from the IP address "203.0.113.0".
 - In the 52 seconds of recorded traffic, our system received 140 SYN requests from the IP address "203.0.113.0" <br />
+
 ![Excelsheet](../../assets/img/network/attack/1.png)
 
 3: **Determine Reason for Connection Timing Out**<br />
@@ -51,6 +52,7 @@ Blocking an IP's access will only slow down the attacker. The moment they realiz
 6: **Recommendations**<br />
 Although outside the scope of the scenario, I'd like to offer permenant solutions that could be implemented to mitigate further DoS attacks in the future. - MITRE ATT&CK recommends filtering upstream network traffic by utilizing Content Delivery Networks (CDN). CDN's can block source addresses, block targeted ports, and block the protocols used for transport.
 - MITRE ATT&CK also recommends using SYN Cookies to prevent SYN Flood Attacks. SYN Cookies slightly alters the way a system handles TCP handshakes. The host encodes essential information (client's initial sequence number, a secret key, and a timestamp). The server will not use resources on SYN requests until the final ACK packet is received and the server has verified that the SYN cookie is legitimate.<br />
+
 ![Attack Incident Report](../../assets/img/network/attack/2.png)
 
 **Reference Used**: [MITRE ATT&CK: Endpoint Denial of Service](https://attack.mitre.org/techniques/T1499/)
