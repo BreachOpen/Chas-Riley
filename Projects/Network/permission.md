@@ -20,38 +20,38 @@ You are a security professional at a large organization. You mainly work with th
 ## Tasks Given
 1: **Check file and directory details**<br />
 - Navigate to the projects directory.
-- List the contents and permissions of the projects directory.<br /><br />
+- List the contents and permissions of the projects directory.<br />
 
 ![Directory Details](../../assets/img/network/permission/1.png)
 
-- Check whether any hidden files exist in the projects directory.<br /><br />
+- Check whether any hidden files exist in the projects directory.<br />
 
 ![Hidden Files](../../assets/img/network/permission/2.png)
 
 
 2: **Change file permissions**<br />
 - Check whether any files in the projects directory have write permissions for the owner type of other.<br />
-- Change the permissions of the file identified in the previous step so that the owner type of other doesn’t have write permissions.<br /><br />
+- Change the permissions of the file identified in the previous step so that the owner type of other doesn’t have write permissions.<br />
 
 ![project_k.txt](../../assets/img/network/permission/3.png)
 
 
 - The file project_m.txt is a restricted file and should not be readable or writable by the group or other; only the user should have these permissions on this file. List the contents and permissions of the current directory and check if the group has read or write permissions.<br />
-- Use the chmod command to change permissions of the project_m.txt file so that the group doesn’t have read or write permissions.<br /><br />
+- Use the chmod command to change permissions of the project_m.txt file so that the group doesn’t have read or write permissions.<br />
 
 ![project_m.txt](../../assets/img/network/permission/4.png)
 
 
 3: **Change file permissions on a hidden file**<br />
 - Check the permissions of the hidden file .project_x.txt and answer the question that follows.<br />
-- Change the permissions of the file .project_x.txt so that both the user and the group can read, but not write to, the file.<br /><br />
+- Change the permissions of the file .project_x.txt so that both the user and the group can read, but not write to, the file.<br />
 
  ![.project_x.txt](../../assets/img/network/permission/5.png)
 
 
 4: **Change directory permissions**<br />
 - Check the permissions of the drafts directory and answer the following question.<br />
-- Remove the execute permission for the group from the drafts directory.<br /><br />
+- Remove the execute permission for the group from the drafts directory.<br />
 
 ![drafts directory](../../assets/img/network/permission/6.png)
 
