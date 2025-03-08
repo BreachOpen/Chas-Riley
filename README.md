@@ -55,7 +55,7 @@ I chose the cybersecurity field due to my growth-focused mindset and a passion f
 
 ## Network Security and Architecture<br />
 - [Applying OS Hardening Techniques](Projects/Network/harden.md)
-- [Managing Authorization/File permissions in Linux](Projects/Network/permission.md)
+- [Managing Authorization/File Permissions in Linux](Projects/Network/permission.md)
 - [Incident Report Analysis using NIST Framework](Projects/Network/NIST.html)
 - [Home Network Setup](Projects/Network/home-network.md) *IN PROGRESS
 - [Small Business Network Diagram](Projects/Network/diagram.md)
