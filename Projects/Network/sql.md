@@ -16,10 +16,9 @@
 # SQL Failed Login Attempts Investigation
 
 ## Scenario
-In this scenario, you need to obtain specific information about employees, their machines, and the departments they belong to from the database.<br />
-Your team needs data to investigate potential security issues and to update computers.<br />
+You are a security professional at a large organization. Part of your job is to investigate security issues to help keep the system secure. You recently discovered some potential security issues that involve login attempts and employee machines. In this scenario, you need to obtain specific information about employees, their machines, and the departments they belong to from the database. Your team needs data to investigate potential security issues and to update computers.<br />
 You are responsible for filtering the required information from the database.<br /><br />
-Here’s how you’ll do this task:
+Here are the assigned tasks:
 - First, you’ll retrieve all failed login attempts after business hours.
 - Second, you’ll retrieve all login attempts that occurred on specific dates.
 - Third, you’ll retrieve logins that didn't originate in Mexico.
@@ -76,7 +75,7 @@ My Answer: 144<br /><br />
 ![Mex Part 2](../../assets/img/network/sql/6.png)<br /><br />
 
 **Task 4. Retrieve employees in Marketing**<br />
-Your team is updating employee machines, and you need to obtain the information about employees in the 'Marketing' department who are located in all offices in the East building (such as 'East-170' or 'East-320').<br /><br />
+Your team wants to perform security updates on specific employee machines in the Marketing department offices, which are all located in the East building (such as 'East-170' or 'East-320').<br /><br />
 
 To see which categories (foreign key tables) were located within the database, I needed to view all data listed in the "employees" key.<br /><br />
 
