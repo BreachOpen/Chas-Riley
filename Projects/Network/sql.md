@@ -28,14 +28,14 @@ Here’s how you’ll do this task:
 - Finally, you’ll obtain information about employees who are not in the Information Technology department.<br /><br />
 
 ## Tasks
-**Task 1. Retrieve after hours failed login attempts**<br />
-Your team is investigating failed login attempts that were made after business hours. You want to retrieve this information from the login activity. You’ll identify all unsuccessful attempts after 18:00.<br /><br />
-
 First, I needed to log into the organization's SQL database.<br /><br />
 Command I used: <br />
 sudo mysql organization<br /><br />
 
 ![SQL Login](../../assets/img/network/sql/1.png)<br /><br />
+
+**Task 1. Retrieve after hours failed login attempts**<br />
+Your team is investigating failed login attempts that were made after business hours. You want to retrieve this information from the login activity. You’ll identify all unsuccessful attempts after 18:00.<br /><br />
 
 Command I used: <br />
 SELECT *<br />
