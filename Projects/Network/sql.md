@@ -62,7 +62,7 @@ My Answer: 75<br /><br />
 ![Login Date Part 2](../../assets/img/network/sql/4.png)<br /><br />
 
 **Task 3. Retrieve login attempts outside of Mexico**<br />
-Now, your team is investigating logins that did not originate in Mexico, and you need to find this information. Note that the country field includes entries with 'MEX' and 'MEXICO'. You should use the NOT and LIKE operators and the matching pattern 'MEX%'.<br /><br />
+Now, your team is investigating logins that did not originate in Mexico, and you need to find this information. <br />*Note that the country field includes entries with 'MEX' and 'MEXICO'. You should use the NOT and LIKE operators and the matching pattern 'MEX%'.<br /><br />
 
 Command I used: <br />
 SELECT * <br />
@@ -78,10 +78,11 @@ My Answer: 144<br /><br />
 **Task 4. Retrieve employees in Marketing**<br />
 Your team is updating employee machines, and you need to obtain the information about employees in the 'Marketing' department who are located in all offices in the East building (such as 'East-170' or 'East-320').<br /><br />
 
+To see which categories (foreign key tables) were located within the database, I needed to view all data listed in the "employees" key.<br /><br />
+
 Command I used: <br />
 SELECT * <br />
 FROM employees;<br />
-Performed so I could see which foreign key categories were located within the database.<br /><br />
 
 ![Database Categories](../../assets/img/network/sql/7.png)<br /><br />
 
@@ -91,7 +92,7 @@ My Answer: elarson<br /><br />
 ![Marketing Dept](../../assets/img/network/sql/8.png)<br /><br />
 
 **Task 5. Retrieve employees in Finance or Sales**<br />
-Now, your team needs to perform a different update to the computers of all employees in the Finance or the Sales department, and you need to locate information on these employees.
+Now, your team needs to perform a different update to the computers of all employees in the 'Finance' or the 'Sales' department, and you need to locate information on these employees.
 <br /><br />
 
 Command I used: <br />
@@ -105,7 +106,7 @@ My Answer: lrodriqu<br /><br />
 ![1st Employee Listed](../../assets/img/network/sql/9.png)<br /><br />
 
 **Task 6. Retrieve all employees not in IT**<br />
-Your team needs to make one more update. This update was already made to employee computers in the Information Technology department. The team needs information about employees who are not in that department. You should use the NOT operator to identify these employees.<br /><br />
+Your team needs to make one more update. This update was already made to employee computers in the 'Information Technology' department. The team needs information about employees who are not in that department. You should use the NOT operator to identify these employees.<br /><br />
 Command I used: <br />
 SELECT * <br />
 FROM employees<br />
@@ -116,5 +117,4 @@ My Answer: 161<br /><br />
 
 ![Full List Part 1](../../assets/img/network/sql/10.png)<br />
 ![Full List Part 2](../../assets/img/network/sql/11.png)<br /><br />
-
 --- 
