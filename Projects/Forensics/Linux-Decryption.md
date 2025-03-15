@@ -26,7 +26,7 @@ ls<br />
 cat README.txt<br />
 <br /><br />
 
-![Locate File](../../assets/img/forensics/Linux-Decryption/1.png)<br /><br />
+![Locate File](../../assets/img/forensics/Linux-Decrypt/1.png)<br /><br />
 
 **Task 2. Identify the Encrypted File**<br />
 
@@ -37,7 +37,7 @@ cat .leftShift3<br />
 cat .leftShift3 | tr "d-za-cD-ZA-C" "a-zA-Z"<br />
 cd ~<br />
 
-![](../../assets/img/forensics/Linux-Decryption/2.png)<br /><br />
+![](../../assets/img/forensics/Linux-Decrypt/2.png)<br /><br />
 
 **Command Breakdown**<br />
 I feel that the scenario simulation skipped over some key information that would have been helpful for the user. The Caesar Cipher was one of the first recorded cryptographic tools used to hide (encrypt) and reveal (decrypt) messages during that time. The process was very simple and involved taking a letter and changing that letter a specified number of spaces to the left. For example, A:X, B:Y, C:Z, D:A, E:B, F:C, etc.<br />
@@ -45,9 +45,9 @@ This scenario gives the user the exact command line needed and even offers hints
 If ".leftShift3" was not the hidden file name, dCode would still have been able to see which caesar encryption technique was used since the online tool will run the encrypted text through many decryption formulas and return the most probable outcomes.<br />
 <br />
 
-![CAESAR CIPHER DECODER](../../assets/img/forensics/Linux-Decryption/3.png)<br /><br />
+![CAESAR CIPHER DECODER](../../assets/img/forensics/Linux-Decrypt/3.png)<br /><br />
 
-![CAESAR CIPHER DESCRIPTION](../../assets/img/forensics/Linux-Decryption/4.png)<br /><br />
+![CAESAR CIPHER DESCRIPTION](../../assets/img/forensics/Linux-Decrypt/4.png)<br /><br />
 
 **Task 3. Decrypt the File**<br />
 Commands I used: <br />
@@ -55,7 +55,7 @@ openssl aes-256-cbc -pbkdf2 -a -d -in Q1.encrypted -out Q1.recovered -k ettubrut
 ls<br />
 cat Q1.recovered<br />
 
-![File Decrypted](../../assets/img/forensics/Linux-Decryption/5.png)<br /><br />
+![File Decrypted](../../assets/img/forensics/Linux-Decrypt/5.png)<br /><br />
 
 **Command Breakdown**<br />
 OpenSSL: A Linux command-line tool that is used a for a few different things. I've only used it for encryption, decryption, and hashing, but it can also be used for creating private keys and certificate creation/inquires.<br />  
