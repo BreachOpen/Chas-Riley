@@ -6,10 +6,9 @@
 }
 
 .wrapper {
-    display: flex;
-    gap: 800px; /* Reduce the gap between the sidebar and main body */
+    width: 800px;
+    margin: 0 auto;
 }
-
 
 body {
     font-family: 'Open Sans', sans-serif !important;
