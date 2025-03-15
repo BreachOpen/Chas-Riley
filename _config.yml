@@ -4,7 +4,6 @@ title: Chas Riley
 description: Cybersecurity Professional
 linkedin_url: https://www.linkedin.com/in/chas-riley/
 
-remote_theme: pages-themes/minimal@v0.2.0
 include:
   - assets/css/custom.css
 
