@@ -110,14 +110,12 @@ li {
 .sidebar .sidebar-header {
     max-width: 200px; /* Adjust the desired width */
     margin: 0 auto; /* Center the header within the sidebar */
-    text-align: center; /* Optional: Center-align text */
 }
 
 /* Style the sidebar footer */
 .sidebar .sidebar-footer {
     max-width: 200px; /* Adjust the desired width */
     margin: 0 auto; /* Center the footer within the sidebar */
-    text-align: center; /* Optional: Center-align text */
 }
 
 aside,
