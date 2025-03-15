@@ -108,12 +108,9 @@ li {
 
 /* Style the sidebar header */
 .sidebar .sidebar-header {
-    max-width: 300px; /* Adjust the desired width */
+    max-width: 200px; /* Adjust the desired width */
     margin: 0 auto; /* Center the header within the sidebar */
-    padding: 10px; /* Add padding for spacing */
     text-align: center; /* Optional: Center-align text */
-    background-color: #333; /* Optional: Add background color */
-    color: #fff; /* Optional: Change text color */
 }
 
 /* Style the sidebar footer */
