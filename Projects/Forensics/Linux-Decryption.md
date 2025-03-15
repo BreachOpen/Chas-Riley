@@ -39,8 +39,10 @@ cd ~<br />
 
 ![](../../assets/img/forensics/Linux-Decryption/2.png)<br /><br />
 
-**Command Breakdown**
-I feel that the scenario simulation skipped over some key information that would have been helpful for the user. The Caesar Cipher was one of the first recorded cryptographic tools used to hide (encrypt) and reveal (decrypt) messages during that time. The process was very simple and involved taking a letter and changing that letter a specified number of spaces to the left. For example, A:X, B:Y, C:Z, D:A, E:B, F:C, etc. This scenario gives the user the exact command line needed and even offers hints such as the "caesar" directory and ".leftShift3" hidden file. Just so I could see the decryption process, I used [dCode](https://www.dcode.fr/caesar-cipher). If ".leftShift3" was not the hidden file name, dCode would still have been able to see which caesar encryption technique was used since the online tool will run the encrypted text through many decryption formulas and return the most probable outcomes.<br />
+**Command Breakdown**<br />
+I feel that the scenario simulation skipped over some key information that would have been helpful for the user. The Caesar Cipher was one of the first recorded cryptographic tools used to hide (encrypt) and reveal (decrypt) messages during that time. The process was very simple and involved taking a letter and changing that letter a specified number of spaces to the left. For example, A:X, B:Y, C:Z, D:A, E:B, F:C, etc.<br />
+This scenario gives the user the exact command line needed and even offers hints such as the "caesar" directory and ".leftShift3" hidden file. Just so I could see the decryption process, I used the online tool [dCode](https://www.dcode.fr/caesar-cipher).<br />
+If ".leftShift3" was not the hidden file name, dCode would still have been able to see which caesar encryption technique was used since the online tool will run the encrypted text through many decryption formulas and return the most probable outcomes.<br />
 <br />
 
 ![CAESAR CIPHER DECODER](../../assets/img/forensics/Linux-Decryption/3.png)<br /><br />
@@ -55,7 +57,7 @@ cat Q1.recovered<br />
 
 ![File Decrypted](../../assets/img/forensics/Linux-Decryption/5.png)<br /><br />
 
-**Command Breakdown**
+**Command Breakdown**<br />
 OpenSSL: A Linux command-line tool that is used a for a few different things. I've only used it for encryption, decryption, and hashing, but it can also be used for creating private keys and certificate creation/inquires.<br />  
 aes-256-cbc: Advanced Encryption Standard (AES)/256-bit key/Cipher Block Chaining (CBC) mode<br />
 -pbkdf2: PBKDF2 or Password-Based Key Derivation Function 2 is a pretty common encryption algorithm that creates encryption keys from passwords through salting and hashing<br />
@@ -67,4 +69,5 @@ aes-256-cbc: Advanced Encryption Standard (AES)/256-bit key/Cipher Block Chainin
 
 **Resource Used**<br />
 [dCode](https://www.dcode.fr/caesar-cipher) - dCode has encryption/decryption tools, converters, calculators, and numerous other tools that I have used for my other learning and university projects. I highly recommend the site.
+
 --- 
