@@ -23,8 +23,7 @@ In this scenario, all of the files in your home directory have been encrypted. Y
 **Task 1. Locate the New File**<br />
 Commands I used: <br />
 ls<br />
-cat README.txt<br />
-<br /><br />
+cat README.txt<br /><br />
 
 ![Locate File](../../assets/img/forensics/Linux-Decrypt/1.png)<br /><br />
 
