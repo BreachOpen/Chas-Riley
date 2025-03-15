@@ -18,7 +18,7 @@ b, strong {
 }
 
 .simple-container {
-    max-width: 1000px;
+    max-width: 1000px; /* Layout width originally 675px */
     margin: 0 auto;
     padding-top: 70px;
     padding-bottom: 20px;
