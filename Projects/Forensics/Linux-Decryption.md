@@ -34,7 +34,7 @@ cd caesar<br />
 ls -a<br />
 cat .leftShift3<br />
 cat .leftShift3 | tr "d-za-cD-ZA-C" "a-zA-Z"<br />
-cd ~<br />
+cd ~<br /><br />
 
 ![](../../assets/img/forensics/Linux-Decrypt/2.png)<br /><br />
 
