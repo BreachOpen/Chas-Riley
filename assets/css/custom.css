@@ -45,6 +45,7 @@ b, strong {
 p, h1, h2, h3, h4, li {
     margin: 0; /* Ensure no extra margins */
     padding: 0; /* Ensure no extra padding */
+    width: 800px;
 }
 
 p {
