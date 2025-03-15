@@ -43,6 +43,7 @@ I chose the cybersecurity field due to my growth-focused mindset and a passion f
 #### Some projects below this point are still in progress
 
 ## Digital Forensics
+- [Linux Decryption](Projects/Forensics/Linux-Decryption.md)
 - [Corporate Network Cybersecurity Breach Investigation](Projects/Forensics/scenario1.md)
 - [Photo Metadata Analysis and Suspect Linkage](Projects/Forensics/scenario2.md)
 - [Investigating Insider Threat through Email Analysis](Projects/Forensics/scenario3.md) *IN PROGRESS
