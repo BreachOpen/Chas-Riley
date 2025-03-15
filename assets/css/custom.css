@@ -109,8 +109,8 @@ li {
 aside,
 [class*="sidebar"],
 [id*="sidebar"] {
-    float: left; /* MODIFIED */
-    width: 300px; /* MODIFIED */
+    float: left; !important; /* MODIFIED */
+    width: 300px; !important; /* MODIFIED */
     max-width: 90%;
     margin: 0 auto;
     border: 1px solid lightgrey;
