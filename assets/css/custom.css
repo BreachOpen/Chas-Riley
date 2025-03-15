@@ -106,20 +106,6 @@ li {
     line-height: 1.5em;
 }
 
-/* Style the sidebar header */
-.sidebar .sidebar-header p {
-    width: auto; /* Let it fit the content naturally */
-    max-width: 200px; /* Adjust the desired width */
-    margin: 0; /* Center the header within the sidebar */
-    padding: 0; /* Avoid extra padding affecting alignment */
-}
-
-/* Style the sidebar footer */
-.sidebar .sidebar-footer {
-    max-width: 200px; /* Adjust the desired width */
-    margin: 0 auto; /* Center the footer within the sidebar */
-}
-
 br {
     display: block;
     line-height: 1.75em; /* Ensure consistent line height for <br /> */
