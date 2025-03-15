@@ -18,7 +18,8 @@ b, strong {
 }
 
 .simple-container {
-    max-width: 1000px; /* Layout width originally 675px */
+    max-width: 1000px; /* Layout width - originally 675px */
+    min-width: 800px;  /* Layout width for readability on smaller screens */
     margin: 0 auto;
     padding-top: 70px;
     padding-bottom: 20px;
