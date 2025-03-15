@@ -118,15 +118,6 @@ li {
     margin: 0 auto; /* Center the footer within the sidebar */
 }
 
-aside,
-[class*="sidebar"],
-[id*="sidebar"] {
-    max-width: 90%;
-    margin: 0 auto;
-    border: 1px solid lightgrey;
-    padding: 5px 15px;
-}
-
 br {
     display: block;
     line-height: 1.75em; /* Ensure consistent line height for <br /> */
