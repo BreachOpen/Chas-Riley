@@ -109,7 +109,7 @@ li {
 aside,
 [class*="sidebar"],
 [id*="sidebar"] {
-    max-width: 30%;
+    max-width: 90%;
     margin: 0 auto;
     border: 1px solid lightgrey;
     padding: 5px 15px;
