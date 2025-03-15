@@ -28,14 +28,14 @@
           </a>
         {% endif %}
 
-        <p style="width: auto;">{{ site.description | default: site.github.project_tagline }}</p>
+        <p style="width: auto; min-width: 270px;">{{ site.description | default: site.github.project_tagline }}</p>
 
         {% if site.github.is_project_page %}
-        <p style="width: auto;"><a href="{{ site.github.repository_url }}" target="_blank">View the Project on GitHub <small>{{ site.github.repository_nwo }}</small></a></p>
+        <p style="width: auto; min-width: 270px;"><a href="{{ site.github.repository_url }}" target="_blank">View the Project on GitHub <small>{{ site.github.repository_nwo }}</small></a></p>
         {% endif %}
 
         {% if site.github.is_user_page %}
-        <p style="width: auto;"><a href="{{ site.linkedin_url }}">View My LinkedIn Profile</a></p>
+        <p style="width: auto; min-width: 270px;"><a href="{{ site.linkedin_url }}">View My LinkedIn Profile</a></p>
         {% endif %}
 
         {% if site.show_downloads %}
@@ -59,11 +59,11 @@
       </section>
       <footer>
         {% if site.github.is_project_page %}
-        <p style="width: auto;">This page is maintained by <a href="{{ site.github.owner_url }}" target="_blank">{{ site.github.owner_name }}</a></p>
-        <p style="width: auto;"><img src="{{ site.second_logo | relative_url }}" alt="Second Logo" style="width: 100px; height: auto;"/></p> <!-- Adding the second logo here -->
+        <p style="width: auto; min-width: 270px;">This page is maintained by <a href="{{ site.github.owner_url }}" target="_blank">{{ site.github.owner_name }}</a></p>
+        <p style="width: auto; min-width: 270px;"><img src="{{ site.second_logo | relative_url }}" alt="Second Logo" style="width: 100px; height: auto;"/></p> <!-- Adding the second logo here -->
         {% endif %}
         
-        <p style="width: auto;"><small>Hosted on GitHub Pages</small></p>
+        <p style="width: auto; min-width: 270px;"><small>Hosted on GitHub Pages</small></p>
       </footer>
     </div>
     <script src="{{ "/assets/js/scale.fix.js" | relative_url }}"></script>
