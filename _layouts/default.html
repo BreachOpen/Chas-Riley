@@ -28,7 +28,7 @@
           </a>
         {% endif %}
 
-        <p class="sidebar-paragraph">{{ site.description | default: site.github.project_tagline }}</p>
+        <p class="sidebar-header">{{ site.description | default: site.github.project_tagline }}</p>
 
         {% if site.github.is_project_page %}
         <p class="view"><a href="{{ site.github.repository_url }}" target="_blank">View the Project on GitHub <small>{{ site.github.repository_nwo }}</small></a></p>
@@ -59,8 +59,8 @@
       </section>
       <footer>
         {% if site.github.is_project_page %}
-        <p class="sidebar-paragraph">This page is maintained by <a href="{{ site.github.owner_url }}" target="_blank">{{ site.github.owner_name }}</a></p>
-        <p class="sidebar-paragraph"><img src="{{ site.second_logo | relative_url }}" alt="Second Logo" style="width: 100px; height: auto;"/></p> <!-- Adding the second logo here -->
+        <p class="sidebar-header">This page is maintained by <a href="{{ site.github.owner_url }}" target="_blank">{{ site.github.owner_name }}</a></p>
+        <p class="sidebar-header"><img src="{{ site.second_logo | relative_url }}" alt="Second Logo" style="width: 100px; height: auto;"/></p> <!-- Adding the second logo here -->
         {% endif %}
         
         <p class="sidebar-paragraph"><small>Hosted on GitHub Pages</small></p>
