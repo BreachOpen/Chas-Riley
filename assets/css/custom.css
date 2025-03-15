@@ -5,6 +5,14 @@
     box-sizing: border-box;
 }
 
+header {
+    max-width: 800px; !important; /* Set the desired width */
+}
+
+footer {
+    max-width: 800px; !important; /* Set the desired width */
+}
+
 body {
     font-family: 'Open Sans', sans-serif !important;
     line-height: 1.75em;
