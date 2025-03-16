@@ -37,9 +37,9 @@ Utilizing the internal Operational Management System, I consolidated numerous id
 
 ---
 ## Performance Evaluation #1
-**Evaluation Date:** 10/06/2023
-**Evaluation Rating:** Exceeds Expectations
-**Manager Evaluation Conducted by:** <br />Back-End Dept Supervisor<br />
+**Evaluation Date:** 10/06/2023<br />
+**Evaluation Rating:** Exceeds Expectations<br />
+**Manager Evaluation Conducted by:** <br />Back-End Dept Manager<br />
 ![1st Review](../assets/img/Review1.png)
 
 ---
@@ -47,5 +47,5 @@ Utilizing the internal Operational Management System, I consolidated numerous id
 ## Performance Evaluation #2
 **Evaluation Date:** 10/30/2024<br />
 **Evaluation Rating:** Exceeds Expectations<br />
-**Manager Evaluation Conducted by:** <br />Back-End Dept Supervisor<br />
+**Manager Evaluation Conducted by:** <br />Back-End Dept Manager<br />
 ![2nd Review](../assets/img/Review2.png)
