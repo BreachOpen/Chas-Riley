@@ -12,14 +12,14 @@
 
 ---
 
-# Vulnerability Assessment Report of a Large Business
+# Vulnerability Assessment Report<br />of a Large Business
 
 ## Scenario
 Due to recent concerns regarding an organization's security posture, they seek an in-depth evaluation of its server infrastructure and network security to identify potential vulnerabilities. The current system comprises robust hardware with a powerful CPU and 128GB of memory, running on the latest version of the Linux operating system. It hosts a MySQL database management system, which serves as the backbone for critical operations. Communication between systems is facilitated using IPv4 addresses, with SSL/TLS encrypted connections ensuring data security.<br />
 The system interacts with other servers on the internal network and employs multiple security layers, including firewalls and Intrusion Detection Systems (IDS). Access controls are in place, but the organization requests a thorough review to ensure that user privileges are properly configured and aligned with best practices. Additionally, they aim to evaluate their network segmentation strategy and assess the feasibility of transitioning to more secure protocols and configurations.<br />
 Given the importance of the database server to daily operations, the organization is particularly concerned about safeguarding it from unauthorized access. Provide three vulnerabilities that will mitigate risks to protect against both minor disruptions and catastrophic breaches.<br /><br />
 
-## Report Breakdown <br /><br />
+## Report Breakdown <br />
 
 **System Description**<br />
 The server hardware consists of a powerful CPU processor and 128GB of memory. It runs on the latest version of Linux operating system and hosts a MySQL database management system. It is configured with a stable network connection using IPv4 addresses and interacts with other servers on the network. Security measures include SSL/TLS encrypted connections.<br /><br />
@@ -38,7 +38,7 @@ Due to the size of the organization and the fact that they are hosting a large d
 
 **Risk Assessment**<br />
 | Threat Source | Threat Event                             | Likelihood | Severity | Risk |
-|---------------|------------------------------------------|------------|----------|------|
+|:---------------|:------------------------------------------|:------------|:----------|:------|
 | Employee      | Misconfiguration of privileges of users | 2          | 2        | 4    |
 | Hacker        | Server access through Protocol Downgrade Attacks | 3          | 3        | 9    |
 | Hacker        | Impersonating legitimate users through IP Spoofing | 3          | 3        | 9    |
