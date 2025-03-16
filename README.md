@@ -55,6 +55,7 @@ I chose the cybersecurity field due to my growth-focused mindset and a passion f
 - [Digital Profiling 3: John](Projects/Recon/john.md) *IN PROGRESS
 
 ## Network Security and Architecture<br />
+- [Vulnerability Assessment Report of a Large Business](Projects/Network/var.md)
 - [SQL Failed Login Attempts Investigation](Projects/Network/sql.md)
 - [Applying OS Hardening Techniques](Projects/Network/harden.md)
 - [Managing Authorization/File Permissions in Linux](Projects/Network/permission.md)
