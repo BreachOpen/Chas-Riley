@@ -36,7 +36,7 @@ The organization’s database server is the most critical component in daily ope
 My Thought Process:<br />
 Due to the size of the organization and the fact that they are hosting a large database server, it's safe to assume that a bad actor is more likely to target them over smaller buisnesses. Whether the goal is to gather intelligence to assist in a follow up attack elsewhere or within the organization itself, mitigating a potential cyber attack should be the organization's top priority.<br /><br />
 
-**Risk Assessment**<br /><br />
+**Risk Assessment**<br />
 
 | Threat Source | Threat Event                             | Likelihood | Severity | Risk |
 |---------------|------------------------------------------|------------|----------|------|
@@ -45,7 +45,7 @@ Due to the size of the organization and the fact that they are hosting a large d
 | Hacker        | Impersonating legitimate users through IP Spoofing | 3          | 3        | 9    |
 
 
-<br /><br />
+<br />
 My Thought Process:<br />
 I placed the vulnerabilities in order of precedence. The most severe damage will come from lack of correct configuration within the internal system's Linux operating system. Once an attacker has the privileges of an admin/root user, anything and everything can be enacted in the system. This vulnerability is also the easiest risk to reduce. The following two vulnerabilities regard the security controls implemented to keep unauthorized users out of the system. They will also be the most challenging to harden.<br /><br />
 
