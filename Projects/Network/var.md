@@ -36,12 +36,14 @@ The organization’s database server is the most critical component in daily ope
 My Thought Process:<br />
 Due to the size of the organization and the fact that they are hosting a large database server, it's safe to assume that a bad actor is more likely to target them over smaller buisnesses. Whether the goal is to gather intelligence to assist in a follow up attack elsewhere or within the organization itself, mitigating a potential cyber attack should be the organization's top priority.<br /><br />
 
-**Risk Assessment**<br />
+**Risk Assessment**<br /><br />
+
 | Threat Source | Threat Event                             | Likelihood | Severity | Risk |
-|:---------------|:------------------------------------------|:------------|:----------|:------|
+|---------------|------------------------------------------|------------|----------|------|
 | Employee      | Misconfiguration of privileges of users | 2          | 2        | 4    |
 | Hacker        | Server access through Protocol Downgrade Attacks | 3          | 3        | 9    |
 | Hacker        | Impersonating legitimate users through IP Spoofing | 3          | 3        | 9    |
+
 
 <br /><br />
 My Thought Process:<br />
