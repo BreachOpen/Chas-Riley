@@ -111,6 +111,11 @@ li {
     line-height: 1.5em;
 }
 
+th {
+    color: #aaa; /* Sets the header text color */
+    font-weight: bold; /* Ensures headers remain visually distinct */
+}
+
 br {
     display: block;
     line-height: 1.75em; /* Ensure consistent line height for <br /> */
